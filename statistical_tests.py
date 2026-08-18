@@ -13,7 +13,7 @@ RES = Path("./results")
 
 base = [json.loads(l) for l in open(RES / "benchmark_base_test.jsonl")]
 ft   = [json.loads(l) for l in open(RES / "benchmark_finetuned_test.jsonl")]
-hyb  = [json.loads(l) for l in open(RES / "benchmark_hybrid_test.jsonl")]
+hyb  = [json.loads(l) for l in open(RES / "benchmark_hybrid_boxcox_test.jsonl")]
 
 n = 109
 
