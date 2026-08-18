@@ -1,0 +1,83 @@
+[
+  {
+    "model": "Llama 3.1 8B Instruct 4-bit",
+    "config": "zeroshot",
+    "mae_pct": 62.74537964703737,
+    "p15": 22.93577981651376,
+    "p20": 32.11009174311927,
+    "nr_rate": 1.834862385321101,
+    "n": 109
+  },
+  {
+    "model": "Llama 3.1 8B Instruct 4-bit",
+    "config": "fewshot",
+    "mae_pct": 30.725183174296223,
+    "p15": 44.95412844036697,
+    "p20": 57.798165137614674,
+    "nr_rate": 0.0,
+    "n": 109
+  },
+  {
+    "model": "Llama 3.1 8B Instruct 4-bit",
+    "config": "fewshot_xgb",
+    "mae_pct": 31.677750431381867,
+    "p15": 42.201834862385326,
+    "p20": 55.04587155963303,
+    "nr_rate": 0.0,
+    "n": 109
+  },
+  {
+    "model": "Mistral 7B Instruct v0.3 4-bit",
+    "config": "zeroshot",
+    "mae_pct": 121.22440919514578,
+    "p15": 19.26605504587156,
+    "p20": 27.522935779816514,
+    "nr_rate": 16.51376146788991,
+    "n": 109
+  },
+  {
+    "model": "Mistral 7B Instruct v0.3 4-bit",
+    "config": "fewshot",
+    "mae_pct": 35.11954958435818,
+    "p15": 45.87155963302752,
+    "p20": 59.63302752293578,
+    "nr_rate": 0.0,
+    "n": 109
+  },
+  {
+    "model": "Mistral 7B Instruct v0.3 4-bit",
+    "config": "fewshot_xgb",
+    "mae_pct": 34.65449941616123,
+    "p15": 44.95412844036697,
+    "p20": 54.12844036697248,
+    "nr_rate": 0.0,
+    "n": 109
+  },
+  {
+    "model": "Salamandra 7B 4-bit",
+    "config": "zeroshot",
+    "mae_pct": 100.0,
+    "p15": 0.0,
+    "p20": 0.0,
+    "nr_rate": 100.0,
+    "n": 109
+  },
+  {
+    "model": "Salamandra 7B 4-bit",
+    "config": "fewshot",
+    "mae_pct": 100.0,
+    "p15": 0.0,
+    "p20": 0.0,
+    "nr_rate": 100.0,
+    "n": 109
+  },
+  {
+    "model": "Salamandra 7B 4-bit",
+    "config": "fewshot_xgb",
+    "mae_pct": 45.64821196664949,
+    "p15": 35.77981651376147,
+    "p20": 44.03669724770643,
+    "nr_rate": 23.853211009174313,
+    "n": 109
+  }
+]

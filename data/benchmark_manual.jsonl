@@ -1,0 +1,100 @@
+{"id": "manual_0001", "tipo": "comparacion_zona", "pregunta": "¿Es más caro rentar en Valle Oriente o en Contry, Monterrey?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 883}
+{"id": "manual_0002", "tipo": "comparacion_zona", "pregunta": "¿Cuál zona es más barata para rentar, Centro o Tecnológico en Monterrey?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 833}
+{"id": "manual_0003", "tipo": "comparacion_zona", "pregunta": "¿Vale la pena pagar más por un depa en Santa Bárbara vs Roma?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 816}
+{"id": "manual_0004", "tipo": "comparacion_zona", "pregunta": "¿Cuánto más caro es Valle Oriente comparado con Chepevera?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 78}
+{"id": "manual_0005", "tipo": "comparacion_zona", "pregunta": "¿Cuál es la zona más cara para rentar en Monterrey?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 310}
+{"id": "manual_0006", "tipo": "comparacion_zona", "pregunta": "¿Cuál es la zona más accesible para rentar en Monterrey?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 370}
+{"id": "manual_0007", "tipo": "comparacion_zona", "pregunta": "¿Es similar el precio en Obispado y Tecnológico?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 136}
+{"id": "manual_0008", "tipo": "comparacion_zona", "pregunta": "¿Cumbres o Valle Oriente, cuál es más exclusivo?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 236}
+{"id": "manual_0009", "tipo": "comparacion_zona", "pregunta": "¿Cuánto cuesta rentar en San Pedro Garza García vs Monterrey Centro?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 4}
+{"id": "manual_0010", "tipo": "comparacion_zona", "pregunta": "¿Qué zona ha subido más de precio en Monterrey en los últimos meses?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 268}
+{"id": "manual_0011", "tipo": "comparacion_zona", "pregunta": "¿Por qué Valle Oriente es más caro que otras zonas?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 250}
+{"id": "manual_0012", "tipo": "comparacion_zona", "pregunta": "¿Hay diferencia de precio entre Cumbres y Cumbres Elite?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 242}
+{"id": "manual_0013", "tipo": "comparacion_zona", "pregunta": "¿Qué municipio tiene las rentas más altas en el área metropolitana?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 673}
+{"id": "manual_0014", "tipo": "comparacion_zona", "pregunta": "¿Es caro rentar cerca del Tecnológico de Monterrey?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 703}
+{"id": "manual_0015", "tipo": "comparacion_zona", "pregunta": "¿Cuál zona tiene mejor relación precio-calidad para rentar?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 829}
+{"id": "manual_0016", "tipo": "comparacion_zona", "pregunta": "¿Cuánto cuesta un depa de lujo en Valle Oriente vs uno estándar en Roma?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 411}
+{"id": "manual_0017", "tipo": "comparacion_zona", "pregunta": "¿Por qué es tan cara la renta en Santa Bárbara?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 528}
+{"id": "manual_0018", "tipo": "comparacion_zona", "pregunta": "¿Rentar en Guadalupe es más barato que en Monterrey?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 192}
+{"id": "manual_0019", "tipo": "comparacion_zona", "pregunta": "¿Cuál zona tiene más oferta de departamentos amueblados?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 124}
+{"id": "manual_0020", "tipo": "comparacion_zona", "pregunta": "¿Es buena inversión comprar para rentar en Obispado?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 707}
+{"id": "manual_0021", "tipo": "comparacion_zona", "pregunta": "¿Cómo afecta estar cerca del Estadio BBVA al precio de renta?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 419}
+{"id": "manual_0022", "tipo": "comparacion_zona", "pregunta": "¿El precio de renta en Monterrey es alto comparado con Guadalajara?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 894}
+{"id": "manual_0023", "tipo": "comparacion_zona", "pregunta": "¿Cuáles colonias están subiendo de precio en Monterrey?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 730}
+{"id": "manual_0024", "tipo": "comparacion_zona", "pregunta": "¿Vale más un depa en piso alto en Valle Oriente?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 754}
+{"id": "manual_0025", "tipo": "comparacion_zona", "pregunta": "¿Cuánto cuesta rentar una casa vs departamento en Cumbres?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 327}
+{"id": "manual_0026", "tipo": "efecto_amenidad", "pregunta": "¿Cuánto sube el precio de renta si el departamento tiene alberca?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 518}
+{"id": "manual_0027", "tipo": "efecto_amenidad", "pregunta": "¿Vale la pena pagar más por un depa amueblado en Monterrey?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 658}
+{"id": "manual_0028", "tipo": "efecto_amenidad", "pregunta": "¿Cuánto más caro es un departamento de lujo vs uno estándar?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 479}
+{"id": "manual_0029", "tipo": "efecto_amenidad", "pregunta": "¿El gimnasio en el edificio sube mucho el precio de renta?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 265}
+{"id": "manual_0030", "tipo": "efecto_amenidad", "pregunta": "¿Cuánto incrementa el precio tener estacionamiento incluido?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 328}
+{"id": "manual_0031", "tipo": "efecto_amenidad", "pregunta": "¿Un departamento nuevo es mucho más caro que uno antiguo?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 380}
+{"id": "manual_0032", "tipo": "efecto_amenidad", "pregunta": "¿Cuánto más cuesta un depa con rooftop en Monterrey?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 678}
+{"id": "manual_0033", "tipo": "efecto_amenidad", "pregunta": "¿El elevador en el edificio afecta el precio de renta?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 905}
+{"id": "manual_0034", "tipo": "efecto_amenidad", "pregunta": "¿Cuánto sube el precio si acepta mascotas?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 811}
+{"id": "manual_0035", "tipo": "efecto_amenidad", "pregunta": "¿Un departamento con terraza cuánto más cuesta?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 590}
+{"id": "manual_0036", "tipo": "efecto_amenidad", "pregunta": "¿Cuánto sube tener seguridad 24 horas?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 349}
+{"id": "manual_0037", "tipo": "efecto_amenidad", "pregunta": "¿Vale más un departamento amueblado o sin amueblar en Valle Oriente?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 700}
+{"id": "manual_0038", "tipo": "efecto_amenidad", "pregunta": "¿Cuántas amenidades necesita un depa para ser considerado de lujo?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 777}
+{"id": "manual_0039", "tipo": "efecto_amenidad", "pregunta": "¿El cuarto de servicio sube el precio de renta?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 490}
+{"id": "manual_0040", "tipo": "efecto_amenidad", "pregunta": "¿Cuánto más caro es un penthouse vs un departamento normal?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 807}
+{"id": "manual_0041", "tipo": "efecto_amenidad", "pregunta": "¿La alberca es la amenidad que más sube el precio en Monterrey?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 322}
+{"id": "manual_0042", "tipo": "efecto_amenidad", "pregunta": "¿Cuánto afecta el número de estacionamientos al precio?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 764}
+{"id": "manual_0043", "tipo": "efecto_amenidad", "pregunta": "¿Un depa con jardín privado cuánto más vale?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 679}
+{"id": "manual_0044", "tipo": "efecto_amenidad", "pregunta": "¿Cuánto sube el precio si hay área de coworking en el edificio?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 320}
+{"id": "manual_0045", "tipo": "efecto_amenidad", "pregunta": "¿El lobby de lujo en el edificio afecta el precio de renta?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 635}
+{"id": "manual_0046", "tipo": "efecto_amenidad", "pregunta": "¿Cuánto más caro es un depa con cisterna propia?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 710}
+{"id": "manual_0047", "tipo": "efecto_amenidad", "pregunta": "¿El calentador solar sube el precio de renta?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 146}
+{"id": "manual_0048", "tipo": "efecto_amenidad", "pregunta": "¿Cuánto más vale un depa en construcción nueva vs 10 años de antigüedad?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 715}
+{"id": "manual_0049", "tipo": "efecto_amenidad", "pregunta": "¿Las vistas panorámicas afectan el precio en Valle Oriente?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 853}
+{"id": "manual_0050", "tipo": "efecto_amenidad", "pregunta": "¿Cuánto más cuesta un depa con sala de juntas en el edificio?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 253}
+{"id": "manual_0051", "tipo": "robustez", "pregunta": "Me ofrecen un departamento de 3 recámaras en Valle Oriente por $3,000/mes. ¿Es normal?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 427}
+{"id": "manual_0052", "tipo": "robustez", "pregunta": "¿Es posible rentar un depa de lujo en Santa Bárbara por $5,000/mes?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 835}
+{"id": "manual_0053", "tipo": "robustez", "pregunta": "Me dicen que un depa en Contry cuesta $200,000/mes de renta. ¿Es real?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 296}
+{"id": "manual_0054", "tipo": "robustez", "pregunta": "¿Puede costar $500/mes rentar en San Pedro Garza García?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 832}
+{"id": "manual_0055", "tipo": "robustez", "pregunta": "Un depa de 150 m² en Valle Oriente por $8,000/mes, ¿es una ganga o algo raro?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 462}
+{"id": "manual_0056", "tipo": "robustez", "pregunta": "¿Es normal pagar $100,000/mes por un departamento en Monterrey?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 477}
+{"id": "manual_0057", "tipo": "robustez", "pregunta": "Me ofrecen una casa en Cumbres Elite por $2,000/mes. ¿Qué tan sospechoso es?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 212}
+{"id": "manual_0058", "tipo": "robustez", "pregunta": "¿Cuánto debería desconfiar de un depa en Valle Oriente a $6,000/mes?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 368}
+{"id": "manual_0059", "tipo": "robustez", "pregunta": "Un local comercial en Obispado por $500/mes, ¿es posible?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 32}
+{"id": "manual_0060", "tipo": "robustez", "pregunta": "¿Es real una renta de $1,000/mes para una oficina en el Tecnológico?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 818}
+{"id": "manual_0061", "tipo": "tendencia", "pregunta": "¿Cómo ha cambiado el precio de renta en Monterrey en 2026?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 273}
+{"id": "manual_0062", "tipo": "tendencia", "pregunta": "¿El Mundial 2026 va a subir los precios de renta en Monterrey?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 812}
+{"id": "manual_0063", "tipo": "tendencia", "pregunta": "¿Cuáles zonas de Monterrey van a subir de precio en los próximos meses?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 500}
+{"id": "manual_0064", "tipo": "tendencia", "pregunta": "¿Es buen momento para rentar o comprar en Monterrey?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 393}
+{"id": "manual_0065", "tipo": "tendencia", "pregunta": "¿Por qué han subido las rentas en Monterrey?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 30}
+{"id": "manual_0066", "tipo": "tendencia", "pregunta": "¿Qué va a pasar con los precios después del Mundial 2026?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 229}
+{"id": "manual_0067", "tipo": "tendencia", "pregunta": "¿Monterrey es más caro que Guadalajara para rentar?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 463}
+{"id": "manual_0068", "tipo": "tendencia", "pregunta": "¿Cuánto ha subido el precio de renta en Valle Oriente en el último año?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 850}
+{"id": "manual_0069", "tipo": "tendencia", "pregunta": "¿Hay sobreoferta de departamentos en Monterrey ahorita?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 627}
+{"id": "manual_0070", "tipo": "tendencia", "pregunta": "¿Cuáles son los mejores meses para buscar depa en Monterrey?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 522}
+{"id": "manual_0071", "tipo": "tendencia", "pregunta": "¿El tipo de cambio afecta los precios de renta en zonas de lujo?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 283}
+{"id": "manual_0072", "tipo": "zona_no_vista", "pregunta": "¿Cuánto cuesta rentar un departamento de 2 recámaras en Anáhuac, Monterrey?", "precio_real": null, "colonia": "Anáhuac", "split": "manual", "id_seq": 524}
+{"id": "manual_0073", "tipo": "zona_no_vista", "pregunta": "¿Cuánto cuesta rentar un departamento de 2 recámaras en Mitras Norte, Monterrey?", "precio_real": null, "colonia": "Mitras Norte", "split": "manual", "id_seq": 127}
+{"id": "manual_0074", "tipo": "zona_no_vista", "pregunta": "¿Cuánto cuesta rentar un departamento de 2 recámaras en Fierro, Monterrey?", "precio_real": null, "colonia": "Fierro", "split": "manual", "id_seq": 908}
+{"id": "manual_0075", "tipo": "zona_no_vista", "pregunta": "¿Cuánto cuesta rentar un departamento de 2 recámaras en La Independencia, Monterrey?", "precio_real": null, "colonia": "La Independencia", "split": "manual", "id_seq": 226}
+{"id": "manual_0076", "tipo": "zona_no_vista", "pregunta": "¿Cuánto cuesta rentar un departamento de 2 recámaras en Buenos Aires, Monterrey?", "precio_real": null, "colonia": "Buenos Aires", "split": "manual", "id_seq": 25}
+{"id": "manual_0077", "tipo": "zona_no_vista", "pregunta": "¿Cuánto cuesta rentar un departamento de 2 recámaras en Garza Nieto, Monterrey?", "precio_real": null, "colonia": "Garza Nieto", "split": "manual", "id_seq": 459}
+{"id": "manual_0078", "tipo": "zona_no_vista", "pregunta": "¿Cuánto cuesta rentar un departamento de 2 recámaras en Talleres, Monterrey?", "precio_real": null, "colonia": "Talleres", "split": "manual", "id_seq": 341}
+{"id": "manual_0079", "tipo": "zona_no_vista", "pregunta": "¿Cuánto cuesta rentar un departamento de 2 recámaras en La Purísima, Monterrey?", "precio_real": null, "colonia": "La Purísima", "split": "manual", "id_seq": 438}
+{"id": "manual_0080", "tipo": "zona_no_vista", "pregunta": "¿Cuánto cuesta rentar un departamento de 2 recámaras en Industrial, Monterrey?", "precio_real": null, "colonia": "Industrial", "split": "manual", "id_seq": 392}
+{"id": "manual_0081", "tipo": "zona_no_vista", "pregunta": "¿Cuánto cuesta rentar un departamento de 2 recámaras en Las Puentes, Monterrey?", "precio_real": null, "colonia": "Las Puentes", "split": "manual", "id_seq": 151}
+{"id": "manual_0082", "tipo": "zona_no_vista", "pregunta": "¿Cuánto cuesta rentar un departamento de 2 recámaras en Villa de San Nicolás, Monterrey?", "precio_real": null, "colonia": "Villa de San Nicolás", "split": "manual", "id_seq": 121}
+{"id": "manual_0083", "tipo": "zona_no_vista", "pregunta": "¿Cuánto cuesta rentar un departamento de 2 recámaras en Cumbres 5to Sector, Monterrey?", "precio_real": null, "colonia": "Cumbres 5to Sector", "split": "manual", "id_seq": 806}
+{"id": "manual_0084", "tipo": "zona_no_vista", "pregunta": "¿Cuánto cuesta rentar un departamento de 2 recámaras en Las Torres, Monterrey?", "precio_real": null, "colonia": "Las Torres", "split": "manual", "id_seq": 107}
+{"id": "manual_0085", "tipo": "zona_no_vista", "pregunta": "¿Cuánto cuesta rentar un departamento de 2 recámaras en Jardines de San Nicolás, Monterrey?", "precio_real": null, "colonia": "Jardines de San Nicolás", "split": "manual", "id_seq": 68}
+{"id": "manual_0086", "tipo": "zona_no_vista", "pregunta": "¿Cuánto cuesta rentar un departamento de 2 recámaras en El Mirador, Monterrey?", "precio_real": null, "colonia": "El Mirador", "split": "manual", "id_seq": 822}
+{"id": "manual_0087", "tipo": "zona_no_vista", "pregunta": "¿Cuánto cuesta rentar un departamento de 2 recámaras en Colinas de San Jerónimo, Monterrey?", "precio_real": null, "colonia": "Colinas de San Jerónimo", "split": "manual", "id_seq": 651}
+{"id": "manual_0088", "tipo": "zona_no_vista", "pregunta": "¿Cuánto cuesta rentar un departamento de 2 recámaras en Las Cumbres, Monterrey?", "precio_real": null, "colonia": "Las Cumbres", "split": "manual", "id_seq": 206}
+{"id": "manual_0089", "tipo": "zona_no_vista", "pregunta": "¿Cuánto cuesta rentar un departamento de 2 recámaras en Vistas del Valle, Monterrey?", "precio_real": null, "colonia": "Vistas del Valle", "split": "manual", "id_seq": 413}
+{"id": "manual_0090", "tipo": "zona_no_vista", "pregunta": "¿Cuánto cuesta rentar un departamento de 2 recámaras en Residencial Anáhuac, Monterrey?", "precio_real": null, "colonia": "Residencial Anáhuac", "split": "manual", "id_seq": 431}
+{"id": "manual_0091", "tipo": "zona_no_vista", "pregunta": "¿Cuánto cuesta rentar un departamento de 2 recámaras en Pinos, Monterrey?", "precio_real": null, "colonia": "Pinos", "split": "manual", "id_seq": 781}
+{"id": "manual_0092", "tipo": "precio_m2", "pregunta": "¿Cuánto cuesta el m² de renta en Valle Oriente?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 580}
+{"id": "manual_0093", "tipo": "precio_m2", "pregunta": "¿Cuál es el precio por m² en Contry?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 768}
+{"id": "manual_0094", "tipo": "precio_m2", "pregunta": "¿Cuánto es el precio por m² en San Pedro Garza García?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 752}
+{"id": "manual_0095", "tipo": "precio_m2", "pregunta": "¿Qué precio por m² es razonable en Obispado?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 402}
+{"id": "manual_0096", "tipo": "precio_m2", "pregunta": "¿El precio por m² en oficinas es mayor que en departamentos?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 544}
+{"id": "manual_0097", "tipo": "precio_m2", "pregunta": "¿Cuánto vale el m² en una bodega industrial en Monterrey?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 706}
+{"id": "manual_0098", "tipo": "precio_m2", "pregunta": "¿El precio por m² en locales comerciales es mayor que en departamentos?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 133}
+{"id": "manual_0099", "tipo": "precio_m2", "pregunta": "¿Cuánto cuesta el m² de renta en una zona media de Monterrey?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 449}
+{"id": "manual_0100", "tipo": "precio_m2", "pregunta": "¿Cuál es el precio por m² más alto registrado en Monterrey?", "precio_real": null, "colonia": null, "split": "manual", "id_seq": 746}

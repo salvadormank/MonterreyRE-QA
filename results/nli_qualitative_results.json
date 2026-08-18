@@ -1,0 +1,26 @@
+{
+  "base": {
+    "overall": 63.0,
+    "by_type": {
+      "comparacion_zona": 88.0,
+      "zona_no_vista": 100.0,
+      "tendencia": 63.6,
+      "robustez": 50.0,
+      "precio_m2": 100.0,
+      "efecto_amenidad": 0.0
+    },
+    "n": 100
+  },
+  "finetuned": {
+    "overall": 34.0,
+    "by_type": {
+      "comparacion_zona": 92.0,
+      "zona_no_vista": 5.0,
+      "tendencia": 54.5,
+      "robustez": 0.0,
+      "precio_m2": 33.3,
+      "efecto_amenidad": 4.0
+    },
+    "n": 100
+  }
+}

@@ -1,0 +1,1091 @@
+location,price,precio_estimado,diferencia_pct,sobrevaluado,subvaluado,m2,recamaras,banos,Lujo,Amueblado,colonia
+"Ladrillera, Monterrey",22400,21758.353606752076,2.948965739065879,False,False,,3.0,,1,1,Ladrillera
+"Centro, Monterrey",14500,14923.608835680347,-2.838514734234756,False,False,,3.0,,1,1,Centro
+"Contry, Monterrey",11000,16919.452274398904,-34.98607507144733,False,True,,4.0,,1,1,Contry
+"Centro, Monterrey",14700,13576.780234389018,8.273093813258804,False,False,,3.0,,0,0,Centro
+"Hacienda Santa Clara, Monterrey",18500,17490.35265792685,5.772595680714099,False,False,80.0,2.0,2.0,0,1,Hacienda Santa Clara
+"Roma, Monterrey",10000,10383.83283191829,-3.696446563916618,False,False,,,,0,1,Roma
+"Colinas de San Jerónimo, Monterrey",23500,27829.652095929137,-15.557693933811231,False,False,158.0,3.0,2.0,0,0,Colinas de San Jerónimo
+"Centro, Monterrey",23000,21544.03921528638,6.758067835675667,False,False,63.0,2.0,2.0,1,1,Centro
+"San Jerónimo, Monterrey",30000,29306.72435779645,2.3655855691668846,False,False,100.0,2.0,2.0,1,1,San Jerónimo
+"Santa María, Monterrey",33000,33063.488805416986,-0.19202088984204307,False,False,140.0,3.0,2.0,1,1,Santa María
+"Acero, Monterrey",19000,13331.349746150823,42.52120274232467,True,False,55.0,1.0,1.0,1,1,Acero
+"Dinastía , Monterrey",24000,23998.048348885164,0.0081325409735934,False,False,102.0,1.0,1.0,1,1,Dinastía
+"Monterrey, Nuevo León",26000,36738.52011189892,-29.22959356879733,False,True,158.0,3.0,3.0,0,1,Monterrey
+"Santa María, Monterrey",27000,28149.033737303413,-4.08196511477657,False,False,136.0,2.0,2.0,1,0,Santa María
+"Cumbres 5to Sector, Monterrey",27000,26438.521606778628,2.123713275546442,False,False,180.0,3.0,3.0,0,1,Cumbres 5to Sector
+"Contry Tesoro, Monterrey",8500,8373.792713317156,1.5071699408337602,False,False,1.0,1.0,1.0,0,1,Contry Tesoro
+"Centro, Monterrey",26000,24521.74165951783,6.0283578589467846,False,False,70.0,2.0,2.0,1,1,Centro
+"Obispado, Monterrey",26500,25441.869166724337,4.1590137357502135,False,False,90.0,2.0,2.0,0,1,Obispado
+"Centro, Monterrey",11500,12444.206503370107,-7.587518763164207,False,False,49.0,1.0,1.0,0,0,Centro
+"Roma Sur, Monterrey",14500,13737.649962160358,5.549348250534083,False,False,35.0,1.0,1.0,0,1,Roma Sur
+"Buenos Aires, Monterrey",9000,9088.66148105831,-0.9755174757371041,False,False,250.0,2.0,2.0,0,0,Buenos Aires
+"Obispado, Monterrey",26000,26187.59420404018,-0.7163476055820241,False,False,90.0,2.0,2.0,1,0,Obispado
+"Satélite Miradores 1er Sector, Monterrey",22500,22534.100508950058,-0.15132846743322956,False,False,100.0,2.0,2.0,1,0,Satélite Miradores 1er Sector
+"Lomas, Monterrey",16000,12412.443543483043,28.9029025102841,True,False,124.0,1.0,1.0,0,1,Lomas
+"Tecnológico, Monterrey",10000,10967.871822562769,-8.824609169590156,False,False,39.0,,,0,1,Tecnológico
+"Centro, Monterrey",39000,36012.8068447529,8.294807922427564,False,False,99.0,3.0,2.0,1,0,Centro
+"Del Paseo Residencial, Monterrey",35000,35913.44155168485,-2.543453125677953,False,False,90.0,2.0,2.0,1,0,Del Paseo Residencial
+"Puerta de Hierro Cumbres, Monterrey",16500,16545.290578892233,-0.27373698078178427,False,False,90.0,2.0,2.0,1,1,Puerta de Hierro Cumbres
+"Santa María, Monterrey",35000,33978.037953390136,3.0077135354659243,False,False,110.0,2.0,2.0,1,0,Santa María
+"San Jerónimo, Monterrey",35000,35216.98735918121,-0.6161440130245471,False,False,102.0,2.0,2.0,1,1,San Jerónimo
+"Centro, Monterrey",10500,18075.395080589125,-41.909983415655574,False,True,35.0,1.0,1.0,0,0,Centro
+"Ladrillera, Monterrey",32000,28315.405353679627,13.01268549857279,False,False,128.0,2.0,2.0,1,1,Ladrillera
+"Regina, Monterrey",16000,15664.874254341876,2.139345265189324,False,False,80.0,3.0,2.0,0,1,Regina
+"Obispado, Monterrey",24000,24288.17161179242,-1.1864689380426867,False,False,220.0,2.0,1.0,0,1,Obispado
+"Colinas de San Jerónimo, Monterrey",26000,26071.248680639663,-0.2732844963140242,False,False,158.0,3.0,3.0,0,0,Colinas de San Jerónimo
+"Ladrillera, Monterrey",36100,34309.81561092467,5.217703322501427,False,False,84.0,2.0,2.0,1,0,Ladrillera
+"Santa María, Monterrey",30000,30162.36193475096,-0.5382931718085954,False,False,2000.0,2.0,2.0,1,1,Santa María
+"Tecnológico, Monterrey",25000,23337.07948150829,7.125658203329873,False,False,56.0,1.0,1.0,1,1,Tecnológico
+"Ladrillera, Monterrey",24500,24217.504934727596,1.1664912055713443,False,False,55.0,1.0,1.0,1,0,Ladrillera
+"Estanza Residencial, Monterrey",29900,24494.442220600635,22.068507340220684,True,False,85.0,2.0,2.0,1,0,Estanza Residencial
+"Obispado, Monterrey",42500,39626.46666009197,7.251550749040103,False,False,113.0,2.0,2.0,1,1,Obispado
+"Vidriera, Monterrey",7500,7251.982637748362,3.4199938780968115,False,False,55.0,1.0,1.0,0,1,Vidriera
+"Satélite Miradores 1er Sector, Monterrey",24000,23538.86436349881,1.9590394395417883,False,False,140.0,2.0,2.0,0,1,Satélite Miradores 1er Sector
+"Obispado, Monterrey",25000,25405.5761682477,-1.5964061021949754,False,False,160.0,3.0,2.0,0,0,Obispado
+"Lagos del Bosque, Monterrey",12000,11522.118783782205,4.147511626858331,False,False,50.0,1.0,1.0,0,0,Lagos del Bosque
+"San Jerónimo, Monterrey",32000,31073.615964507575,2.981255984339078,False,False,140.0,2.0,2.0,0,0,San Jerónimo
+"Los Cedros, Monterrey",6000,6019.112698309247,-0.31753348487088323,False,False,20.0,1.0,1.0,0,1,Los Cedros
+"Las Brisas, Monterrey",18000,17175.561270279148,4.800068636752346,False,False,110.0,3.0,2.0,0,0,Las Brisas
+"Centro, Monterrey",27000,25636.375401495607,5.319100602750733,False,False,91.0,2.0,2.0,0,1,Centro
+"Regina, Monterrey",6250,8004.289434202747,-21.916866557905518,False,True,,,,0,1,Regina
+"Ladrillera, Monterrey",24100,24370.166136699274,-1.1085937419705485,False,False,59.0,1.0,1.0,0,1,Ladrillera
+"Colinas de San Jerónimo, Monterrey",25500,30032.935317912834,-15.093214399223944,False,False,100.0,2.0,2.0,0,0,Colinas de San Jerónimo
+"Del Paseo Residencial, Monterrey",30000,29674.987506429756,1.0952405405388055,False,False,78.0,1.0,1.0,1,1,Del Paseo Residencial
+"Centro, Monterrey",18000,18043.45975085401,-0.24086151688260934,False,False,75.0,2.0,2.0,1,0,Centro
+"Privada Fundadores, Monterrey",42000,39740.58852995783,5.685400125211905,False,False,140.0,2.0,2.0,0,1,Privada Fundadores
+"San Jerónimo, Monterrey",27000,26911.88116570346,0.3274346886193838,False,False,99.0,2.0,1.0,1,1,San Jerónimo
+"Centro, Monterrey",32500,25666.056361124454,26.626387563095587,True,False,85.0,2.0,2.0,1,0,Centro
+"Mitras Centro, Monterrey",17500,17230.97414499499,1.5612921982310104,False,False,53.0,1.0,1.0,1,1,Mitras Centro
+"Mas Palomas (Valle de Santiago), Monterrey",26000,25255.43332556013,2.948144523366067,False,False,95.0,1.0,1.0,1,1,Mas Palomas (Valle de Santiago)
+"Obispado, Monterrey",24000,25584.567197849105,-6.193449299319471,False,False,200.0,2.0,1.0,0,0,Obispado
+"Centro, Monterrey",17700,17576.360402379913,0.7034425489098762,False,False,55.0,2.0,1.0,1,0,Centro
+"Jardín de las Torres, Monterrey",38000,37934.66263667848,0.1722365740992502,False,False,1.0,2.0,2.0,0,0,Jardín de las Torres
+"Jardín de las Torres, Monterrey",32000,29873.985039760955,7.116609844349231,False,False,100.0,2.0,2.0,1,0,Jardín de las Torres
+"Tecnológico, Monterrey",40000,30185.15740622674,32.51545937523787,True,False,98.0,2.0,1.0,1,0,Tecnológico
+"Centro, Monterrey",22000,23978.58648768567,-8.251472574089313,False,False,55.0,1.0,1.0,1,1,Centro
+"Centro, Monterrey",35000,35217.20066438093,-0.6167459658444921,False,False,83.0,2.0,2.0,1,1,Centro
+"Centro, Monterrey",21000,22700.0732178102,-7.489285173214085,False,False,51.0,1.0,1.0,1,1,Centro
+"Centro, Monterrey",24900,22601.239043937214,10.170951033232972,False,False,61.0,1.0,1.0,1,1,Centro
+"Monterrey Centro, Monterrey",19000,18877.74929812084,0.6475915107704482,False,False,58.0,1.0,1.0,1,0,Monterrey Centro
+"San Jerónimo, Monterrey",21500,22124.568726032823,-2.822964523136335,False,False,100.0,1.0,1.0,1,1,San Jerónimo
+"Roma, Monterrey",16000,18150.81600192681,-11.849693158139498,False,False,,,,1,1,Roma
+"Estanza Residencial, Monterrey",30000,30344.01428756298,-1.1337138333209236,False,False,87.0,2.0,2.0,1,0,Estanza Residencial
+"Chepevera, Monterrey",15000,15663.20604415199,-4.234165357223301,False,False,70.0,1.0,1.0,0,1,Chepevera
+"Mirador, Monterrey",30000,30733.083111508335,-2.3853223864605493,False,False,135.0,3.0,3.0,1,0,Mirador
+"San Jerónimo, Monterrey",24500,24217.095357266553,1.168202208232867,False,False,100.0,1.0,1.0,0,1,San Jerónimo
+"Centro, Monterrey",25000,23955.900309659395,4.358423924145349,False,False,68.0,2.0,2.0,1,1,Centro
+"Acero, Monterrey",18650,16803.025498290404,10.991916318269665,False,False,57.0,1.0,1.0,1,1,Acero
+"Centro, Monterrey",18000,18501.309047401883,-2.7095869060804696,False,False,61.0,2.0,1.0,1,1,Centro
+"Obispado, Monterrey",20000,21183.973697795467,-5.589006645711039,False,False,50.0,1.0,1.0,1,1,Obispado
+"Roma, Monterrey",18000,17738.28556477484,1.4754212534771642,False,False,100.0,2.0,3.0,0,1,Roma
+"Empleados SFEO, Monterrey",48000,47785.7716377212,0.4483099360682792,False,False,109.0,3.0,2.0,1,1,Empleados SFEO
+"Regina, Monterrey",21800,20768.381349644467,4.967255911704418,False,False,75.0,2.0,2.0,0,1,Regina
+"Estanza Residencial, Monterrey",36000,36065.20224243873,-0.18078989825269137,False,False,86.0,2.0,2.0,1,1,Estanza Residencial
+"Centro, Monterrey",33000,29255.899604833765,12.797761975323505,False,False,68.0,2.0,2.0,1,1,Centro
+"Vista Hermosa, Monterrey",20000,19995.954971482315,0.020229233979841173,False,False,300.0,2.0,,0,0,Vista Hermosa
+"Lomas de San Francisco, Monterrey",22000,21479.16092911299,2.4248576217940694,False,False,63.0,,,0,0,Lomas de San Francisco
+"Altavista, Monterrey",18000,24326.15501389098,-26.005568945353474,False,True,100.0,,,1,0,Altavista
+"Ladrillera, Monterrey",23900,23446.10160077441,1.9359226832429872,False,False,65.0,1.0,1.0,0,1,Ladrillera
+"Santa María, Monterrey",44500,38730.29697583964,14.897130863105845,False,False,142.0,2.0,2.0,1,1,Santa María
+"Mitras Norte, Monterrey",16000,16554.971104006767,-3.3522927978560366,False,False,55.0,1.0,1.0,1,1,Mitras Norte
+"Mitras Centro, Monterrey",20000,20192.546996701127,-0.9535547780702619,False,False,70.0,2.0,2.0,0,0,Mitras Centro
+"Colinas de San Jerónimo, Monterrey",21000,20367.092005174887,3.107502998780106,False,False,38.0,1.0,1.0,1,1,Colinas de San Jerónimo
+"San Jerónimo, Monterrey",28000,28082.55682205157,-0.29397900830291795,False,False,100.0,2.0,2.0,1,1,San Jerónimo
+"Centro, Monterrey",25000,24965.57624655891,0.13788487436108846,False,False,78.0,2.0,2.0,1,1,Centro
+"Centro, Monterrey",20000,21308.754508321923,-6.141862997252147,False,False,54.0,2.0,2.0,0,1,Centro
+"Mitras Sur, Monterrey",8200,8112.441034699696,1.0793171244731967,False,False,200.0,1.0,1.0,0,1,Mitras Sur
+"Obispado, Monterrey",19000,20496.989438488497,-7.303460066567167,False,False,40.0,1.0,1.0,0,0,Obispado
+"Tecnológico, Monterrey",25000,25126.338616303936,-0.5028134748687876,False,False,56.0,1.0,1.0,1,1,Tecnológico
+"Obispado, Monterrey",28000,28330.40893141192,-1.1662695452502683,False,False,92.0,2.0,2.0,1,0,Obispado
+"Mas Palomas (Valle de Santiago), Monterrey",30000,30077.890121296216,-0.2589613865271306,False,False,1.0,2.0,,1,1,Mas Palomas (Valle de Santiago)
+"Nuevo Repueblo, Monterrey",13200,13842.774850302776,-4.643395975545444,False,False,100.0,2.0,2.0,0,0,Nuevo Repueblo
+"Lomas de Valle Alto, Monterrey",40000,40884.84483324161,-2.164236740656971,False,False,99.0,2.0,2.0,0,1,Lomas de Valle Alto
+"Centro, Monterrey",14000,13741.458570427312,1.8814700655510403,False,False,24.0,1.0,1.0,0,1,Centro
+"Jardín Español, Monterrey",24000,22260.34025763404,7.815063571498435,False,False,,,,1,0,Jardín Español
+"Mitras Centro, Monterrey",25000,24511.01846217258,1.9949458182737616,False,False,68.0,2.0,2.0,1,1,Mitras Centro
+"Altavista Invernadero, Monterrey",19000,19080.89274571637,-0.42394633623487177,False,False,80.0,1.0,1.0,0,1,Altavista Invernadero
+"Las Cumbres, Monterrey",12000,11826.573192458078,1.4664163889208264,False,False,35.0,1.0,1.0,0,0,Las Cumbres
+"Centrika 1 Sector , Monterrey",19500,20691.79003600046,-5.7597241897725295,False,False,85.0,2.0,2.0,1,1,Centrika 1 Sector
+"Centro, Monterrey",16000,14982.039265449308,6.794540559630309,False,False,40.0,1.0,1.0,0,0,Centro
+"Obispado, Monterrey",26500,30893.988683516734,-14.222795018569794,False,False,141.0,2.0,2.0,1,0,Obispado
+"Centro, Monterrey",36000,36201.522282818434,-0.5566679799928702,False,False,94.0,3.0,2.0,1,1,Centro
+"Centro, Monterrey",16900,16247.381481068198,4.016761222060597,False,False,34.0,1.0,1.0,0,1,Centro
+"Jardín de las Torres, Monterrey",8500,8849.072696067793,-3.944737579372675,False,False,40.0,1.0,1.0,0,1,Jardín de las Torres
+"Centro, Monterrey",15700,13071.53061222986,20.10835200363541,True,False,45.0,2.0,2.0,0,1,Centro
+"Centro, Monterrey",36000,34581.01103398405,4.10337616971771,False,False,89.0,2.0,2.0,1,0,Centro
+"Contry, Monterrey",52000,51742.0657576256,0.4985000861439096,False,False,164.0,3.0,2.0,1,0,Contry
+"San Jerónimo, Monterrey",28000,27904.276818146922,0.343041256639293,False,False,130.0,2.0,2.0,1,1,San Jerónimo
+"Ladrillera, Monterrey",24400,23679.75758455064,3.041595391665948,False,False,59.0,1.0,1.0,1,0,Ladrillera
+"La República, Monterrey",12500,12596.207578206233,-0.7637820955943107,False,False,58.0,1.0,1.0,1,1,La República
+"Leones, Monterrey",12000,12528.171645261698,-4.215871718691363,False,False,15.0,1.0,1.0,0,1,Leones
+"Cumbre Allegro, Monterrey",14000,13954.107043225706,0.32888494141639824,False,False,40.0,1.0,1.0,1,1,Cumbre Allegro
+"Obispado, Monterrey",19000,19169.669671165775,-0.8850943916941103,False,False,45.0,1.0,1.0,1,1,Obispado
+"Altavista Invernadero, Monterrey",19000,18753.57601028529,1.314010669642735,False,False,,,,0,1,Altavista Invernadero
+"Regina, Monterrey",19000,18729.957788644027,1.4417662570478356,False,False,66.0,2.0,2.0,1,1,Regina
+"Tecnológico, Monterrey",33000,32772.66958653268,0.6936585158773296,False,False,110.0,2.0,2.0,1,1,Tecnológico
+"Las Brisas 9 Sector 1 Etapa, Monterrey",17000,17120.717133071645,-0.7050939054326087,False,False,70.0,2.0,1.0,0,1,Las Brisas 9 Sector 1 Etapa
+"San Jerónimo, Monterrey",26000,25942.65453209363,0.22104703215866692,False,False,180.0,2.0,2.0,0,0,San Jerónimo
+"Colinas de San Gerardo, Monterrey",26500,25964.34152615704,2.0630543366691017,False,False,140.0,1.0,2.0,0,1,Colinas de San Gerardo
+"Centro, Monterrey",18500,18759.528583868185,-1.38344939057456,False,False,56.0,,,1,1,Centro
+"Centro, Monterrey",28000,26385.919313481394,6.117204662616858,False,False,54.0,2.0,2.0,0,1,Centro
+"Tecnológico, Monterrey",50000,50149.81911356103,-0.2987430786575253,False,False,250.0,4.0,4.0,1,1,Tecnológico
+"Monterrey, Nuevo León",14000,14433.113592184598,-3.0008326991836682,False,False,25.0,,,1,1,Monterrey
+"Mas Palomas (Valle de Santiago), Monterrey",26000,25290.13251370263,2.8068950841311437,False,False,80.0,1.0,1.0,0,1,Mas Palomas (Valle de Santiago)
+"Del Paseo Residencial, Monterrey",45000,44146.945092375834,1.9323078999898644,False,False,138.0,2.0,2.0,0,1,Del Paseo Residencial
+"Mitras Centro, Monterrey",26900,26363.30893701476,2.0357500049309483,False,False,85.0,2.0,2.0,1,1,Mitras Centro
+"Centro, Monterrey",25000,25092.339016940772,-0.3679968490718646,False,False,102.0,3.0,1.0,0,0,Centro
+"Leones, Monterrey",8500,6701.45785394609,26.83807292759225,True,False,30.0,1.0,1.0,0,1,Leones
+"Tecnológico, Monterrey",25000,24657.80760780403,1.3877648720386233,False,False,56.0,1.0,1.0,1,1,Tecnológico
+"Centro, Monterrey",20000,20314.141940080124,-1.5464199325117305,False,False,55.0,2.0,2.0,1,1,Centro
+"Las Cumbres, Monterrey",15000,14233.244135205483,5.387077306557051,False,False,80.0,2.0,1.0,0,0,Las Cumbres
+"Centro, Monterrey",23500,22615.305527755216,3.9119280133492786,False,False,65.0,,,1,0,Centro
+"Roma, Monterrey",13490,17068.986083207477,-20.967771991615223,False,True,,,,1,1,Roma
+"Centro, Monterrey",32000,30615.674843651628,4.521622219395308,False,False,99.0,2.0,2.0,1,1,Centro
+"Regina, Monterrey",20500,20895.62892388918,-1.893357339615047,False,False,63.0,3.0,2.0,0,1,Regina
+"San Jerónimo, Monterrey",35000,35419.59158843805,-1.1846313568872953,False,False,90.0,2.0,2.0,1,1,San Jerónimo
+"Pedregal la Silla 1 Sector, Monterrey",25000,24833.4573410159,0.6706382309040496,False,False,100.0,2.0,2.0,1,1,Pedregal la Silla 1 Sector
+"Del Paseo Residencial, Monterrey",40000,39606.33939702811,0.9939333171533348,False,False,88.0,2.0,2.0,1,0,Del Paseo Residencial
+"Cumbres 3er Sector, Monterrey",14500,14449.731676142734,0.3478841336566958,False,False,1.0,1.0,1.0,0,1,Cumbres 3er Sector
+"Centro, Monterrey",18500,18461.6480171319,0.20773867442662047,False,False,60.0,2.0,1.0,1,0,Centro
+"Mitras Centro, Monterrey",11000,11266.991554172666,-2.3696791897725986,False,False,25.0,1.0,,0,1,Mitras Centro
+"Centro, Monterrey",14200,14549.975469856747,-2.4053337449385572,False,False,78.0,1.0,1.0,0,1,Centro
+"Privada Fundadores, Monterrey",42000,41114.475865201115,2.1538013465188883,False,False,86.0,2.0,2.0,0,0,Privada Fundadores
+"Ladrillera, Monterrey",30000,30458.124551799752,-1.5041128058315787,False,False,106.0,2.0,2.0,1,0,Ladrillera
+"Mas Palomas (Valle de Santiago), Monterrey",26000,25791.129592326557,0.8098536627708878,False,False,100.0,1.0,1.0,0,1,Mas Palomas (Valle de Santiago)
+"Centro, Monterrey",30000,27992.451305166025,7.171750244193442,False,False,80.0,2.0,2.0,1,1,Centro
+"San Jerónimo, Monterrey",21750,21961.87981274887,-0.9647617351310414,False,False,58.0,1.0,1.0,1,1,San Jerónimo
+"Centro, Monterrey",15000,15140.69049786673,-0.9292211467274405,False,False,49.0,1.0,1.0,1,0,Centro
+"Centro, Monterrey",31000,30690.472305477924,1.008546533403555,False,False,77.0,2.0,2.0,1,1,Centro
+"Obispado, Monterrey",21100,22128.932480505642,-4.649715847847944,False,False,60.0,1.0,1.0,1,1,Obispado
+"Roma, Monterrey",10000,10023.709830496362,-0.23653747861122884,False,False,1.0,1.0,1.0,0,1,Roma
+"Centro, Monterrey",18000,17726.146824840234,1.5449109040212066,False,False,64.0,1.0,1.0,0,0,Centro
+"Del Norte, Monterrey",19000,19278.414016014114,-1.4441748983232872,False,False,60.0,2.0,1.0,1,1,Del Norte
+"Centro, Monterrey",23000,22259.61093993545,3.3261545408964683,False,False,70.0,2.0,,1,1,Centro
+"Centro, Monterrey",22700,22798.50042981265,-0.43204784505846927,False,False,67.0,1.0,1.0,1,1,Centro
+"Villa Dorada, Monterrey",10000,9828.868390328764,1.7411120270938136,False,False,200.0,1.0,2.0,0,1,Villa Dorada
+"Mas Palomas (Valle de Santiago), Monterrey",40000,38761.79174111037,3.194404085238399,False,False,100.0,2.0,2.0,1,0,Mas Palomas (Valle de Santiago)
+"Centro, Monterrey",23000,21953.67242807195,4.766070803671649,False,False,44.0,1.0,1.0,1,1,Centro
+"Pío X, Monterrey",10500,10416.280100243039,0.8037408647930641,False,False,40.0,1.0,1.0,0,0,Pío X
+"Centro, Monterrey",26990,26630.99626350626,1.3480672406751142,False,False,,,,1,0,Centro
+"Eugenio Garza Sada, Monterrey",18000,17597.09737146873,2.289597085395001,False,False,1000.0,2.0,1.0,0,0,Eugenio Garza Sada
+"Centro, Monterrey",23000,21694.29905475901,6.018636241462541,False,False,74.0,2.0,2.0,0,0,Centro
+"Monterrey, Nuevo León",48000,47511.55192909811,1.0280617051423726,False,False,110.0,3.0,2.0,1,1,Monterrey
+"Del Paseo Residencia, Monterrey",58000,57108.7902607409,1.560547395926471,False,False,150.0,,,1,0,Del Paseo Residencia
+"Centrika 1 Sector , Monterrey",21500,21375.047059011664,0.5845738755258383,False,False,1.0,3.0,2.0,1,1,Centrika 1 Sector
+"Mitras Centro, Monterrey",19000,20032.860535304535,-5.155831507359085,False,False,,,,1,0,Mitras Centro
+"Ciudad Satélite, Monterrey",10000,10128.083666194414,-1.264638705759635,False,False,300.0,1.0,1.0,1,0,Ciudad Satélite
+"Nuevo Centro Monterrey, Monterrey",30000,30919.462919177146,-2.9737350922964056,False,False,96.0,3.0,2.0,0,1,Nuevo Centro Monterrey
+"Privada Fundadores 1 Sector, Monterrey",58000,57943.71344733503,0.09714005077725667,False,False,140.0,2.0,1.0,1,1,Privada Fundadores 1 Sector
+"Del Norte, Monterrey",12200,18541.656696496302,-34.202211810418454,False,True,30.0,1.0,1.0,1,1,Del Norte
+"Ladrillera, Monterrey",33400,34426.33126401116,-2.9812391455260148,False,False,99.0,2.0,2.0,1,1,Ladrillera
+"Contry Tesoro, Monterrey",12000,12104.877476324424,-0.8664067565289322,False,False,1.0,1.0,1.0,0,0,Contry Tesoro
+"Colinas del Valle , Monterrey",18500,18702.189676234306,-1.0811016235774633,False,False,120.0,2.0,2.0,0,1,Colinas del Valle
+"Tecnológico, Monterrey",13000,13298.958813546193,-2.2479866111148197,False,False,30.0,1.0,1.0,0,0,Tecnológico
+"Centro, Monterrey",29000,28954.97067871972,0.15551499526598722,False,False,72.0,2.0,2.0,1,1,Centro
+"Santa María, Monterrey",30000,31049.582324052393,-3.3803428113728273,False,False,110.0,2.0,2.0,1,1,Santa María
+"Las Cumbres 1 Sector, Monterrey",15000,15100.81967735676,-0.667643740610557,False,False,90.0,2.0,2.0,0,0,Las Cumbres 1 Sector
+"Centro, Monterrey",36000,33108.93082336889,8.731991957259268,False,False,76.0,2.0,2.0,1,1,Centro
+"Mitras Centro, Monterrey",17000,16182.92717038098,5.0489804533908895,False,False,55.0,2.0,2.0,0,0,Mitras Centro
+"Contry San Juanito, Monterrey",17000,17011.602061816502,-0.06820087710929697,False,False,70.0,1.0,1.0,0,1,Contry San Juanito
+"Mitras Centro, Monterrey",8000,8254.169939595597,-3.0792913334184315,False,False,18.0,,,0,1,Mitras Centro
+"Centro, Monterrey",24000,22389.48794453333,7.1931616277088395,False,False,70.0,2.0,2.0,0,0,Centro
+"Condocasas Cumbres, Monterrey",16000,16159.052315469571,-0.9842923481181215,False,False,100.0,3.0,3.0,0,1,Condocasas Cumbres
+"Ladrillera, Monterrey",25000,29671.170714263,-15.743129110903459,False,False,,,,1,0,Ladrillera
+"Centro, Monterrey",22500,23285.928958021563,-3.375123918991538,False,False,65.0,,,1,1,Centro
+"Centro, Monterrey",21600,22761.708799308213,-5.103785526610025,False,False,60.0,2.0,2.0,1,0,Centro
+"Ladrillera, Monterrey",22700,23091.521477685757,-1.6955204881761472,False,False,68.0,1.0,1.0,1,1,Ladrillera
+"Contry Sur, Monterrey",11990,12536.300450260258,-4.3577485433425185,False,False,,,,0,1,Contry Sur
+"Industrial, Monterrey",18000,17412.7338666651,3.372624527726572,False,False,1.0,2.0,2.0,1,1,Industrial
+"Cumbres 2do Sector, Monterrey",20000,18518.32630697017,8.001120989385182,False,False,35.0,1.0,2.0,0,0,Cumbres 2do Sector
+"Maria Luisa, Monterrey",26000,31198.98981313687,-16.663968430630877,False,False,90.0,2.0,2.0,1,0,Maria Luisa
+"Satélite Miradores 1er Sector, Monterrey",26000,26357.968281745034,-1.3581027107956385,False,False,119.0,3.0,2.0,1,1,Satélite Miradores 1er Sector
+"Colinas de San Jerónimo, Monterrey",28500,28628.77732320356,-0.44981775417697567,False,False,96.0,2.0,2.0,1,0,Colinas de San Jerónimo
+"Tecnológico, Monterrey",25000,25411.026397881393,-1.6175119865117353,False,False,56.0,1.0,1.0,1,1,Tecnológico
+"Cumbres 3er Sector, Monterrey",12500,12730.227945497241,-1.8085139282888831,False,False,29.0,1.0,1.0,0,1,Cumbres 3er Sector
+"Estanza Residencial, Monterrey",25500,25743.010739125493,-0.9439872499301475,False,False,80.0,1.0,2.0,1,0,Estanza Residencial
+"Estanza Residencial, Monterrey",30000,29720.903599205096,0.9390575890914998,False,False,91.0,2.0,2.0,1,0,Estanza Residencial
+"Mitras Centro, Monterrey",19000,19068.087950567635,-0.35707801822682456,False,False,55.0,1.0,1.0,1,0,Mitras Centro
+"Ladrillera, Monterrey",35000,34896.91963063818,0.29538529604578945,False,False,120.0,2.0,2.0,1,1,Ladrillera
+"Mas Palomas (Valle de Santiago), Monterrey",35000,33345.894200051865,4.960448173993072,False,False,120.0,2.0,2.0,1,1,Mas Palomas (Valle de Santiago)
+"Mitras Centro, Monterrey",8500,7758.45835019999,9.557847916795167,False,False,20.0,,,0,1,Mitras Centro
+"Del Paseo Residencial, Monterrey",30000,32481.70849185303,-7.640326223836058,False,False,135.0,3.0,2.0,1,0,Del Paseo Residencial
+"Del Paseo Residencial, Monterrey",23000,23507.10075754509,-2.1572237375224805,False,False,65.0,1.0,1.0,1,1,Del Paseo Residencial
+"Tecnológico, Monterrey",24900,24062.057334690187,3.4824231928903,False,False,67.0,1.0,1.0,1,0,Tecnológico
+"Tecnológico, Monterrey",21990,20757.463109220178,5.937801186467465,False,False,,,,0,1,Tecnológico
+"Roma, Monterrey",18500,18396.43702805548,0.5629512485846139,False,False,,,,0,1,Roma
+"Centro, Monterrey",13500,13022.86305304768,3.6638406240527694,False,False,28.0,1.0,1.0,0,1,Centro
+"Centro, Monterrey",15000,14250.898025575178,5.2565246981660865,False,False,35.0,1.0,1.0,1,1,Centro
+"Centro, Monterrey",18000,17754.930435659157,1.3802901973000337,False,False,1.0,1.0,1.0,1,1,Centro
+"Colinas de San Jerónimo, Monterrey",29000,24559.351305905395,18.081294732841062,False,False,133.0,2.0,2.0,0,0,Colinas de San Jerónimo
+"Centro, Monterrey",21500,21009.100496401403,2.3366041001264293,False,False,55.0,2.0,2.0,0,1,Centro
+"Centro, Monterrey",18000,17123.637049732064,5.117855206360197,False,False,,,,0,0,Centro
+"Santa María, Monterrey",35000,33525.64438653739,4.3976950792172005,False,False,100.0,,,1,1,Santa María
+"Bernardo Reyes, Monterrey",16000,16056.395254729752,-0.3512323521877663,False,False,90.0,1.0,1.0,0,0,Bernardo Reyes
+"Obispado, Monterrey",11500,11418.450169075615,0.7141935176565803,False,False,300.0,1.0,1.0,0,0,Obispado
+"Lomas de San Francisco, Monterrey",20000,20710.389664393206,-3.4301124986294145,False,False,55.0,,,0,1,Lomas de San Francisco
+"Colinas de San Jerónimo, Monterrey",12500,12467.066674634592,0.264162583107168,False,False,49.0,1.0,,0,1,Colinas de San Jerónimo
+"Miravalle, Monterrey",19000,18229.28451980015,4.227897586231216,False,False,38.0,1.0,1.0,0,1,Miravalle
+"Centro, Monterrey",35000,34526.90523848857,1.370220580858921,False,False,1.0,2.0,2.0,1,1,Centro
+"Centro, Monterrey",30000,28234.250818585908,6.253926101172634,False,False,85.0,2.0,2.0,0,1,Centro
+"Centro, Monterrey",20000,20310.9412957138,-1.5309053932395478,False,False,68.0,2.0,2.0,1,0,Centro
+"Ladrillera, Monterrey",40000,37898.06336050893,5.546290372402928,False,False,116.0,2.0,2.0,0,1,Ladrillera
+"Balcones de las Mitras, Monterrey",14000,13975.735161405137,0.17362119641385387,False,False,90.0,2.0,2.0,0,1,Balcones de las Mitras
+"Obispado, Monterrey",23100,22934.85226907949,0.720073227343877,False,False,70.0,1.0,1.0,1,1,Obispado
+"Leones, Monterrey",8500,8460.070152964196,0.47198009370896293,False,False,21.0,,,0,1,Leones
+"Centrika, Monterrey",24000,23276.705257502843,3.107375955899152,False,False,100.0,3.0,2.0,1,0,Centrika
+"Ladrillera, Monterrey",28000,27665.042696881148,1.2107601162553558,False,False,84.0,2.0,2.0,1,1,Ladrillera
+"Cima de las Cumbres, Monterrey",15500,15733.372727015887,-1.4832975170998206,False,False,99.0,1.0,1.0,0,1,Cima de las Cumbres
+"Tecnológico, Monterrey",26000,18732.17602584385,38.79861028494017,True,False,65.0,1.0,1.0,0,0,Tecnológico
+"Contry, Monterrey",10000,9929.172433747848,0.7133279910762657,False,False,50.0,1.0,1.0,0,1,Contry
+"Centro, Monterrey",20000,19678.58806306548,1.6333079177452536,False,False,60.0,1.0,2.0,0,1,Centro
+"Centro, Monterrey",13340,12925.29608910059,3.208467396341616,False,False,70.0,1.0,1.0,0,1,Centro
+"Monterrey Centro, Monterrey",25000,22822.64872095141,9.540309302704914,False,False,75.0,2.0,2.0,0,1,Monterrey Centro
+"Obispado, Monterrey",30000,30063.25750925194,-0.21041468720571158,False,False,120.0,2.0,2.0,1,0,Obispado
+"Tecnológico, Monterrey",25000,22385.809191456352,11.677892839099897,False,False,63.0,1.0,1.0,1,1,Tecnológico
+"Mitras Centro, Monterrey",12000,9790.012288099431,22.573901307427278,True,False,45.0,1.0,1.0,0,1,Mitras Centro
+"Mas Palomas (Valle de Santiago), Monterrey",26000,25422.565444283973,2.2713465207967736,False,False,1.0,1.0,1.0,0,0,Mas Palomas (Valle de Santiago)
+"Los Altos, Monterrey",11000,10733.87984829364,2.4792540578760534,False,False,98.0,2.0,2.0,0,0,Los Altos
+"Ladrillera, Monterrey",24100,23698.10975889791,1.69587467182353,False,False,47.0,1.0,1.0,1,1,Ladrillera
+"Colinas de San Jerónimo, Monterrey",27000,27540.99545994678,-1.9643279079492784,False,False,94.0,2.0,2.0,1,1,Colinas de San Jerónimo
+"Mitras Centro, Monterrey",22000,20728.544444877174,6.133839057074033,False,False,60.0,1.0,1.0,1,1,Mitras Centro
+"Obispado, Monterrey",26000,26209.40185076463,-0.7989570000756033,False,False,90.0,2.0,2.0,1,0,Obispado
+"Cumbres 3er Sector, Monterrey",16000,15881.84672971519,0.7439517097450898,False,False,101.0,2.0,1.0,0,1,Cumbres 3er Sector
+"Obispado, Monterrey",24100,23299.73761116156,3.434641205809464,False,False,55.0,1.0,,1,1,Obispado
+"San Jerónimo, Monterrey",19500,20206.982041537998,-3.4987017857724005,False,False,56.0,1.0,1.0,1,1,San Jerónimo
+"Barrio Antiguo Cd. Solidaridad, Monterrey",21000,21498.3712167114,-2.3181812784216813,False,False,84.0,1.0,1.0,1,0,Barrio Antiguo Cd. Solidaridad
+"Buenos Aires, Monterrey",29000,29084.22633758414,-0.28959456100538516,False,False,90.0,2.0,2.0,1,0,Buenos Aires
+"Centro, Monterrey",30000,23795.8525206195,26.072390026810353,True,False,65.0,2.0,2.0,1,1,Centro
+"Tecnológico, Monterrey",17000,17376.903119816503,-2.168989015002824,False,False,100.0,2.0,1.0,1,1,Tecnológico
+"Vista Hermosa, Monterrey",12000,11465.034502016548,4.66606095157724,False,False,40.0,1.0,1.0,0,1,Vista Hermosa
+"Obispado, Monterrey",34000,32390.105071385457,4.970329441866431,False,False,120.0,2.0,2.0,0,1,Obispado
+"Centro, Monterrey",23000,25441.55848115894,-9.596733167769836,False,False,94.0,2.0,2.0,1,1,Centro
+"La Estanzuela, Monterrey",25000,24313.720522800944,2.8226016522460062,False,False,55.0,1.0,1.0,1,1,La Estanzuela
+"Roma, Monterrey",25500,23292.079393341628,9.479276492976139,False,False,,,,0,1,Roma
+"Sertoma, Monterrey",12800,12648.607403955455,1.196911179306598,False,False,40.0,1.0,1.0,0,1,Sertoma
+"Centro, Monterrey",30000,29597.819128150444,1.35881927688058,False,False,84.0,2.0,2.0,1,1,Centro
+"Hacienda Los Encinos, Monterrey",21000,18585.342113412516,12.99227031632037,False,False,70.0,1.0,1.0,0,0,Hacienda Los Encinos
+"Ladrillera, Monterrey",22700,22827.3710690753,-0.5579751986765211,False,False,61.0,1.0,1.0,1,0,Ladrillera
+"Hacienda San Francisco, Monterrey",40000,40765.47684035995,-1.877757601996427,False,False,168.0,3.0,3.0,1,1,Hacienda San Francisco
+"Centro, Monterrey",26000,26371.433273423638,-1.4084682829808775,False,False,1.0,2.0,2.0,1,0,Centro
+"San Jerónimo, Monterrey",32500,32723.005133303548,-0.6814934398448221,False,False,180.0,3.0,,1,0,San Jerónimo
+"Regina, Monterrey",12200,19135.760746272397,-36.2450222817688,False,True,,,,1,1,Regina
+"Centro, Monterrey",14500,14586.98267999679,-0.5963034433164187,False,False,190.0,2.0,1.0,0,0,Centro
+"Estanzuela Nueva, Monterrey",25000,23777.06168710448,5.14335340921785,False,False,55.0,1.0,1.0,1,0,Estanzuela Nueva
+"Tecnológico, Monterrey",33200,26071.543579777353,27.341904012740937,True,False,79.0,2.0,2.0,1,0,Tecnológico
+"Buenos Aires, Monterrey",29000,28563.5122784437,1.5281304249327474,False,False,80.0,2.0,2.0,1,0,Buenos Aires
+"Haciendas de La Sierra, Monterrey",50000,32099.18361783212,55.76720141948846,True,False,60.0,2.0,2.0,1,1,Haciendas de La Sierra
+"Obispado, Monterrey",33500,32409.207164616677,3.365688120177822,False,False,110.0,2.0,2.0,1,0,Obispado
+"Mirador Residencial, Monterrey",28000,30854.808315525046,-9.252393618302298,False,False,140.0,2.0,3.0,1,1,Mirador Residencial
+"Centro, Monterrey",31000,29463.23675902811,5.215866992281477,False,False,,,,1,0,Centro
+"Chepevera, Monterrey",26500,26755.726411210897,-0.9557819783347209,False,False,140.0,2.0,2.0,0,0,Chepevera
+"Santa María, Monterrey",35000,31225.380013749073,12.088307602946378,False,False,103.0,2.0,2.0,0,1,Santa María
+"Centro, Monterrey",23500,25136.37443980704,-6.509985931843889,False,False,80.0,2.0,2.0,1,1,Centro
+"Cumbres, Monterrey",20000,19794.65319006834,1.037385237113875,False,False,120.0,2.0,2.0,0,1,Cumbres
+"Colinas de San Jerónimo, Monterrey",20000,19327.721750995395,3.4783108825021336,False,False,50.0,1.0,1.0,0,1,Colinas de San Jerónimo
+"Mirador, Monterrey",40000,36843.13293851519,8.568400159544177,False,False,136.0,2.0,2.0,1,1,Mirador
+"San Jerónimo, Monterrey",25000,24902.82890831811,0.3902010170797543,False,False,69.0,1.0,1.0,1,1,San Jerónimo
+"Centro, Monterrey",20000,21466.529186987475,-6.831701455848071,False,False,63.0,2.0,2.0,1,1,Centro
+"Centro, Monterrey",30000,31263.05945022501,-4.040101872422211,False,False,90.0,2.0,2.0,1,1,Centro
+"Santa María, Monterrey",40000,38386.24960087328,4.203980372935442,False,False,104.0,2.0,2.0,0,1,Santa María
+"Centro, Monterrey",18000,18328.57946973089,-1.7927165074278,False,False,65.0,2.0,2.0,1,0,Centro
+"Del Paseo Residencial, Monterrey",32000,29424.161978735883,8.754159330436027,False,False,126.0,2.0,2.0,1,0,Del Paseo Residencial
+"Del Carmen, Monterrey",35000,34222.679695939536,2.2713601359296587,False,False,110.0,2.0,2.0,0,1,Del Carmen
+"Contry, Monterrey",20000,17179.702773836627,16.416449476986703,False,False,54.0,1.0,1.0,0,1,Contry
+"Centro, Monterrey",26000,28002.849245862042,-7.152305211077767,False,False,75.0,2.0,2.0,1,1,Centro
+"Ladrillera, Monterrey",34500,34218.195749675695,0.8235508744699839,False,False,79.0,2.0,2.0,1,0,Ladrillera
+"Centro, Monterrey",26000,25783.284718812247,0.8405262694463101,False,False,69.0,2.0,2.0,0,1,Centro
+"Colinas del Valle , Monterrey",25500,27788.617553090233,-8.235809315514969,False,False,97.0,2.0,2.0,1,1,Colinas del Valle
+"Cumbres 4to Sector, Monterrey",8500,8843.79705963501,-3.887437232183598,False,False,50.0,1.0,1.0,0,0,Cumbres 4to Sector
+"Balcones de Satélite, Monterrey",32500,33160.23750230172,-1.991051789830801,False,False,190.0,3.0,2.0,1,0,Balcones de Satélite
+"Buenos Aires, Monterrey",26000,25294.242449153102,2.790190503888873,False,False,67.0,2.0,2.0,1,0,Buenos Aires
+"Las Brisas 2 Sector, Monterrey",12000,11592.67603550524,3.513631910761909,False,False,50.0,1.0,1.0,0,1,Las Brisas 2 Sector
+"Brisas Diamante, Monterrey",16500,16421.231716276357,0.4796734196593132,False,False,90.0,1.0,1.0,0,1,Brisas Diamante
+"Balcones de Satélite, Monterrey",28000,27995.74371852064,0.01520331634034887,False,False,136.0,3.0,3.0,0,0,Balcones de Satélite
+"Cumbres Oro Sector Regency, Monterrey",19000,19158.130288365115,-0.8253952028980036,False,False,100.0,2.0,2.0,1,1,Cumbres Oro Sector Regency
+"Obispado, Monterrey",23100,24112.296063310387,-4.198256610040181,False,False,85.0,1.0,1.0,1,1,Obispado
+"Centro, Monterrey",26000,25313.585188666457,2.7116459648745006,False,False,50.0,1.0,1.0,0,1,Centro
+"Chepevera, Monterrey",20000,20301.010776068513,-1.4827378763985213,False,False,100.0,1.0,1.0,1,0,Chepevera
+"Balcones de Satélite, Monterrey",28000,32226.309890971348,-13.114470459912656,False,False,110.0,3.0,2.0,1,0,Balcones de Satélite
+"Campestre Mederos, Monterrey",30000,31695.44679965648,-5.349180941897488,False,False,132.0,2.0,2.0,1,0,Campestre Mederos
+"Monterrey Centro, Monterrey",16940,19228.318714576406,-11.900773793819534,False,False,23.0,1.0,,1,0,Monterrey Centro
+"Ladrillera, Monterrey",47400,46011.972005510375,3.0166670411852703,False,False,135.0,3.0,2.0,1,0,Ladrillera
+"Centro, Monterrey",33000,31788.623942275175,3.8107219108463375,False,False,1.0,2.0,2.0,1,1,Centro
+"Centrika Victoria, Monterrey",18500,18142.12570585139,1.9726150063726184,False,False,85.0,2.0,2.0,0,1,Centrika Victoria
+"Contry Tesoro, Monterrey",16500,16729.43710629354,-1.371457418655321,False,False,1.0,2.0,1.0,0,0,Contry Tesoro
+"San Jerónimo, Monterrey",25000,24080.1170512827,3.8200933440574723,False,False,90.0,1.0,1.0,0,0,San Jerónimo
+"Vista Hermosa, Monterrey",30000,27343.358636134468,9.715856048330359,False,False,100.0,2.0,2.0,0,1,Vista Hermosa
+"Tecnológico, Monterrey",25000,26221.774376900885,-4.659388641438248,False,False,65.0,1.0,1.0,1,1,Tecnológico
+"Dinastía , Monterrey",29000,29013.84220774143,-0.047708978501770125,False,False,109.0,2.0,2.0,0,0,Dinastía
+"Tecnológico, Monterrey",40000,33746.04413411017,18.532411802212973,False,False,110.0,2.0,2.0,1,1,Tecnológico
+"Las Brisas, Monterrey",11000,8974.653905575022,22.567400545293907,True,False,70.0,2.0,,0,1,Las Brisas
+"Mitras Norte, Monterrey",20000,20109.15471456622,-0.5428110535504103,False,False,45.0,1.0,1.0,1,1,Mitras Norte
+"Centro, Monterrey",45000,27796.373934008443,61.8916197732654,True,False,100.0,2.0,2.0,1,1,Centro
+"Centro, Monterrey",16300,16035.629256735752,1.6486458936633186,False,False,31.0,1.0,1.0,0,1,Centro
+"Centro, Monterrey",17800,21567.968549984478,-17.470206066241644,False,False,43.0,,,1,0,Centro
+"Centro, Monterrey",23000,24017.162013284742,-4.235146570282175,False,False,76.0,2.0,2.0,1,0,Centro
+"Centro, Monterrey",24800,25192.48791771741,-1.557956161373733,False,False,1000.0,2.0,2.0,1,1,Centro
+"Mitras Centro, Monterrey",19500,20582.262193931965,-5.258227612371182,False,False,,,,1,0,Mitras Centro
+"Altavista Invernadero, Monterrey",19000,19587.771870483073,-3.0007081681852235,False,False,1.0,1.0,1.0,0,1,Altavista Invernadero
+"San Jerónimo, Monterrey",27500,30430.175357088698,-9.629176706029446,False,False,140.0,2.0,2.0,1,1,San Jerónimo
+"Centro, Monterrey",22000,23330.993701809974,-5.704830744979017,False,False,90.0,3.0,2.0,1,1,Centro
+"Hacienda Los Encinos, Monterrey",18000,18526.645443326666,-2.842637891126507,False,False,70.0,1.0,1.0,0,1,Hacienda Los Encinos
+"Nuevo Repueblo, Monterrey",7000,7056.626216107814,-0.8024545210933237,False,False,55.0,1.0,1.0,0,0,Nuevo Repueblo
+"Vista Hermosa, Monterrey",26000,21781.18120493793,19.36910012073008,False,False,100.0,2.0,2.0,0,0,Vista Hermosa
+"Colinas de San Jerónimo, Monterrey",21495,25998.029941844245,-17.320658341871304,False,False,210.0,1.0,1.0,1,1,Colinas de San Jerónimo
+"San Jerónimo, Monterrey",25000,26272.82528084127,-4.8446456261764945,False,False,120.0,2.0,2.0,0,1,San Jerónimo
+"Ladrillera, Monterrey",35000,35444.368699158425,-1.2537074730547433,False,False,135.0,2.0,2.0,1,0,Ladrillera
+"Centro, Monterrey",35000,26829.34642345065,30.454165552865092,True,False,85.0,,,1,0,Centro
+"Mitras Centro, Monterrey",19000,18902.812899874923,0.5141409410327477,False,False,63.0,2.0,2.0,1,1,Mitras Centro
+"Centro, Monterrey",14200,14255.260992437166,-0.3876533194761143,False,False,40.0,1.0,1.0,1,1,Centro
+"Mitras Centro, Monterrey",6500,6829.262337628201,-4.821345576578824,False,False,,,,0,1,Mitras Centro
+"Centro, Monterrey",28000,28557.72543484171,-1.9529756881871905,False,False,76.0,2.0,2.0,0,1,Centro
+"Mitras Centro, Monterrey",19500,19246.68580686373,1.3161444815913872,False,False,56.0,2.0,1.0,1,0,Mitras Centro
+"Mitras Norte, Monterrey",18500,18530.884885548072,-0.16666708437738184,False,False,50.0,1.0,1.0,1,0,Mitras Norte
+"Centro, Monterrey",21000,21935.304470693216,-4.263922900832466,False,False,55.0,1.0,1.0,1,1,Centro
+"Francisco I Madero, Monterrey",20000,20564.06080852031,-2.742944663374084,False,False,55.0,2.0,2.0,1,1,Francisco I Madero
+"Centro, Monterrey",40000,39319.731086356296,1.7300955394370765,False,False,102.0,3.0,2.0,1,1,Centro
+"Nuevo Centro Monterrey, Monterrey",18000,22469.19226003583,-19.890311179475855,False,False,59.0,2.0,1.0,1,0,Nuevo Centro Monterrey
+"Centro, Monterrey",25000,27208.773275190615,-8.11787158814914,False,False,85.0,2.0,2.0,0,1,Centro
+"Colonial La Silla, Monterrey",18000,16301.645203117783,10.4183030345759,False,False,,,,0,1,Colonial La Silla
+"Centro, Monterrey",28000,25831.95068914761,8.392898147499258,False,False,54.0,1.0,1.0,1,1,Centro
+"Centro, Monterrey",26000,25895.822656761567,0.4022940094209794,False,False,,,,1,0,Centro
+"Del Paseo Residencial, Monterrey",60000,58940.0280284939,1.7983906811066808,False,False,180.0,2.0,3.0,0,0,Del Paseo Residencial
+"Monterrey, Nuevo León",16000,16338.005622603388,-2.068830372635952,False,False,80.0,3.0,2.0,0,1,Monterrey
+"Cumbres 2do Sector, Monterrey",8500,8907.427620277645,-4.574021116378669,False,False,55.0,1.0,1.0,0,0,Cumbres 2do Sector
+"Centro, Monterrey",27000,28979.291848703255,-6.830021447856128,False,False,72.0,2.0,2.0,1,1,Centro
+"Roma, Monterrey",14000,14019.625880642401,-0.1399886188796208,False,False,35.0,1.0,1.0,0,1,Roma
+"Condominios Constitución, Monterrey",16000,16736.554162570537,-4.40087102408308,False,False,84.0,3.0,1.0,0,0,Condominios Constitución
+"Colinas de San Jerónimo, Monterrey",25500,25781.887495206665,-1.09335476411133,False,False,95.0,2.0,2.0,1,0,Colinas de San Jerónimo
+"Ladrillera, Monterrey",24500,25961.307536948258,-5.62879020969386,False,False,54.0,,,1,1,Ladrillera
+"Centro, Monterrey",22000,27232.43636881439,-19.213985476548796,False,False,95.0,2.0,2.0,1,0,Centro
+"Las Brisas, Monterrey",15000,14821.597668679724,1.2036646474169728,False,False,90.0,1.0,1.0,0,1,Las Brisas
+"Centro, Monterrey",30000,31845.79075576409,-5.796027393133587,False,False,90.0,2.0,2.0,1,1,Centro
+"Loma Larga, Monterrey",27000,26522.036219296362,1.8021383303740863,False,False,138.0,3.0,2.0,1,1,Loma Larga
+"Colinas del Valle , Monterrey",15000,15766.58076857921,-4.862060961923385,False,False,,,,0,1,Colinas del Valle
+"Centro, Monterrey",28000,27765.82538572133,0.8433915110591087,False,False,1.0,2.0,2.0,1,0,Centro
+"Eugenio Garza Sada, Monterrey",18000,22620.996988445677,-20.427910364896753,False,True,100.0,2.0,2.0,0,1,Eugenio Garza Sada
+"Mas Palomas (Valle de Santiago), Monterrey",30000,30130.789252797385,-0.4340717785387675,False,False,96.0,2.0,1.0,0,1,Mas Palomas (Valle de Santiago)
+"Contry, Monterrey",16500,21340.10050981214,-22.68077653892337,False,True,380.0,1.0,1.0,0,1,Contry
+"Monterrey Centro, Monterrey",28000,26968.832779430268,3.8235515381897676,False,False,75.0,2.0,2.0,0,1,Monterrey Centro
+"Centro, Monterrey",19600,19049.9487950164,2.88741566133499,False,False,59.0,1.0,1.0,0,0,Centro
+"Mas Palomas (Valle de Santiago), Monterrey",30000,31692.755340999534,-5.341142866204791,False,False,135.0,2.0,2.0,1,0,Mas Palomas (Valle de Santiago)
+"Centrika, Monterrey",13000,13446.046781047906,-3.3173079665065957,False,False,96.0,3.0,2.0,0,1,Centrika
+"Cumbres, Monterrey",22000,21909.767860838725,0.41183521310855553,False,False,46.0,1.0,,0,1,Cumbres
+"Centro, Monterrey",21000,21282.91129530107,-1.3292885140367627,False,False,49.0,2.0,1.0,0,0,Centro
+"Mas Palomas (Valle de Santiago), Monterrey",37000,37251.506101600724,-0.6751568672546008,False,False,140.0,2.0,2.0,0,1,Mas Palomas (Valle de Santiago)
+"Altavista Sur, Monterrey",7500,7606.590592743606,-1.4012926217599955,False,False,30.0,1.0,1.0,0,1,Altavista Sur
+"Ancira, Monterrey",12000,12054.871298526885,-0.4551794637043547,False,False,105.0,2.0,1.0,0,0,Ancira
+"Estanzuela Nueva, Monterrey",21500,21609.598035560954,-0.5071729487082455,False,False,19.0,,,1,0,Estanzuela Nueva
+"Regina, Monterrey",10000,10725.666297535008,-6.7656990009262366,False,False,,,,1,0,Regina
+"Centro, Monterrey",30000,28983.84868066739,3.5059226624047217,False,False,117.0,2.0,2.0,1,1,Centro
+"Cumbres 2do Sector, Monterrey",12000,15750.680848362897,-23.8128172646755,False,True,1.0,1.0,1.0,0,0,Cumbres 2do Sector
+"Tecnológico, Monterrey",26000,26558.75720984161,-2.103852998191333,False,False,75.0,1.0,1.0,1,1,Tecnológico
+"Campestre Mederos, Monterrey",30000,29246.559000520632,2.576169728089911,False,False,135.0,2.0,2.0,1,0,Campestre Mederos
+"Las Torres, Monterrey",38000,36854.3772212058,3.1085121094788493,False,False,90.0,2.0,2.0,1,0,Las Torres
+"Mitras Norte, Monterrey",20000,18693.071871128053,6.991510747308108,False,False,31.0,1.0,1.0,1,1,Mitras Norte
+"Obrera, Monterrey",34000,33633.44727371132,1.089845840973871,False,False,80.0,2.0,2.0,1,1,Obrera
+"Tecnológico, Monterrey",13000,12488.485203447717,4.095891440949685,False,False,60.0,2.0,2.0,0,0,Tecnológico
+"Contry, Monterrey",6500,6609.218990180806,-1.6525249101757808,False,False,35.0,1.0,1.0,0,0,Contry
+"Centro, Monterrey",18500,21766.32516074347,-15.006323468117763,False,False,85.0,2.0,2.0,1,1,Centro
+"Las Brisas, Monterrey",11000,11669.707473408165,-5.738853993848876,False,False,,,,0,1,Las Brisas
+"Monterrey, Nuevo León",18000,18576.348301121845,-3.1025920260498063,False,False,120.0,3.0,3.0,0,0,Monterrey
+"Mas Palomas (Valle de Santiago), Monterrey",24000,23486.269321128544,2.1873660386296314,False,False,100.0,1.0,1.0,1,0,Mas Palomas (Valle de Santiago)
+"Centro, Monterrey",21000,21479.074112458595,-2.2304225496420043,False,False,67.0,2.0,2.0,1,0,Centro
+"Francisco I Madero, Monterrey",12000,12165.908836667311,-1.3637192164984184,False,False,33.0,1.0,1.0,1,1,Francisco I Madero
+"Tecnológico, Monterrey",35000,35708.522488496084,-1.9841831560640548,False,False,230.0,3.0,3.0,1,0,Tecnológico
+"Centro, Monterrey",23500,24157.625524521583,-2.7222274964650404,False,False,76.0,2.0,2.0,1,0,Centro
+"Monterrey Centro, Monterrey",23000,23528.06998403564,-2.244425422033968,False,False,74.0,2.0,2.0,1,1,Monterrey Centro
+"Monterrey, Nuevo León",35500,34469.25224500137,2.9903397604109756,False,False,109.0,2.0,2.0,1,0,Monterrey
+"Centro, Monterrey",35000,34097.953643209425,2.6454559890288816,False,False,85.0,2.0,2.0,1,1,Centro
+"Centro, Monterrey",30000,29295.371805881052,2.405254313848626,False,False,85.0,2.0,2.0,1,1,Centro
+"Obrera, Monterrey",30000,31922.353236074847,-6.021965930451618,False,False,89.0,2.0,2.0,1,0,Obrera
+"Centro, Monterrey",22000,23299.352495673073,-5.576775131044417,False,False,111.0,2.0,,0,1,Centro
+"Regina, Monterrey",6500,6533.037919102673,-0.505705301450493,False,False,1.0,1.0,1.0,1,0,Regina
+"Del Paseo Residencial, Monterrey",60000,58897.846603360194,1.8712965926617193,False,False,128.0,3.0,2.0,0,0,Del Paseo Residencial
+"Centrika Victoria, Monterrey",21000,19686.935218021044,6.6697267372374,False,False,100.0,2.0,2.0,1,0,Centrika Victoria
+"Centro, Monterrey",17000,19212.489636172457,-11.51589241202179,False,False,59.0,1.0,1.0,1,0,Centro
+"La Florida, Monterrey",25000,24638.41347299544,1.467572282610132,False,False,100.0,3.0,3.0,0,1,La Florida
+"Centro, Monterrey",32000,31020.945078876975,3.1561092630594616,False,False,99.0,2.0,2.0,0,1,Centro
+"Centro, Monterrey",24522,25061.2843937478,-2.1518625513157574,False,False,80.0,1.0,1.0,1,1,Centro
+"Reforma, Monterrey",12000,12348.910242936374,-2.825433467993274,False,False,1.0,2.0,1.0,0,1,Reforma
+"Ladrillera, Monterrey",37000,37173.2414542231,-0.466038062449937,False,False,103.0,2.0,2.0,1,1,Ladrillera
+"Contry, Monterrey",10800,12315.476958742915,-12.305467046219903,False,False,1.0,1.0,1.0,0,0,Contry
+"Chepevera, Monterrey",26000,24731.84065460204,5.127638347297788,False,False,79.0,2.0,2.0,1,0,Chepevera
+"Del Paseo Residencial, Monterrey",45000,49805.66042668531,-9.648823819451838,False,False,110.0,3.0,2.0,1,0,Del Paseo Residencial
+"Las Brisas, Monterrey",11000,10787.435282503062,1.970484289641232,False,False,30.0,1.0,1.0,0,1,Las Brisas
+"San Jerónimo, Monterrey",31000,31759.950730400356,-2.392795684260738,False,False,187.0,3.0,3.0,0,0,San Jerónimo
+"Cumbres 5to Sector, Monterrey",13500,13870.291083137221,-2.6696705996848302,False,False,120.0,3.0,2.0,0,0,Cumbres 5to Sector
+"Centro, Monterrey",20500,20781.14631717985,-1.3528912837085647,False,False,250.0,1.0,1.0,0,0,Centro
+"Centro, Monterrey",24000,24667.83290946065,-2.707302712450758,False,False,77.0,2.0,2.0,1,1,Centro
+"Centro, Monterrey",20000,19623.05009021876,1.9209547346012923,False,False,54.0,2.0,2.0,0,0,Centro
+"Centro, Monterrey",24000,22571.962501546685,6.326598754341643,False,False,56.0,1.0,1.0,0,0,Centro
+"Ladrillera, Monterrey",47500,47112.0965170081,0.8233628126735096,False,False,129.0,3.0,2.0,0,1,Ladrillera
+"Centro, Monterrey",18500,18680.96519140432,-0.968714354692916,False,False,45.0,,,1,1,Centro
+"Nueva Madero, Monterrey",7000,6922.455300519103,1.1201906854506123,False,False,200.0,1.0,1.0,0,0,Nueva Madero
+"Centro, Monterrey",22000,22376.80632774582,-1.6839146848163247,False,False,58.0,1.0,1.0,1,1,Centro
+"Contry, Monterrey",10500,9512.477977356064,10.381333076351696,False,False,30.0,1.0,1.0,0,0,Contry
+"Centro, Monterrey",26300,27885.29127745366,-5.685044712928746,False,False,,,,1,0,Centro
+"Tecnológico, Monterrey",17500,17779.96306205729,-1.5745986708753923,False,False,70.0,2.0,1.0,0,0,Tecnológico
+"Centro, Monterrey",40000,40043.94480298615,-0.10974144331273603,False,False,186.0,3.0,2.0,1,1,Centro
+"Los Cedros, Monterrey",12000,12335.645870591332,-2.720942819796124,False,False,60.0,1.0,1.0,1,1,Los Cedros
+"Centro, Monterrey",11500,14396.9087830232,-20.12174159524597,False,True,20.0,1.0,1.0,1,0,Centro
+"Santa María, Monterrey",33000,32761.68942975623,0.7274062308499966,False,False,121.0,3.0,2.0,0,0,Santa María
+"Ladrillera, Monterrey",28800,26132.177785064305,10.208954787000085,False,False,59.0,1.0,1.0,1,1,Ladrillera
+"Ladrillera, Monterrey",24000,24477.013602138562,-1.948822719520349,False,False,53.0,1.0,1.0,0,1,Ladrillera
+"Mitras Norte, Monterrey",22000,22550.087055611726,-2.4394010287194594,False,False,40.0,1.0,1.0,1,1,Mitras Norte
+"Centro, Monterrey",17500,18264.432267986118,-4.185360140243802,False,False,70.0,2.0,2.0,0,0,Centro
+"Centro, Monterrey",25000,22546.377265259267,10.882558673944544,False,False,60.0,2.0,1.0,1,0,Centro
+"Centro, Monterrey",18000,17980.215438696236,0.11003517377875728,False,False,37.0,1.0,1.0,1,1,Centro
+"Regina, Monterrey",19000,19321.32972122945,-1.6630828512614528,False,False,66.0,2.0,2.0,0,1,Regina
+"Centro, Monterrey",19000,19363.515665145278,-1.877322648591204,False,False,66.0,2.0,2.0,1,1,Centro
+"Centro, Monterrey",22000,24876.588546662475,-11.563436607341433,False,False,68.0,,,1,0,Centro
+"Mitras Centro, Monterrey",13000,12584.080473734972,3.305124495453761,False,False,39.0,,,0,1,Mitras Centro
+"Del Paseo Residencial, Monterrey",40000,40216.25777729787,-0.5377371969699953,False,False,90.0,2.0,2.0,1,0,Del Paseo Residencial
+"Monterrey Centro, Monterrey",34800,32001.700429726825,8.7442215029105,False,False,83.0,2.0,2.0,1,1,Monterrey Centro
+"Balcones de Satélite, Monterrey",28000,28008.336240443412,-0.02976342604518796,False,False,136.0,3.0,3.0,0,0,Balcones de Satélite
+"Acero, Monterrey",19000,19269.799003996777,-1.4001132234997251,False,False,57.0,1.0,1.0,1,1,Acero
+"Centro, Monterrey",20000,20253.508182685462,-1.2516754154333811,False,False,60.0,2.0,1.0,1,0,Centro
+"Monterrey, Nuevo León",16000,26460.342843158323,-39.53215158685287,False,True,,,,1,1,Monterrey
+"Monterrey, Nuevo León",28000,29132.426446604928,-3.887168302580234,False,False,700.0,2.0,3.0,0,1,Monterrey
+"Roma Sur, Monterrey",14500,13561.830484297243,6.917720412366384,False,False,35.0,1.0,1.0,0,1,Roma Sur
+"Colinas del Valle , Monterrey",27000,26881.511090526634,0.44078217580232365,False,False,130.0,3.0,2.0,1,0,Colinas del Valle
+"Centro, Monterrey",28000,28636.963460826184,-2.2242702572062694,False,False,1500.0,2.0,2.0,1,1,Centro
+"San Jerónimo, Monterrey",36000,36377.73141030399,-1.0383588961157633,False,False,120.0,3.0,2.0,1,0,San Jerónimo
+"Puerta de Hierro Cumbres, Monterrey",19500,19313.607293512763,0.9650848940572806,False,False,100.0,2.0,2.0,1,1,Puerta de Hierro Cumbres
+"Centro, Monterrey",28000,27408.222664320918,2.1591233511446823,False,False,85.0,2.0,2.0,1,1,Centro
+"Garza Nieto, Monterrey",12200,12893.462398844262,-5.378403235630656,False,False,1.0,1.0,,1,1,Garza Nieto
+"Centro, Monterrey",12000,12701.244652524609,-5.521070349473374,False,False,80.0,2.0,1.0,0,0,Centro
+"Monterrey Centro, Monterrey",20500,24580.45914211819,-16.600418724996047,False,False,70.0,2.0,2.0,1,1,Monterrey Centro
+"Monterrey, Nuevo León",29000,26656.902139095644,8.789835550575523,False,False,58.0,1.0,1.0,1,1,Monterrey
+"Tecnológico, Monterrey",16000,17013.746611416118,-5.958397257050368,False,False,60.0,1.0,1.0,1,1,Tecnológico
+"Obispado, Monterrey",30000,29765.63732969883,0.7873598260479108,False,False,1.0,2.0,1.0,1,1,Obispado
+"Cumbres 2do Sector, Monterrey",12500,12716.676241073848,-1.7038747937452507,False,False,96.0,3.0,2.0,0,1,Cumbres 2do Sector
+"Mitras Centro, Monterrey",19500,19349.217789874183,0.7792677293896826,False,False,56.0,1.0,1.0,1,0,Mitras Centro
+"Centro, Monterrey",32000,28031.846576361488,14.155875934997272,False,False,75.0,2.0,1.0,0,1,Centro
+"Santa María, Monterrey",27000,27598.995308675214,-2.170351862362654,False,False,84.0,2.0,2.0,0,0,Santa María
+"Alfonso Reyes, Monterrey",17000,17233.4101473477,-1.354404876063496,False,False,,,,0,1,Alfonso Reyes
+"Lomas de Valle Alto, Monterrey",55000,54882.823701756024,0.2135026777789984,False,False,138.0,3.0,3.0,1,0,Lomas de Valle Alto
+"Centro, Monterrey",22000,21490.371305688073,2.3714280552101865,False,False,1.0,2.0,2.0,0,0,Centro
+"Monterrey Centro, Monterrey",18500,18198.645956965585,1.6559146419301074,False,False,51.0,2.0,2.0,1,1,Monterrey Centro
+"Mitras Centro, Monterrey",19000,19068.066783181468,-0.3569674050098499,False,False,1.0,1.0,1.0,1,0,Mitras Centro
+"Jardín Español, Monterrey",14500,15440.29909094707,-6.089902050526887,False,False,100.0,2.0,2.0,0,0,Jardín Español
+"Centro, Monterrey",26000,26894.87248170196,-3.327297730490417,False,False,1.0,2.0,2.0,1,0,Centro
+"Monterrey Centro, Monterrey",25000,25211.39084160455,-0.83847354131572,False,False,64.0,2.0,2.0,1,0,Monterrey Centro
+"Centro, Monterrey",22000,22695.916865227446,-3.066264603276126,False,False,150.0,2.0,2.0,0,1,Centro
+"Centro, Monterrey",9600,9610.632675263087,-0.11063449850137545,False,False,40.0,1.0,1.0,0,1,Centro
+"Obispado, Monterrey",30000,30332.810484533824,-1.0971963336648882,False,False,145.0,2.0,2.0,1,1,Obispado
+"Colinas del Valle , Monterrey",31000,30593.743377394643,1.327907531922148,False,False,104.0,2.0,2.0,1,1,Colinas del Valle
+"Ladrillera, Monterrey",24500,25392.20567146244,-3.513698979152352,False,False,61.0,1.0,1.0,1,0,Ladrillera
+"Mirador de Las Mitras 4 Sector 1 Etapa, Monterrey",30300,29851.171244386664,1.5035549256638832,False,False,85.0,2.0,2.0,1,1,Mirador de Las Mitras 4 Sector 1 Etapa
+"Centro, Monterrey",28145,25415.362690113514,10.740107639495955,False,False,80.0,2.0,2.0,0,0,Centro
+"Valle Primavera, Monterrey",10500,10771.68770058204,-2.5222389298137577,False,False,40.0,1.0,1.0,0,1,Valle Primavera
+"Contry, Monterrey",49000,35871.26760478454,36.599577522218205,True,False,164.0,3.0,3.0,1,1,Contry
+"Centro, Monterrey",40000,29173.726752697115,37.10966836385411,True,False,103.0,2.0,2.0,1,1,Centro
+"Centro, Monterrey",30000,29564.489969098915,1.4730848776903787,False,False,112.0,2.0,2.0,1,1,Centro
+"Mas Palomas (Valle de Santiago), Monterrey",15000,15097.819689768925,-0.647906067093997,False,False,16.0,1.0,1.0,1,0,Mas Palomas (Valle de Santiago)
+"Colinas de Liverpool, Monterrey",22000,21041.76856299904,4.553949132802287,False,False,40.0,,,0,1,Colinas de Liverpool
+"Centro, Monterrey",10400,10348.755069854671,0.49517965976992195,False,False,40.0,1.0,1.0,0,1,Centro
+"Roma Sur, Monterrey",10500,10716.093304462634,-2.0165306359608133,False,False,22.0,1.0,1.0,0,1,Roma Sur
+"Cumbres Oro Residencial, Monterrey",19000,20140.958291514544,-5.664865966160277,False,False,98.0,2.0,2.0,1,1,Cumbres Oro Residencial
+"Colinas de San Jerónimo, Monterrey",29000,31607.385009869224,-8.24929050301087,False,False,91.0,2.0,2.0,1,0,Colinas de San Jerónimo
+"Regina, Monterrey",8200,14900.201737799032,-44.96718806700362,False,True,,,,1,1,Regina
+"Avila Camacho, Monterrey",18900,18908.366302618982,-0.04424656517164909,False,False,80.0,2.0,2.0,0,1,Avila Camacho
+"Centro, Monterrey",11500,12573.588043111538,-8.538438188291888,False,False,,,,0,1,Centro
+"La Florida, Monterrey",16000,16532.074639992934,-3.218438408847889,False,False,90.0,2.0,1.0,0,0,La Florida
+"Centro, Monterrey",21000,21504.10032575661,-2.344205607861789,False,False,55.0,2.0,2.0,1,0,Centro
+"Cumbres 3er Sector, Monterrey",16500,16514.0006414315,-0.084780434102525,False,False,100.0,2.0,1.0,0,1,Cumbres 3er Sector
+"Centro, Monterrey",27000,26254.98530269157,2.837612319029003,False,False,85.0,2.0,2.0,1,0,Centro
+"Centro, Monterrey",30000,26812.929559791246,11.886319371039914,False,False,67.0,2.0,2.0,1,0,Centro
+"Haciendas de La Sierra, Monterrey",50000,48008.98015555502,4.147182127164185,False,False,80.0,2.0,2.0,1,0,Haciendas de La Sierra
+"Centro, Monterrey",26000,24998.619569057773,4.00574290982728,False,False,60.0,2.0,2.0,1,0,Centro
+"Tecnológico, Monterrey",18800,18537.532086336112,1.4158730107194322,False,False,80.0,2.0,1.0,1,1,Tecnológico
+"Empleados SFEO, Monterrey",42500,41140.6705375191,3.3041013788076925,False,False,93.0,2.0,2.0,0,0,Empleados SFEO
+"Urdiales, Monterrey",19500,19891.075757966533,-1.9660865139981398,False,False,72.0,,,1,0,Urdiales
+"Loma Larga, Monterrey",24500,24760.090215438744,-1.0504413076676478,False,False,102.0,2.0,2.0,1,1,Loma Larga
+"Jardín de las Torres, Monterrey",55000,32263.11620846179,70.47330346091897,True,False,190.0,,,0,0,Jardín de las Torres
+"Obispado, Monterrey",38000,39137.365156541615,-2.906085149044608,False,False,119.0,2.0,2.0,1,1,Obispado
+"Los Angeles, Monterrey",44000,43016.600800363085,2.2860923023667055,False,False,122.0,3.0,3.0,1,1,Los Angeles
+"Ladrillera, Monterrey",45000,44256.004437050506,1.6811177882263402,False,False,184.0,2.0,2.0,1,0,Ladrillera
+"Ladrillera, Monterrey",25000,25238.80457526322,-0.9461802144831974,False,False,110.0,1.0,1.0,1,0,Ladrillera
+"Mitras Centro, Monterrey",23000,23116.11252938702,-0.5023012811492829,False,False,81.0,2.0,2.0,1,1,Mitras Centro
+"San Jerónimo, Monterrey",29000,28712.467432946927,1.0014206118807314,False,False,100.0,2.0,2.0,1,1,San Jerónimo
+"Morelos, Monterrey",7500,7878.275361707726,-4.801499621939205,False,False,30.0,1.0,1.0,0,1,Morelos
+"Centro, Monterrey",16300,16845.486297335967,-3.238174830383097,False,False,70.0,1.0,1.0,1,0,Centro
+"Contry Sur, Monterrey",29000,29535.847602310332,-1.814227949457653,False,False,113.0,3.0,2.0,1,1,Contry Sur
+"Monterrey, Nuevo León",26000,24480.447012153643,6.207210951221415,False,False,66.0,1.0,2.0,0,0,Monterrey
+"Monterrey, Nuevo León",27000,26936.493135769277,0.23576515291217254,False,False,86.0,1.0,1.0,1,1,Monterrey
+"Tecnológico, Monterrey",11800,13708.397738004964,-13.92137706009324,False,False,45.0,1.0,1.0,1,1,Tecnológico
+"Centro, Monterrey",18000,19273.490240756113,-6.607470804966943,False,False,35.0,1.0,1.0,1,1,Centro
+"Colinas de San Jerónimo, Monterrey",27500,27968.48590451205,-1.6750492182934764,False,False,145.0,2.0,2.0,1,0,Colinas de San Jerónimo
+"Centro, Monterrey",25000,25092.29358268586,-0.3678164468374607,False,False,84.0,2.0,1.0,1,1,Centro
+"Centro, Monterrey",21000,20553.984483219265,2.169971068844935,False,False,48.0,2.0,1.0,0,1,Centro
+"Rincón de las Colinas, Monterrey",25000,24891.732972119025,0.4349517488486777,False,False,90.0,2.0,2.0,1,1,Rincón de las Colinas
+"Cumbres Quinta Real, Monterrey",10000,12044.339178937824,-16.97344410985038,False,False,38.0,1.0,,0,1,Cumbres Quinta Real
+"Centro, Monterrey",21000,20478.47304520776,2.5467082122818927,False,False,50.0,1.0,1.0,1,0,Centro
+"Urdiales, Monterrey",12000,11394.760783109441,5.311557025292805,False,False,90.0,2.0,1.0,0,0,Urdiales
+"Lomas de Valle Alto, Monterrey",34000,40546.512452811156,-16.14568567501365,False,False,84.0,2.0,2.0,0,0,Lomas de Valle Alto
+"Centro, Monterrey",24100,24779.7510138139,-2.7431712830163693,False,False,91.0,1.0,1.0,1,0,Centro
+"Contry Tesoro, Monterrey",22000,21798.576054987083,0.9240234064134446,False,False,54.0,1.0,1.0,0,1,Contry Tesoro
+"Real de Cumbres 1er Sector, Monterrey",40000,40378.08672382814,-0.9363661196086934,False,False,200.0,3.0,2.0,0,0,Real de Cumbres 1er Sector
+"Centro, Monterrey",32900,31314.49222001664,5.063175761700143,False,False,67.0,2.0,2.0,1,1,Centro
+"Vista Hermosa, Monterrey",20000,20090.062642596247,-0.4482944836881229,False,False,50.0,1.0,1.0,1,1,Vista Hermosa
+"Ladrillera, Monterrey",39700,40689.63561315535,-2.4321564895886874,False,False,135.0,2.0,2.0,1,0,Ladrillera
+"Monterrey, Nuevo León",19000,21559.14591765096,-11.870349258853196,False,False,80.0,2.0,2.0,0,1,Monterrey
+"Cumbres Oro Sector Regency, Monterrey",19000,18629.543905215945,1.9885408717941473,False,False,96.0,2.0,2.0,0,1,Cumbres Oro Sector Regency
+"Centro, Monterrey",25000,24762.292608321804,0.9599571228647457,False,False,100.0,2.0,2.0,1,0,Centro
+"Centro, Monterrey",12500,12126.5190067214,3.0798697719567247,False,False,30.0,1.0,1.0,1,0,Centro
+"Ladrillera, Monterrey",24500,23829.819175127588,2.8123621918705712,False,False,61.0,1.0,1.0,1,0,Ladrillera
+"Vista Hermosa, Monterrey",12000,12124.26095117837,-1.0248950569337032,False,False,36.0,1.0,1.0,0,0,Vista Hermosa
+"Ladrillera, Monterrey",33200,32818.47261828736,1.1625385073528558,False,False,100.0,2.0,2.0,1,0,Ladrillera
+"Centro, Monterrey",53000,51882.51432471146,2.1538772548582603,False,False,280.0,1.0,1.0,0,0,Centro
+"Mitras Centro, Monterrey",18000,18207.526217874325,-1.1397826118223386,False,False,160.0,3.0,2.0,0,1,Mitras Centro
+"Leones, Monterrey",15000,15117.306376788001,-0.7759740648513965,False,False,30.0,1.0,1.0,0,0,Leones
+"Centro, Monterrey",29000,29361.312817888032,-1.2305744641905347,False,False,113.0,3.0,2.0,1,0,Centro
+"Regina, Monterrey",18000,18622.38770188023,-3.3421476979420337,False,False,1.0,2.0,2.0,1,1,Regina
+"Satélite Acueducto 7 Sector, Monterrey",28500,29502.221582321414,-3.3971054672098795,False,False,100.0,2.0,2.0,1,1,Satélite Acueducto 7 Sector
+"Monterrey Centro, Monterrey",16500,17094.41672335267,-3.477256539210485,False,False,217.0,3.0,1.0,0,0,Monterrey Centro
+"Contry, Monterrey",17000,16945.556279536722,0.321286121064219,False,False,65.0,2.0,2.0,0,1,Contry
+"Centro, Monterrey",28000,28183.8327894963,-0.6522632704690619,False,False,76.0,2.0,2.0,0,1,Centro
+"Santa María, Monterrey",35500,33007.18639177324,7.552335962958878,False,False,107.0,2.0,2.0,1,0,Santa María
+"Centro, Monterrey",19600,19404.424850770345,1.0078894413708466,False,False,88.0,1.0,1.0,1,0,Centro
+"Tecnológico, Monterrey",10400,10614.722388677856,-2.022873333992119,False,False,40.0,1.0,1.0,1,1,Tecnológico
+"Eugenio Garza Sada, Monterrey",30000,29601.427818242915,1.346462691611959,False,False,,,,1,0,Eugenio Garza Sada
+"Altavista Sur, Monterrey",14400,14890.134497828672,-3.2916727374097627,False,False,30.0,,,0,0,Altavista Sur
+"Sierra Alta 1era. Etapa, Monterrey",18000,18348.460146961555,-1.8991247449135904,False,False,30.0,,,1,1,Sierra Alta 1era. Etapa
+"Regina, Monterrey",19500,19171.68750327701,1.7124861682982804,False,False,1.0,2.0,2.0,1,0,Regina
+"Obispado, Monterrey",18000,18235.203915938808,-1.289834306339857,False,False,120.0,3.0,1.0,0,0,Obispado
+"Monterrey, Nuevo León",25500,24401.45253921086,4.501975687815624,False,False,75.0,2.0,2.0,0,0,Monterrey
+"Santa Lucía, Monterrey",35000,33516.52090878735,4.4261130063285,False,False,,,,1,1,Santa Lucía
+"San Jerónimo, Monterrey",20000,17675.31018540391,13.152186808669397,False,False,50.0,1.0,1.0,0,1,San Jerónimo
+"Obrera, Monterrey",35000,34071.22293007492,2.725986888792433,False,False,80.0,2.0,2.0,1,1,Obrera
+"Centro, Monterrey",17400,18815.460563818517,-7.5228589755618245,False,False,80.0,2.0,1.0,0,1,Centro
+"Vista Hermosa, Monterrey",18000,18024.440881341532,-0.1355985547758804,False,False,300.0,2.0,1.0,0,0,Vista Hermosa
+"Mitras Norte, Monterrey",14500,14375.369994153574,0.8669690303422622,False,False,1.0,2.0,1.0,0,1,Mitras Norte
+"Valle de los Cedros, Monterrey",7300,7896.414738499117,-7.552981425751186,False,False,,,,0,1,Valle de los Cedros
+"Jardín de las Torres, Monterrey",29000,29027.502359144833,-0.09474586826161814,False,False,114.0,2.0,2.0,0,1,Jardín de las Torres
+"Centrika 1 Sector , Monterrey",16500,16164.679991516925,2.0743992993306883,False,False,100.0,2.0,2.0,1,0,Centrika 1 Sector
+"Tecnológico, Monterrey",17400,16421.439438543013,5.959042537770424,False,False,80.0,2.0,1.0,0,1,Tecnológico
+"Ladrillera, Monterrey",25000,28997.91518996747,-13.786905588821933,False,False,65.0,,,0,1,Ladrillera
+"Jardines Roma, Monterrey",13450,13371.64983608453,0.5859423846415323,False,False,1.0,1.0,1.0,0,1,Jardines Roma
+"Tecnológico, Monterrey",25000,24759.854967259507,0.9698967665927032,False,False,56.0,1.0,1.0,0,1,Tecnológico
+"Colonial La Silla, Monterrey",18000,17305.976275980658,4.010312466350671,False,False,,,,1,1,Colonial La Silla
+"Buenos Aires, Monterrey",26000,26469.7349046086,-1.774611292109365,False,False,67.0,2.0,2.0,1,0,Buenos Aires
+"Centro, Monterrey",26500,27351.872724913817,-3.1144950602884234,False,False,120.0,2.0,2.0,1,1,Centro
+"Urdiales, Monterrey",8500,8804.870572498046,-3.462521907480475,False,False,110.0,1.0,1.0,0,0,Urdiales
+"Tecnológico, Monterrey",11800,11458.048414096675,2.98437895831045,False,False,40.0,1.0,1.0,1,1,Tecnológico
+"Las Brisas, Monterrey",8500,8594.120717167612,-1.0951756469931457,False,False,45.0,1.0,1.0,0,1,Las Brisas
+"Dinastía , Monterrey",17000,17015.241996259167,-0.08957848652706561,False,False,1.0,1.0,1.0,0,0,Dinastía
+"Ladrillera, Monterrey",45000,44836.55803422001,0.36452835129593675,False,False,184.0,2.0,2.0,1,0,Ladrillera
+"Centro, Monterrey",30500,28407.5804193285,7.365708553086833,False,False,87.0,2.0,2.0,0,1,Centro
+"Centro, Monterrey",34000,33224.291402323135,2.3347634063389693,False,False,160.0,2.0,2.0,1,0,Centro
+"Altavista, Monterrey",20500,20684.06416668265,-0.8898839473682083,False,False,150.0,2.0,2.0,0,1,Altavista
+"Centro, Monterrey",17500,18125.953852024235,-3.453356756473982,False,False,56.0,2.0,2.0,0,0,Centro
+"Vista Hermosa, Monterrey",15000,15559.18179914766,-3.5939023424630996,False,False,45.0,1.0,1.0,0,0,Vista Hermosa
+"Ladrillera, Monterrey",22500,22720.303345765733,-0.9696320617426517,False,False,60.0,1.0,1.0,1,0,Ladrillera
+"Centro, Monterrey",20000,19956.237838820656,0.2192906375079062,False,False,35.0,1.0,1.0,1,1,Centro
+"Jardín de las Torres, Monterrey",28500,29286.69201742603,-2.6861757447988204,False,False,126.0,2.0,2.0,1,1,Jardín de las Torres
+"Santa María, Monterrey",55000,54353.72743163205,1.1890124171904424,False,False,221.0,3.0,3.0,1,1,Santa María
+"Centro, Monterrey",36000,37003.103841325086,-2.710864055152096,False,False,98.0,3.0,2.0,1,0,Centro
+"Monterrey, Nuevo León",22000,22184.815821689353,-0.8330735002481526,False,False,55.0,1.0,1.0,1,1,Monterrey
+"Cumbre Allegro, Monterrey",22500,22720.952302781283,-0.9724605722368249,False,False,83.0,2.0,2.0,1,1,Cumbre Allegro
+"Colinas de San Jerónimo, Monterrey",23000,22714.098590443187,1.2586958202123149,False,False,50.0,1.0,1.0,1,1,Colinas de San Jerónimo
+"Residencial San Jerónimo II, Monterrey",28000,27862.194555087954,0.4945965208863331,False,False,101.0,3.0,2.0,0,1,Residencial San Jerónimo II
+"Buenos Aires, Monterrey",29000,29323.10577261244,-1.101881141506573,False,False,94.0,3.0,2.0,1,0,Buenos Aires
+"Las Torres, Monterrey",28000,28068.207091319884,-0.24300480290020787,False,False,140.0,2.0,3.0,1,1,Las Torres
+"Mitras Norte, Monterrey",25000,24638.373556921084,1.4677366679398072,False,False,73.0,2.0,2.0,1,1,Mitras Norte
+"Centro, Monterrey",16500,19437.665223775286,-15.113261752147396,False,False,100.0,2.0,2.0,0,0,Centro
+"Centro, Monterrey",19000,19638.991635136805,-3.2536886160364897,False,False,55.0,2.0,1.0,1,0,Centro
+"Ladrillera, Monterrey",33400,34165.592969201236,-2.240830328603938,False,False,92.0,2.0,2.0,1,0,Ladrillera
+"Roma, Monterrey",24440,20052.3637163894,21.880893173827936,True,False,116.0,2.0,2.0,0,0,Roma
+"Obispado, Monterrey",33000,31017.931921855416,6.390071662862887,False,False,90.0,3.0,2.0,0,0,Obispado
+"Mitras Norte, Monterrey",20000,19535.807964344443,2.3761087153537304,False,False,56.0,1.0,1.0,0,1,Mitras Norte
+"Centro, Monterrey",20000,21202.669935605725,-5.672257028281504,False,False,75.0,1.0,1.0,0,1,Centro
+"Rincón de las Colinas, Monterrey",19000,16557.944805446412,14.748540493686885,False,False,80.0,2.0,2.0,0,1,Rincón de las Colinas
+"Tecnológico, Monterrey",37000,34769.278576009645,6.415782884634035,False,False,95.0,2.0,1.0,1,1,Tecnológico
+"Centro, Monterrey",27000,27712.910868382718,-2.572486418942257,False,False,75.0,2.0,2.0,1,1,Centro
+"Centro, Monterrey",20000,20533.961192503844,-2.600380839809773,False,False,56.0,1.0,1.0,0,1,Centro
+"Tecnológico, Monterrey",25000,24515.459570109106,1.9764688828500632,False,False,56.0,1.0,1.0,0,1,Tecnológico
+"Cumbres, Monterrey",18000,17753.102528109313,1.3907285867344161,False,False,90.0,2.0,2.0,1,1,Cumbres
+"Rincón de Santa María, Monterrey",20000,20084.135956726088,-0.41891748247158794,False,False,114.0,2.0,2.0,0,1,Rincón de Santa María
+"Miravalle, Monterrey",20000,20865.698884903875,-4.148909124391706,False,False,120.0,1.0,2.0,0,0,Miravalle
+"Ladrillera, Monterrey",28000,26466.250503451614,5.795114409380961,False,False,38.0,1.0,1.0,0,1,Ladrillera
+"Tecnológico, Monterrey",34000,21965.754789510403,54.78639512190343,True,False,74.0,2.0,1.0,0,0,Tecnológico
+"Monterrey, Nuevo León",21000,21056.409432722598,-0.26789673188504204,False,False,55.0,1.0,1.0,1,0,Monterrey
+"Centro, Monterrey",25000,25101.159309461375,-0.40300652338095216,False,False,76.0,1.0,1.0,0,1,Centro
+"Centro, Monterrey",31000,32542.891479183058,-4.741101386673061,False,False,80.0,2.0,2.0,1,1,Centro
+"Centro, Monterrey",22000,22551.06288503697,-2.4436226702316923,False,False,54.0,1.0,1.0,0,0,Centro
+"El Mirador, Monterrey",39500,39121.05498032339,0.9686472408967728,False,False,109.0,3.0,1.0,1,0,El Mirador
+"San Jerónimo, Monterrey",28500,27803.781252458015,2.5040433933080064,False,False,120.0,2.0,2.0,0,1,San Jerónimo
+"Monterrey, Nuevo León",17950,18436.712531882647,-2.6399095339853806,False,False,1000.0,1.0,1.0,0,0,Monterrey
+"Obispado, Monterrey",22500,22783.559022436802,-1.2445773821269939,False,False,70.0,2.0,2.0,0,1,Obispado
+"Centro, Monterrey",17500,20712.13950890348,-15.50848722085271,False,False,80.0,2.0,2.0,1,0,Centro
+"Ladrillera, Monterrey",39900,39216.50783233969,1.742868514918285,False,False,100.0,2.0,2.0,1,1,Ladrillera
+"Centro, Monterrey",22000,21794.91833918455,0.9409609048488051,False,False,60.0,2.0,2.0,0,1,Centro
+"Centro, Monterrey",20000,20290.144987802425,-1.4299798644950437,False,False,54.0,2.0,2.0,0,0,Centro
+"Mirador Residencial, Monterrey",28000,28581.195604952904,-2.033489476738988,False,False,130.0,2.0,3.0,0,0,Mirador Residencial
+"Mitras Centro, Monterrey",26900,26754.453431126494,0.5440087544609485,False,False,85.0,2.0,2.0,1,1,Mitras Centro
+"Centro, Monterrey",30000,30082.018239083878,-0.2726487246700637,False,False,83.0,2.0,2.0,1,0,Centro
+"Tecnológico, Monterrey",13000,13336.449056326785,-2.522778401550402,False,False,35.0,1.0,1.0,0,1,Tecnológico
+"Centro, Monterrey",36000,35952.53207869981,0.1320294247878853,False,False,98.0,3.0,3.0,1,1,Centro
+"Monterrey, Nuevo León",40000,33816.07747304763,18.286930327389765,False,False,160.0,2.0,2.0,1,0,Monterrey
+"10 de Junio, Monterrey",26000,20595.056009163738,26.243890710621713,True,False,65.0,1.0,2.0,1,0,10 de Junio
+"Centro, Monterrey",29000,27104.242606662494,6.994319748567738,False,False,60.0,1.0,1.0,1,1,Centro
+"Centro, Monterrey",21000,21140.275673842236,-0.6635470417058228,False,False,52.0,2.0,2.0,1,1,Centro
+"Mitras Centro, Monterrey",27000,27020.78995354407,-0.07694058382383943,False,False,800.0,3.0,3.0,0,0,Mitras Centro
+"Centro, Monterrey",25000,26023.441240228232,-3.9327667343477613,False,False,75.0,2.0,2.0,1,0,Centro
+"Acero, Monterrey",19000,18172.85923445839,4.551516934513156,False,False,57.0,1.0,1.0,0,1,Acero
+"Vistancias 1er Sector, Monterrey",28000,27830.04591356969,0.6106856128018129,False,False,69.0,2.0,1.0,1,0,Vistancias 1er Sector
+"Centro, Monterrey",19500,21052.714771182807,-7.375366018391988,False,False,78.0,2.0,2.0,1,0,Centro
+"Regina, Monterrey",21800,21441.709024473326,1.6710000826786913,False,False,1.0,2.0,,1,1,Regina
+"Monterrey, Nuevo León",40000,38375.85463361912,4.23220637530258,False,False,133.0,3.0,2.0,0,0,Monterrey
+"Tanque de Guadalupe, Monterrey",52000,50473.48069846352,3.0243987147550686,False,False,151.0,3.0,2.0,1,1,Tanque de Guadalupe
+"Contry, Monterrey",17500,18202.233067184698,-3.8579500910286417,False,False,56.0,1.0,1.0,1,1,Contry
+"Vista Hermosa, Monterrey",26000,25608.767367522498,1.5277292610876325,False,False,150.0,2.0,2.0,0,0,Vista Hermosa
+"Buenos Aires, Monterrey",33000,32342.583395119,2.032665717668721,False,False,70.0,3.0,2.0,1,0,Buenos Aires
+"Centro, Monterrey",43000,39817.25277771233,7.993387288811666,False,False,102.0,3.0,2.0,1,0,Centro
+"Mitras Centro, Monterrey",13000,13309.744574941158,-2.3272014965961696,False,False,85.0,1.0,1.0,0,1,Mitras Centro
+"Lomas de Valle Alto, Monterrey",55000,54463.1601228611,0.9856935879737102,False,False,138.0,3.0,3.0,1,0,Lomas de Valle Alto
+"Monterrey, Nuevo León",35000,33804.12276556983,3.5376668186999765,False,False,140.0,2.0,2.0,1,0,Monterrey
+"Centro, Monterrey",33000,30049.949822751714,9.817155085612537,False,False,33.0,2.0,2.0,1,1,Centro
+"Altavista Sur, Monterrey",18900,17127.13820961376,10.351185169925827,False,False,48.0,1.0,1.0,0,0,Altavista Sur
+"Centrika Victoria, Monterrey",12000,11899.244981534715,0.8467345501469761,False,False,90.0,3.0,2.0,0,0,Centrika Victoria
+"Cumbres 2do Sector, Monterrey",15000,14726.024417191162,1.8604857295292754,False,False,80.0,1.0,1.0,0,0,Cumbres 2do Sector
+"Centro, Monterrey",18000,18511.45506125718,-2.7629111788603256,False,False,70.0,2.0,2.0,1,0,Centro
+"Monterrey Centro, Monterrey",24500,25054.98968041296,-2.2150864458221275,False,False,55.0,2.0,2.0,0,1,Monterrey Centro
+"Tecnológico, Monterrey",38000,37393.550832178145,1.6218014987225793,False,False,110.0,2.0,2.0,1,1,Tecnológico
+"Altavista Invernadero, Monterrey",21000,19835.058331815795,5.873144654763214,False,False,1.0,2.0,1.0,0,1,Altavista Invernadero
+"Monterrey, Nuevo León",14500,17510.599631754252,-17.193012775500502,False,False,25.0,1.0,1.0,0,1,Monterrey
+"Monterrey, Nuevo León",15000,15064.368227012637,-0.4272879289900497,False,False,67.0,1.0,1.0,0,1,Monterrey
+"Instituto Tecnológico de Estudios Superiores de Monterrey, Monterrey",30000,30839.14509299301,-2.7210387657071387,False,False,109.0,2.0,2.0,1,1,Instituto Tecnológico de Estudios Superiores de Monterrey
+"Obispado, Monterrey",25000,25312.40232453806,-1.2341867853262352,False,False,116.0,2.0,2.0,1,0,Obispado
+"Tecnológico, Monterrey",10400,11301.217449609063,-7.974516494594468,False,False,40.0,1.0,1.0,1,1,Tecnológico
+"Centro, Monterrey",30000,31424.337215300613,-4.5325927020891905,False,False,95.0,3.0,,1,1,Centro
+"Contry, Monterrey",15800,15613.249930202579,1.1960999191857424,False,False,1.0,1.0,1.0,0,0,Contry
+"Mitras Norte, Monterrey",27000,27193.813136784134,-0.7127104088318159,False,False,600.0,2.0,2.0,1,1,Mitras Norte
+"Tecnológico, Monterrey",35000,34922.52252239363,0.22185533005724295,False,False,145.0,2.0,2.0,1,1,Tecnológico
+"Mas Palomas (Valle de Santiago), Monterrey",40000,38314.30412503603,4.399651549099827,False,False,100.0,2.0,2.0,1,0,Mas Palomas (Valle de Santiago)
+"Centro, Monterrey",22000,22168.51553300643,-0.7601570468511037,False,False,2665.0,2.0,2.0,1,1,Centro
+"Regina, Monterrey",19000,20907.442476209482,-9.123270234415115,False,False,70.0,2.0,2.0,1,1,Regina
+"Ladrillera, Monterrey",34000,33975.787828899774,0.07126301595170276,False,False,79.0,2.0,2.0,1,0,Ladrillera
+"La Rioja Privada Residencial 1era. Etapa, Monterrey",34000,32918.9547272119,3.283959900143702,False,False,84.0,2.0,2.0,1,0,La Rioja Privada Residencial 1era. Etapa
+"Contry, Monterrey",16000,16020.525141796908,-0.12811778400047047,False,False,35.0,1.0,1.0,0,0,Contry
+"Monterrey, Nuevo León",13000,14812.65548969758,-12.237208182950777,False,False,40.0,1.0,1.0,0,0,Monterrey
+"Centro, Monterrey",30000,30719.430885133577,-2.341940799045662,False,False,85.0,2.0,2.0,1,1,Centro
+"Centro, Monterrey",23000,24709.839743537286,-6.919671520672184,False,False,85.0,2.0,2.0,1,0,Centro
+"Centro, Monterrey",36000,35635.64609562227,1.0224422573959926,False,False,94.0,3.0,2.0,1,0,Centro
+"San Jerónimo, Monterrey",23500,23279.360981164322,0.9477881244858932,False,False,80.0,1.0,1.0,1,1,San Jerónimo
+"Tecnológico, Monterrey",16000,16061.283206864851,-0.3815585970033694,False,False,60.0,2.0,1.0,0,1,Tecnológico
+"Mitras Centro, Monterrey",19000,18694.137767208184,1.6361398241556584,False,False,58.0,1.0,1.0,1,0,Mitras Centro
+"San Jerónimo, Monterrey",29000,28644.705960641095,1.240348006528999,False,False,100.0,2.0,2.0,1,1,San Jerónimo
+"Lagos del Bosque, Monterrey",25000,21840.31014771435,14.467238930745316,False,False,,,,0,0,Lagos del Bosque
+"Cumbres Quinta Real, Monterrey",15000,14823.315913998058,1.1919336201631812,False,False,69.0,2.0,1.0,0,0,Cumbres Quinta Real
+"Cumbres, Monterrey",25000,24139.87327250973,3.563095455309518,False,False,65.0,2.0,2.0,0,1,Cumbres
+"Tecnológico, Monterrey",18000,18770.33511719584,-4.104003004667299,False,False,80.0,2.0,1.0,1,1,Tecnológico
+"Monterrey, Nuevo León",20000,19498.24689321709,2.5733242046363545,False,False,40.0,1.0,1.0,1,0,Monterrey
+"Cumbres Oro Sector Regency, Monterrey",19000,18755.473497238418,1.3037607544143677,False,False,95.0,2.0,2.0,1,1,Cumbres Oro Sector Regency
+"Centro, Monterrey",34000,34971.896948562724,-2.779079870880916,False,False,98.0,3.0,2.0,1,1,Centro
+"Centro, Monterrey",55000,52532.432599184795,4.697226605975787,False,False,1000.0,3.0,3.0,1,0,Centro
+"Monterrey, Nuevo León",13000,12853.491170429244,1.1398368554359295,False,False,28.0,1.0,1.0,0,1,Monterrey
+"Las Brisas, Monterrey",16500,16615.684566966127,-0.6962371396729636,False,False,100.0,1.0,1.0,0,0,Las Brisas
+"Cumbres 3er Sector, Monterrey",13000,13610.909389945713,-4.488380404596533,False,False,91.0,2.0,2.0,0,0,Cumbres 3er Sector
+"Colinas del Valle , Monterrey",32000,30215.589397229975,5.905595880693335,False,False,101.0,2.0,2.0,1,0,Colinas del Valle
+"Centro, Monterrey",20000,20639.008215803697,-3.096118811147114,False,False,75.0,2.0,2.0,1,0,Centro
+"Acero, Monterrey",20000,19544.98934548602,2.328016897175055,False,False,57.0,1.0,1.0,1,1,Acero
+"Lomas de AnAhuac, Monterrey",9000,11363.956125098588,-20.802228546778025,False,True,1.0,1.0,1.0,0,1,Lomas de AnAhuac
+"Centro, Monterrey",22000,22981.727797541684,-4.27177541301615,False,False,64.0,2.0,1.0,0,1,Centro
+"Centro, Monterrey",26000,26014.399007164266,-0.055350143435180674,False,False,96.0,2.0,2.0,0,1,Centro
+"Rincón de La Primavera 2 Sector, Monterrey",20000,19638.61197808715,1.8401912635989233,False,False,90.0,3.0,2.0,0,1,Rincón de La Primavera 2 Sector
+"Mitras Norte, Monterrey",20000,18335.060332285513,9.08063370144879,False,False,56.0,1.0,1.0,0,0,Mitras Norte
+"Del Paseo Residencia, Monterrey",45000,44631.55338035312,0.8255294556005062,False,False,90.0,2.0,2.0,1,1,Del Paseo Residencia
+"Centro, Monterrey",25000,25245.28089458368,-0.9715910692691281,False,False,80.0,2.0,2.0,0,1,Centro
+"Nueva Madero, Monterrey",8000,8190.770473605239,-2.329090703005256,False,False,200.0,2.0,1.0,0,0,Nueva Madero
+"Centrika, Monterrey",19000,20650.171620051424,-7.99107944676401,False,False,95.0,2.0,2.0,1,1,Centrika
+"Centro, Monterrey",24500,25059.79636921163,-2.233842450130169,False,False,60.0,1.0,1.0,1,1,Centro
+"Ladrillera, Monterrey",27000,27913.529462650276,-3.272712122888742,False,False,80.0,1.0,1.0,0,1,Ladrillera
+"Las Cumbres 5 Sector C, Monterrey",23000,26356.65015845638,-12.735496120622974,False,False,90.0,1.0,2.0,0,1,Las Cumbres 5 Sector C
+"Contry, Monterrey",18000,17998.898401933384,0.006120363824587197,False,False,70.0,1.0,1.0,0,0,Contry
+"Centro, Monterrey",18500,19419.314255112386,-4.734020177207669,False,False,56.0,1.0,1.0,1,0,Centro
+"Estanzuela Nueva, Monterrey",27000,26850.435419223195,0.5570285116111242,False,False,126.0,3.0,2.0,0,0,Estanzuela Nueva
+"Santa María, Monterrey",33000,33257.17960682763,-0.7733055234029296,False,False,100.0,2.0,2.0,1,1,Santa María
+"Centro, Monterrey",7500,7803.5496241258625,-3.8898916358190707,False,False,35.0,1.0,1.0,0,1,Centro
+"Monterrey, Nuevo León",24400,24327.783229520774,0.2968489557716639,False,False,67.0,1.0,1.0,1,0,Monterrey
+"Tecnológico, Monterrey",44080,22587.310304517,95.1538248942589,True,False,92.0,2.0,2.0,0,1,Tecnológico
+"Centro, Monterrey",23900,23699.010086790167,0.8480941291377584,False,False,52.0,2.0,2.0,1,0,Centro
+"Loma Larga, Monterrey",13500,14170.267503720434,-4.73009774546919,False,False,,,,0,1,Loma Larga
+"Centrika 1 Sector , Monterrey",20500,21043.468661626935,-2.5826001899485247,False,False,99.0,2.0,2.0,1,1,Centrika 1 Sector
+"Centro, Monterrey",30000,25824.96689006984,16.166654260205586,False,False,100.0,2.0,1.0,1,1,Centro
+"Centro, Monterrey",28000,28010.232203321557,-0.03653023383484664,False,False,76.0,2.0,2.0,1,1,Centro
+"Prados de San Jerónimo, Monterrey",18000,18869.888704003417,-4.609930231431955,False,False,40.0,,,0,1,Prados de San Jerónimo
+"Centro, Monterrey",26265,26546.576067403945,-1.0606869476839496,False,False,113.0,2.0,2.0,1,0,Centro
+"Mitras Norte, Monterrey",19000,18791.51139312463,1.109482907009015,False,False,10.0,2.0,1.0,0,0,Mitras Norte
+"Contry, Monterrey",26000,26362.51170247468,-1.3751030499899226,False,False,,,,1,0,Contry
+"Centro, Monterrey",22000,21915.81696152942,0.38412001075913454,False,False,56.0,1.0,1.0,0,1,Centro
+"Colinas de San Jerónimo, Monterrey",27500,25826.360467567334,6.480353801823596,False,False,96.0,2.0,2.0,1,0,Colinas de San Jerónimo
+"Centro, Monterrey",30000,30188.90846662091,-0.6257545443545279,False,False,100.0,3.0,2.0,0,0,Centro
+"Santa María, Monterrey",42000,39226.10703515976,7.071547942175097,False,False,120.0,2.0,2.0,0,0,Santa María
+"San Jerónimo, Monterrey",25000,26577.153491797962,-5.93424533701358,False,False,105.0,3.0,2.0,1,0,San Jerónimo
+"Cumbres Oro Sector Regency, Monterrey",18500,20709.858480349558,-10.670562922708383,False,False,95.0,2.0,2.0,1,0,Cumbres Oro Sector Regency
+"Mas Palomas (Valle de Santiago), Monterrey",24000,25037.674363259695,-4.144451869628832,False,False,95.0,1.0,1.0,0,1,Mas Palomas (Valle de Santiago)
+"Obispado, Monterrey",30000,32863.260391971926,-8.71264858635689,False,False,104.0,2.0,2.0,1,1,Obispado
+"Centro, Monterrey",15000,15721.504083720693,-4.589281533614813,False,False,30.0,,,1,1,Centro
+"Centro, Monterrey",20000,19868.382799073806,0.6624454655279198,False,False,84.0,2.0,2.0,1,1,Centro
+"Privada Fundadores, Monterrey",45000,38583.69132949895,16.629587396671653,False,False,140.0,2.0,2.0,0,0,Privada Fundadores
+"Monterrey, Nuevo León",42500,41695.497738149876,1.9294703397053679,False,False,93.0,2.0,2.0,1,1,Monterrey
+"Mitras Centro, Monterrey",20000,20233.184957064506,-1.1524876462076168,False,False,65.0,6.0,1.0,1,0,Mitras Centro
+"Vista Hermosa, Monterrey",12000,11855.241185123874,1.2210533098033594,False,False,30.0,1.0,1.0,0,1,Vista Hermosa
+"Centro, Monterrey",34000,33691.5418842249,0.9155357651337662,False,False,100.0,2.0,2.0,1,1,Centro
+"Tecnológico, Monterrey",52000,50958.48961241606,2.0438407721766088,False,False,164.0,3.0,3.0,1,0,Tecnológico
+"Mitras Norte, Monterrey",20500,19802.95813764835,3.5198875718798255,False,False,57.0,2.0,1.0,1,0,Mitras Norte
+"Centro, Monterrey",25000,24927.52861688956,0.29072831175624625,False,False,97.0,2.0,1.0,0,0,Centro
+"Centro, Monterrey",23000,19612.461488685803,17.272378142174695,False,False,48.0,1.0,1.0,0,1,Centro
+"Privada Fundadores, Monterrey",45000,44422.760180660465,1.2994235769951936,False,False,96.0,2.0,2.0,0,1,Privada Fundadores
+"San Jerónimo, Monterrey",35000,34826.87273048551,0.49710828432476833,False,False,100.0,2.0,2.0,0,1,San Jerónimo
+"Colinas del Valle , Monterrey",22000,21765.444972385736,1.0776486670125454,False,False,89.0,2.0,2.0,1,0,Colinas del Valle
+"Santa María, Monterrey",35000,35936.18331646223,-2.605127284158102,False,False,100.0,2.0,2.0,1,1,Santa María
+"Colinas del Valle , Monterrey",22000,22746.640645097923,-3.282421596873602,False,False,110.0,2.0,2.0,1,0,Colinas del Valle
+"Acero, Monterrey",22000,21767.22380590728,1.0693885273029058,False,False,57.0,2.0,1.0,1,1,Acero
+"Colinas de San Jerónimo, Monterrey",45000,44629.64738710889,0.829835399950047,False,False,268.0,3.0,3.0,0,0,Colinas de San Jerónimo
+"Tecnológico, Monterrey",11800,11598.15710364799,1.7403014508962211,False,False,45.0,1.0,1.0,0,1,Tecnológico
+"Obrera, Monterrey",40000,38637.21604260324,3.5271277203152698,False,False,90.0,2.0,2.0,1,1,Obrera
+"Ladrillera, Monterrey",24000,24718.043615477287,-2.904937084210344,False,False,69.0,1.0,1.0,1,0,Ladrillera
+"Regina, Monterrey",20000,19120.201093618933,4.601410320285211,False,False,,,,0,1,Regina
+"Monterrey, Nuevo León",45000,44342.33911294811,1.4831443270881737,False,False,173.0,3.0,2.0,1,0,Monterrey
+"Centro, Monterrey",25000,21807.336800004265,14.640316831329494,False,False,88.0,1.0,2.0,0,1,Centro
+"Centro, Monterrey",19600,19336.370441377087,1.3633869883811476,False,False,42.0,1.0,1.0,1,0,Centro
+"San Jerónimo, Monterrey",39500,46101.881028159885,-14.320198831208936,False,False,178.0,3.0,3.0,1,0,San Jerónimo
+"Roma, Monterrey",9700,15594.282262297378,-37.797714336286624,False,True,80.0,1.0,1.0,1,0,Roma
+"Ladrillera, Monterrey",26500,27869.132542780048,-4.912720339172321,False,False,1.0,1.0,1.0,0,1,Ladrillera
+"5 de Mayo, Monterrey",22000,22623.16045664978,-2.7545243196408085,False,False,59.0,2.0,2.0,1,0,5 de Mayo
+"Centro, Monterrey",24522,23379.97861405349,4.8846126200477045,False,False,48.0,1.0,1.0,1,1,Centro
+"San Jerónimo, Monterrey",28000,28381.86348746241,-1.3454489612040383,False,False,160.0,3.0,2.0,0,1,San Jerónimo
+"Las Torres, Monterrey",12300,18514.657838753537,-33.56615008971684,False,True,37.0,,,0,1,Las Torres
+"Contry Tesoro, Monterrey",18000,21198.514805680697,-15.08839102644857,False,False,110.0,3.0,2.0,0,0,Contry Tesoro
+"Centro, Monterrey",15000,15036.864013162582,-0.2451575882465423,False,False,70.0,2.0,1.0,0,1,Centro
+"Mitras Centro, Monterrey",20000,20668.774007059856,-3.235673324559172,False,False,60.0,1.0,1.0,1,1,Mitras Centro
+"Mitras Centro, Monterrey",19000,19555.193168075803,-2.839108585141287,False,False,,,,1,0,Mitras Centro
+"Centro, Monterrey",15500,15537.367675170175,-0.2405019688752766,False,False,40.0,,,1,1,Centro
+"Centro, Monterrey",21612,22293.84459896104,-3.058443311266361,False,False,50.0,1.0,1.0,1,1,Centro
+"Monterrey, Nuevo León",38000,36162.437041875426,5.081413500967067,False,False,,,,1,1,Monterrey
+"Eugenio Garza Sada, Monterrey",20000,20127.05313602641,-0.6312555303935261,False,False,44.0,2.0,1.0,0,0,Eugenio Garza Sada
+"Obispado, Monterrey",30000,30620.01646161865,-2.0248730512467947,False,False,160.0,3.0,3.0,0,1,Obispado
+"Las Brisas, Monterrey",8500,9100.868671092703,-6.602322182730271,False,False,50.0,1.0,1.0,0,1,Las Brisas
+"Obispado, Monterrey",27000,27935.144641447216,-3.3475561105910536,False,False,86.0,2.0,1.0,1,1,Obispado
+"Tecnológico, Monterrey",19000,19814.922921813955,-4.112672681238738,False,False,25.0,1.0,1.0,0,1,Tecnológico
+"Centro, Monterrey",17500,18951.633564701777,-7.659675139590637,False,False,65.0,2.0,2.0,1,0,Centro
+"Eugenio Garza Sada, Monterrey",35000,33815.17282985883,3.503832957183554,False,False,92.0,2.0,2.0,1,0,Eugenio Garza Sada
+"San Jerónimo, Monterrey",31000,30700.008316548054,0.9771713426222215,False,False,187.0,3.0,3.0,0,0,San Jerónimo
+"Centro, Monterrey",24780,22816.93903204681,8.603524623509037,False,False,65.0,2.0,2.0,0,0,Centro
+"Centro, Monterrey",34000,30853.88613026893,10.196815585718403,False,False,98.0,2.0,2.0,1,0,Centro
+"Del Carmen, Monterrey",17500,18741.435845536107,-6.624016728322318,False,False,50.0,1.0,1.0,1,1,Del Carmen
+"Las Canteras, Monterrey",23500,23139.205846302753,1.5592330873139941,False,False,60.0,1.0,1.0,1,1,Las Canteras
+"Centro, Monterrey",16940,17128.71901906416,-1.1017696002492445,False,False,23.0,,,1,0,Centro
+"Regina, Monterrey",24000,23905.029077467945,0.39728427948900147,False,False,80.0,3.0,2.0,1,0,Regina
+"Centro, Monterrey",16300,17202.623268797168,-5.24700945136887,False,False,32.0,,,0,1,Centro
+"Mitras Centro, Monterrey",20000,19254.344210413703,3.8726626128508155,False,False,56.0,1.0,1.0,0,0,Mitras Centro
+"Santa María, Monterrey",36000,38774.0552597152,-7.154410961489856,False,False,120.0,3.0,2.0,1,0,Santa María
+"Lomas de Montecristo, Monterrey",40000,42547.07733808047,-5.986491898941279,False,False,160.0,2.0,2.0,1,0,Lomas de Montecristo
+"Tecnológico, Monterrey",11800,10752.975444212874,9.737068230269438,False,False,40.0,1.0,1.0,1,1,Tecnológico
+"Roma, Monterrey",30000,30488.898536445307,-1.6035296777313752,False,False,90.0,3.0,2.0,1,1,Roma
+"Lomas de Valle Alto, Monterrey",40000,41293.915333235745,-3.1334285518678513,False,False,99.0,2.0,2.0,0,0,Lomas de Valle Alto
+"Buenos Aires, Monterrey",18000,25899.06295723884,-30.499416022428083,False,True,66.0,2.0,2.0,0,0,Buenos Aires
+"Roma, Monterrey",24800,24939.57510303803,-0.5596530913673353,False,False,90.0,2.0,2.0,1,0,Roma
+"Eugenio Garza Sada, Monterrey",13000,13258.544513406241,-1.9500218379537546,False,False,1.0,1.0,,0,1,Eugenio Garza Sada
+"Las Lajas 1 Sector, Monterrey",25000,26442.85465001,-5.45650108169941,False,False,140.0,3.0,2.0,1,1,Las Lajas 1 Sector
+"Tecnológico, Monterrey",37000,35732.60575661861,3.546884467407304,False,False,90.0,2.0,2.0,1,0,Tecnológico
+"Ladrillera, Monterrey",33000,31704.302087623175,4.086820485105848,False,False,,,,1,0,Ladrillera
+"Centro, Monterrey",17500,18504.689271489864,-5.429376612325973,False,False,60.0,2.0,1.0,1,0,Centro
+"Contry, Monterrey",44000,42939.14679593074,2.4705968404798253,False,False,134.0,4.0,4.0,1,1,Contry
+"Monterrey, Nuevo León",29000,29116.096753306705,-0.39873735236684843,False,False,90.0,2.0,2.0,1,0,Monterrey
+"Centro, Monterrey",20000,19657.958902822447,1.739962418623447,False,False,60.0,2.0,2.0,1,0,Centro
+"Nuevo Repueblo, Monterrey",10200,16678.242249874816,-38.8424760404439,False,True,49.0,1.0,1.0,0,1,Nuevo Repueblo
+"Centro, Monterrey",35000,33991.736957342015,2.9662004148929095,False,False,100.0,3.0,2.0,0,1,Centro
+"Balcones de Satélite, Monterrey",28000,33450.47944457154,-16.294174358855297,False,False,110.0,3.0,2.0,1,0,Balcones de Satélite
+"Loma Larga, Monterrey",22000,16909.463162049396,30.104662632788393,True,False,108.0,,,0,0,Loma Larga
+"Centro, Monterrey",9600,9536.163316762138,0.6694168411068729,False,False,40.0,1.0,1.0,0,0,Centro
+"Lagos del Bosque, Monterrey",8000,8102.493001467336,-1.264956371437473,False,False,1.0,1.0,1.0,0,1,Lagos del Bosque
+"Residencial Mederos, Monterrey",14000,14541.362883351274,-3.722917086204431,False,False,65.0,,,0,0,Residencial Mederos
+"Centro, Monterrey",33200,31689.29594706373,4.76723766744414,False,False,97.0,2.0,2.0,1,0,Centro
+"Contry, Monterrey",9500,10089.781650329585,-5.845336111018021,False,False,75.0,1.0,1.0,0,1,Contry
+"Regina, Monterrey",16500,16381.115239102583,0.7257427785724458,False,False,,,,1,0,Regina
+"Los Nogales, Monterrey",30000,29829.66020865548,0.5710416751414833,False,False,86.0,2.0,2.0,1,0,Los Nogales
+"Miravalle, Monterrey",30000,30344.390644549898,-1.1349400572383985,False,False,172.0,3.0,2.0,0,0,Miravalle
+"Centro, Monterrey",20500,21946.166548386063,-6.5896089196152365,False,False,68.0,2.0,2.0,1,0,Centro
+"Nuevo Repueblo, Monterrey",8500,8798.709376152214,-3.394922634469865,False,False,75.0,2.0,1.0,0,0,Nuevo Repueblo
+"Del Paseo Residencial, Monterrey",50000,48884.3232478177,2.2822792217586945,False,False,111.0,3.0,2.0,1,0,Del Paseo Residencial
+"Lomas de Valle Alto, Monterrey",34000,35344.62260360088,-3.8043201611774804,False,False,84.0,2.0,2.0,0,0,Lomas de Valle Alto
+"Miravalle, Monterrey",35000,34020.66120417096,2.8786589124522153,False,False,165.0,2.0,2.0,1,0,Miravalle
+"Rincón de La Primavera 2 Sector, Monterrey",15000,15015.275382582351,-0.10173228391182527,False,False,70.0,2.0,1.0,0,1,Rincón de La Primavera 2 Sector
+"Mitras Centro, Monterrey",12500,12634.812325919882,-1.066991122957316,False,False,36.0,1.0,1.0,0,1,Mitras Centro
+"Dinastía , Monterrey",23000,23316.75897649826,-1.3585034558942368,False,False,86.0,2.0,1.0,1,0,Dinastía
+"Monterrey, Nuevo León",21600,22102.330071412453,-2.272747125707688,False,False,,,,0,1,Monterrey
+"Centro, Monterrey",21500,20758.70139776418,3.571025894305998,False,False,47.0,2.0,1.0,0,0,Centro
+"Monterrey, Nuevo León",16300,16172.544849951253,0.7880958206100201,False,False,32.0,1.0,1.0,1,0,Monterrey
+"Centro, Monterrey",18000,17966.520059207913,0.18634627452481367,False,False,49.0,1.0,1.0,1,0,Centro
+"Dinastía , Monterrey",27500,27834.146145073282,-1.2004900144293702,False,False,151.0,2.0,2.0,1,0,Dinastía
+"Centro, Monterrey",30000,26973.26893387436,11.221224515077308,False,False,85.0,2.0,1.0,0,1,Centro
+"Tecnológico, Monterrey",10400,11272.379447630896,-7.739088731742817,False,False,38.0,1.0,1.0,0,1,Tecnológico
+"Estanza Residencial, Monterrey",25000,25529.9164852085,-2.075668698389687,False,False,66.0,1.0,,1,0,Estanza Residencial
+"Altavista Invernadero, Monterrey",20000,19849.47672092578,0.7583236635932784,False,False,,,,0,1,Altavista Invernadero
+"Centro, Monterrey",25500,25145.138936709267,1.411251153489047,False,False,63.0,2.0,2.0,0,1,Centro
+"Obispado, Monterrey",35000,34863.274886921165,0.39217518584327654,False,False,146.0,2.0,2.0,0,1,Obispado
+"Monterrey, Nuevo León",31000,32207.620607178545,-3.7494871847484035,False,False,189.0,3.0,3.0,1,0,Monterrey
+"Centro, Monterrey",28500,28863.990540121198,-1.2610541138282598,False,False,85.0,2.0,2.0,1,1,Centro
+"Dinastía , Monterrey",38000,31907.557786598725,19.09404114895976,False,False,150.0,2.0,2.0,1,1,Dinastía
+"Contry, Monterrey",18500,18209.211356421692,1.5969315632978112,False,False,45.0,1.0,1.0,0,1,Contry
+"Mitras Centro, Monterrey",18000,19056.283121895136,-5.542965095231485,False,False,56.0,1.0,,1,0,Mitras Centro
+"Balcones de las Mitras, Monterrey",14000,14416.490073206549,-2.8889838725766364,False,False,90.0,2.0,2.0,0,1,Balcones de las Mitras
+"Centro, Monterrey",15000,13962.56087955217,7.43014930711697,False,False,38.0,1.0,1.0,0,0,Centro
+"Ladrillera, Monterrey",22700,23409.096991972412,-3.0291514115883236,False,False,59.0,1.0,1.0,1,1,Ladrillera
+"Contry Sur, Monterrey",29000,29328.39459153736,-1.1197155388522912,False,False,113.0,3.0,2.0,1,1,Contry Sur
+"San Jemo 3 Sector, Monterrey",30000,30386.510200207777,-1.27197956481733,False,False,123.0,2.0,3.0,1,1,San Jemo 3 Sector
+"Monterrey, Nuevo León",40000,40224.44180844178,-0.5579737054167764,False,False,183.0,3.0,2.0,1,1,Monterrey
+"Cumbres 5to Sector, Monterrey",27000,26817.138532935423,0.6818828445846136,False,False,180.0,3.0,3.0,0,1,Cumbres 5to Sector
+"Monterrey, Nuevo León",28000,28311.505258094025,-1.100277979762195,False,False,87.0,2.0,2.0,1,0,Monterrey
+"Centro, Monterrey",17000,16770.297013499094,1.3697013613772553,False,False,59.0,2.0,1.0,1,0,Centro
+"Eugenio Garza Sada, Monterrey",32000,31765.86373630937,0.7370687780889948,False,False,73.0,,,1,1,Eugenio Garza Sada
+"Monterrey, Nuevo León",25000,25782.961092848498,-3.0367384491988023,False,False,85.0,2.0,2.0,1,0,Monterrey
+"Monterrey, Nuevo León",32000,33333.434631427626,-4.00029173762499,False,False,99.0,2.0,2.0,1,0,Monterrey
+"Monterrey Centro, Monterrey",18400,18715.459689318086,-1.6855567245197605,False,False,217.0,2.0,2.0,0,0,Monterrey Centro
+"Country Naranjo, Monterrey",7000,7236.72009835658,-3.2710965069705784,False,False,40.0,1.0,1.0,0,1,Country Naranjo
+"Acero, Monterrey",23000,22348.363350256364,2.9158137422898154,False,False,76.0,2.0,2.0,1,0,Acero
+"Tecnológico, Monterrey",11800,14739.329417133597,-19.942083753937954,False,False,40.0,1.0,1.0,1,1,Tecnológico
+"Tecnológico, Monterrey",30000,26822.04339015237,11.84830165107558,False,False,25.0,1.0,1.0,1,1,Tecnológico
+"Monterrey, Nuevo León",36000,35023.63538840342,2.787730630384142,False,False,98.0,3.0,2.0,1,1,Monterrey
+"Monterrey, Nuevo León",25000,25006.12416488133,-0.0244906601316929,False,False,60.0,1.0,1.0,1,1,Monterrey
+"Centro, Monterrey",24000,23917.93130884318,0.34312620977582553,False,False,70.0,3.0,2.0,1,1,Centro
+"Roma, Monterrey",23500,23248.928030122494,1.0799292318003002,False,False,80.0,2.0,2.0,1,0,Roma
+"Centro, Monterrey",33000,32522.41542225033,1.4684781912690519,False,False,85.0,,,1,1,Centro
+"Las Torres, Monterrey",31000,31231.995773433766,-0.7428144365692559,False,False,161.0,3.0,3.0,1,1,Las Torres
+"Centro, Monterrey",23000,23283.542215113437,-1.2177795478618747,False,False,52.0,1.0,1.0,1,0,Centro
+"Del Paseo Residencial, Monterrey",24500,25260.528267206206,-3.010737776982839,False,False,122.0,2.0,2.0,0,0,Del Paseo Residencial
+"Colonial La Silla, Monterrey",14500,15639.870516337167,-7.288234996232711,False,False,,,,0,1,Colonial La Silla
+"Dinastía , Monterrey",26000,26607.491405371115,-2.283159265621273,False,False,100.0,2.0,2.0,1,1,Dinastía
+"Mitras Norte, Monterrey",21500,21300.295425049095,0.937567160294186,False,False,50.0,1.0,1.0,1,1,Mitras Norte
+"Colonial La Silla, Monterrey",18000,17076.057356920355,5.410749236592379,False,False,,,,1,1,Colonial La Silla
+"Alfonso Reyes, Monterrey",22000,22452.161274137707,-2.0138875211917533,False,False,1.0,2.0,1.0,1,1,Alfonso Reyes
+"Colinas de San Jerónimo, Monterrey",31500,30890.02018474999,1.9746824754460695,False,False,126.0,2.0,2.0,1,0,Colinas de San Jerónimo
+"Francisco I Madero, Monterrey",18000,17923.228034499803,0.4283378270500204,False,False,55.0,2.0,2.0,1,0,Francisco I Madero
+"Del Paseo Residencial, Monterrey",28000,28601.92744057839,-2.1044995720268096,False,False,120.0,2.0,2.0,1,1,Del Paseo Residencial
+"Monterrey Centro, Monterrey",30000,29821.065344847037,0.6000277088822469,False,False,70.0,2.0,2.0,1,1,Monterrey Centro
+"Monterrey, Nuevo León",16200,16560.272961530794,-2.175525502313288,False,False,,,,0,1,Monterrey
+"Tecnológico, Monterrey",25000,24084.173571270923,3.802606828168398,False,False,46.0,1.0,1.0,1,1,Tecnológico
+"Rincón de La Primavera 2 Sector, Monterrey",20000,20628.636757767817,-3.047398454631769,False,False,90.0,3.0,2.0,0,1,Rincón de La Primavera 2 Sector
+"Centro, Monterrey",36000,35974.978072226775,0.06955369847061059,False,False,94.0,3.0,2.0,0,1,Centro
+"Centro, Monterrey",22300,21994.38571467156,1.3895104382232288,False,False,76.0,2.0,2.0,0,0,Centro
+"Monterrey, Nuevo León",12500,12682.18066125283,-1.4365089578753385,False,False,,,,0,0,Monterrey
+"Centro, Monterrey",29000,29791.31141467209,-2.6561818768487426,False,False,75.0,2.0,2.0,1,1,Centro
+"Colinas de San Jerónimo, Monterrey",26000,26331.041110242477,-1.2572275773543402,False,False,100.0,2.0,2.0,1,0,Colinas de San Jerónimo
+"Contry Sur, Monterrey",29000,29148.245183289884,-0.5085904223657011,False,False,113.0,3.0,2.0,1,1,Contry Sur
+"Centrika 1 Sector , Monterrey",17500,17824.638482168182,-1.8212906954211243,False,False,97.0,2.0,2.0,1,0,Centrika 1 Sector
+"Ladrillera, Monterrey",22500,22337.80043847446,0.7261214548508936,False,False,60.0,1.0,1.0,1,0,Ladrillera
+"Eugenio Garza Sada, Monterrey",29500,28520.08269078594,3.4358852316043373,False,False,130.0,2.0,2.0,1,1,Eugenio Garza Sada
+"Cumbres 5to Sector, Monterrey",16000,17191.972665707926,-6.933309451366811,False,False,190.0,1.0,1.0,0,1,Cumbres 5to Sector
+"Centro, Monterrey",21500,21900.971500578675,-1.8308388765680104,False,False,75.0,2.0,2.0,1,0,Centro
+"Centro, Monterrey",25000,25312.290639627314,-1.2337510029156011,False,False,76.0,,,1,0,Centro
+"Roma, Monterrey",23800,22755.25971865766,4.591203503099235,False,False,80.0,2.0,2.0,1,0,Roma
+"Ladrillera, Monterrey",40000,39352.82568346425,1.6445434483950794,False,False,120.0,2.0,2.0,0,0,Ladrillera
+"Del Paseo Residencial, Monterrey",55000,54928.91128259841,0.12941949101421382,False,False,124.0,3.0,2.0,1,1,Del Paseo Residencial
+"Centro, Monterrey",18000,19273.498766076948,-6.607512115643566,False,False,90.0,2.0,2.0,1,1,Centro
+"Ladrillera, Monterrey",28000,30290.08934556852,-7.560523574036804,False,False,86.0,2.0,2.0,0,0,Ladrillera
+"Contry, Monterrey",42000,42437.110932654854,-1.0300204774743567,False,False,134.0,4.0,2.0,1,1,Contry
+"San Jerónimo, Monterrey",29000,29757.03740371127,-2.544061740557726,False,False,132.0,3.0,2.0,1,0,San Jerónimo
+"Altavista Invernadero, Monterrey",21000,20883.79721354694,0.5564255641099711,False,False,90.0,2.0,1.0,0,1,Altavista Invernadero
+"Privada Fundadores, Monterrey",58000,48485.71915496007,19.622851864138276,False,False,140.0,2.0,3.0,0,1,Privada Fundadores
+"Regina, Monterrey",19000,18402.920847955324,3.2444803571005716,False,False,30.0,1.0,1.0,0,0,Regina
+"Centro, Monterrey",16500,18465.695438949566,-10.645120003459702,False,False,100.0,2.0,2.0,1,0,Centro
+"San Jerónimo, Monterrey",45000,31667.34323587642,42.10222709500559,True,False,269.0,1.0,3.0,0,1,San Jerónimo
+"Cumbres 3er Sector, Monterrey",25000,24881.48372749647,0.47632317188768647,False,False,131.0,2.0,,1,1,Cumbres 3er Sector
+"Mitras Centro, Monterrey",12500,12801.892745113963,-2.3581883642103194,False,False,100.0,2.0,1.0,0,1,Mitras Centro
+"Colinas de San Jerónimo, Monterrey",29000,29216.233329642262,-0.7401136457343244,False,False,92.0,2.0,2.0,1,0,Colinas de San Jerónimo
+"Tecnológico, Monterrey",28500,28511.04133365885,-0.038726518367517525,False,False,137.0,2.0,2.0,1,1,Tecnológico
+"Centro, Monterrey",24000,23911.28874534713,0.3710015616374166,False,False,50.0,1.0,1.0,1,1,Centro
+"San Jerónimo, Monterrey",24000,30105.966216066743,-20.28158197031442,False,True,80.0,2.0,2.0,1,1,San Jerónimo
+"Colinas del Valle , Monterrey",30000,29596.93243254255,1.3618558895457218,False,False,110.0,2.0,2.0,1,1,Colinas del Valle
+"Colinas de San Jerónimo, Monterrey",45000,44610.12309069485,0.8739651054369678,False,False,154.0,3.0,2.0,1,0,Colinas de San Jerónimo
+"Colonial La Silla, Monterrey",14500,17305.976275980658,-16.21391495766196,False,False,,,,1,1,Colonial La Silla
+"Del Norte, Monterrey",19000,18685.07680311346,1.6854262907501867,False,False,70.0,3.0,2.0,0,0,Del Norte
+"Mitras Norte, Monterrey",21000,18426.2614772205,13.967773799157726,False,False,56.0,2.0,1.0,0,0,Mitras Norte
+"Centro, Monterrey",19500,19669.5824217155,-0.8621556781412768,False,False,1.0,2.0,2.0,0,1,Centro
+"Bosques de las Cumbres, Monterrey",14000,14089.232665545329,-0.6333394277996696,False,False,180.0,2.0,1.0,0,0,Bosques de las Cumbres
+"Cumbres, Monterrey",14100,13939.054937604995,1.1546339627430917,False,False,150.0,3.0,2.0,0,0,Cumbres
+"Monterrey Centro, Monterrey",20000,20014.96783199638,-0.07478319286854286,False,False,52.0,,,1,0,Monterrey Centro
+"Rincón de las Colinas, Monterrey",14500,14632.29400856716,-0.9041234989517168,False,False,90.0,2.0,2.0,0,0,Rincón de las Colinas
+"Monterrey, Nuevo León",26000,26692.639693836492,-2.5948714768604453,False,False,56.0,1.0,1.0,1,1,Monterrey
+"Monterrey, Nuevo León",29000,29334.660513262992,-1.1408364965112958,False,False,90.0,2.0,2.0,1,0,Monterrey
+"Del Paseo Residencia, Monterrey",25000,25268.975661804256,-1.064450199343974,False,False,100.0,1.0,1.0,1,0,Del Paseo Residencia
+"Ciudad Satélite, Monterrey",19000,18928.226480414825,0.37918776838093754,False,False,160.0,3.0,1.0,0,0,Ciudad Satélite
+"Deportivo Obispado, Monterrey",23000,22278.952390848455,3.2364520400327716,False,False,34.0,1.0,1.0,0,1,Deportivo Obispado
+"Ladrillera, Monterrey",26000,29219.0440223441,-11.016938199218512,False,False,,,,1,1,Ladrillera
+"Centro, Monterrey",12500,13487.846973827714,-7.323978213458138,False,False,36.0,1.0,1.0,1,1,Centro
+"Centro, Monterrey",27000,27352.69434969807,-1.2894318387393684,False,False,78.0,2.0,2.0,1,1,Centro
+"Nuevo Repueblo, Monterrey",18000,17992.930410462945,0.03929092913594801,False,False,130.0,2.0,2.0,0,1,Nuevo Repueblo
+"Villa Florida, Monterrey",8500,11871.80222065193,-28.401772182376966,False,True,40.0,1.0,1.0,0,0,Villa Florida
+"Mitras Centro, Monterrey",13000,14029.01271061633,-7.334890429157817,False,False,121.0,2.0,2.0,0,0,Mitras Centro
+"Privada Fundadores 1 Sector, Monterrey",58000,57243.62140730533,1.3213325329521262,False,False,140.0,2.0,1.0,1,1,Privada Fundadores 1 Sector
+"Maria Luisa, Monterrey",29000,28254.009315035524,2.6403002725970395,False,False,,,,1,0,Maria Luisa
+"Villa Mitras, Monterrey",8000,7913.944868186189,1.0873860413123464,False,False,80.0,1.0,1.0,0,1,Villa Mitras
+"Centro, Monterrey",20000,27226.563244761845,-26.5423262561505,False,True,,,,1,1,Centro
+"Obispado, Monterrey",29500,30473.777797775983,-3.195461370880807,False,False,113.0,2.0,2.0,1,0,Obispado
+"Mitras Norte, Monterrey",20000,19788.778192544953,1.0673817524248224,False,False,55.0,1.0,1.0,1,0,Mitras Norte
+"Tecnológico, Monterrey",14000,16576.904881496528,-15.545150918811876,False,False,100.0,2.0,2.0,0,0,Tecnológico
+"San Jerónimo, Monterrey",48000,47502.081095124166,1.0482044015687202,False,False,160.0,3.0,3.0,1,0,San Jerónimo
+"Centro, Monterrey",21000,21479.13808260317,-2.230713731438062,False,False,67.0,1.0,1.0,1,1,Centro
+"Centro, Monterrey",20000,19604.431943539497,2.017748117363122,False,False,40.0,1.0,1.0,1,1,Centro
+"Centro, Monterrey",18000,17949.35322698134,0.2821648912815851,False,False,35.0,1.0,1.0,1,1,Centro
+"Centro, Monterrey",23500,23553.515493678024,-0.22720809423284466,False,False,60.0,2.0,2.0,1,1,Centro
+"Las Cumbres 1 Sector, Monterrey",18500,18841.28193218139,-1.8113519738721866,False,False,125.0,2.0,2.0,0,1,Las Cumbres 1 Sector
+"Santa María, Monterrey",30000,32079.997970218992,-6.483784606688343,False,False,104.0,2.0,2.0,1,0,Santa María
+"El Milagro, Monterrey",17000,17338.701807092995,-1.9534438671437189,False,False,68.0,,,0,1,El Milagro
+"Dinastía , Monterrey",23000,23400.37786518229,-1.710988888679518,False,False,86.0,1.0,1.0,1,0,Dinastía
+"Colinas de San Jerónimo, Monterrey",7600,7908.234367736645,-3.897638251518621,False,False,9.0,1.0,1.0,0,0,Colinas de San Jerónimo
+"Centro, Monterrey",22000,29383.623371634836,-25.128362415516587,False,True,98.0,2.0,2.0,0,1,Centro
+"Centro, Monterrey",18000,17874.527344785667,0.7019634857697965,False,False,35.0,1.0,1.0,1,1,Centro
+"Centro, Monterrey",30000,28927.90843547147,3.706080468693444,False,False,150.0,2.0,2.0,0,1,Centro
+"Monterrey Centro, Monterrey",15000,15618.941250815336,-3.9627606050635893,False,False,38.0,1.0,1.0,0,1,Monterrey Centro
+"Contry Tesoro, Monterrey",8500,12012.84118400254,-29.242384296902042,False,True,1.0,1.0,1.0,0,1,Contry Tesoro
+"Centro, Monterrey",21600,20765.702865595482,4.017668652029004,False,False,50.0,2.0,2.0,1,0,Centro
+"Mitras Norte, Monterrey",18500,18428.100388544448,0.39016290306431906,False,False,54.0,1.0,1.0,1,0,Mitras Norte
+"Barrio Mirasol , Monterrey",4500,9235.384594065936,-51.274362706113926,False,True,35.0,1.0,1.0,0,0,Barrio Mirasol
+"Monterrey, Nuevo León",28500,28672.35141879328,-0.601106676867506,False,False,,,,1,1,Monterrey
+"Centro, Monterrey",15500,16050.712171699399,-3.4310762401584523,False,False,34.0,1.0,1.0,1,0,Centro
+"Centro, Monterrey",23000,21491.70144428705,7.018050942234209,False,False,44.0,1.0,1.0,1,1,Centro
+"Monterrey Centro, Monterrey",23600,29169.717907028327,-19.09417816373989,False,False,75.0,2.0,2.0,1,0,Monterrey Centro
+"Chepevera, Monterrey",23000,20581.11958111716,11.7529097936058,False,False,,,,0,0,Chepevera
+"Dinastía , Monterrey",26000,25457.74283244042,2.1300284598231896,False,False,64.0,1.0,1.0,1,1,Dinastía
+"Industrial, Monterrey",13000,15813.519944373775,-17.79186388780434,False,False,54.0,2.0,2.0,1,0,Industrial
+"Del Paseo Residencial, Monterrey",11500,11526.011801490547,-0.22567911553919795,False,False,100.0,2.0,1.0,0,0,Del Paseo Residencial
+"Del Carmen, Monterrey",19000,19303.612485442303,-1.5728272916339918,False,False,50.0,1.0,1.0,0,1,Del Carmen
+"Centrika 1 Sector , Monterrey",23000,22785.03959312832,0.943427839978427,False,False,96.0,2.0,2.0,1,1,Centrika 1 Sector
+"Obispado, Monterrey",36000,36012.25952644213,-0.03404264715223126,False,False,117.0,2.0,2.0,1,1,Obispado
+"Mitras Centro, Monterrey",24000,23868.55891700286,0.5506871338742862,False,False,60.0,2.0,2.0,1,1,Mitras Centro
+"Tecnológico, Monterrey",28000,27138.516036182442,3.1743959863869646,False,False,50.0,1.0,1.0,1,1,Tecnológico
+"Monterrey Centro, Monterrey",19000,18525.31555039089,2.56235554162582,False,False,49.0,1.0,1.0,1,0,Monterrey Centro
+"Monterrey, Nuevo León",22000,22590.708201535093,-2.614828168578413,False,False,60.0,1.0,1.0,1,1,Monterrey
+"Torres de Satélite, Monterrey",7500,7417.388152656624,1.1137592592318069,False,False,45.0,1.0,1.0,0,0,Torres de Satélite
+"Centro, Monterrey",33999,33809.42137360586,0.560727213575267,False,False,100.0,3.0,2.0,1,0,Centro
+"Lomas del Vergel, Monterrey",23500,23565.7623696371,-0.2790589525838191,False,False,110.0,2.0,2.0,0,0,Lomas del Vergel
+"Centro, Monterrey",35000,28876.754715119252,21.20475567732252,True,False,115.0,2.0,2.0,1,0,Centro
+"Centro, Monterrey",15500,15864.781188635887,-2.2993143384617465,False,False,38.0,1.0,1.0,0,1,Centro
+"Santa María, Monterrey",36000,37267.936741739904,-3.402218777300385,False,False,145.0,2.0,3.0,0,0,Santa María
+"Centro, Monterrey",15000,20413.027032607864,-26.517512684233797,False,True,105.0,2.0,2.0,0,0,Centro
+"Tecnológico, Monterrey",24000,23742.86554469188,1.082996720948068,False,False,90.0,2.0,2.0,0,0,Tecnológico
+"Jardín de las Torres, Monterrey",41000,40391.49081377799,1.506528167102061,False,False,116.0,3.0,2.0,0,0,Jardín de las Torres
+"Centro, Monterrey",20000,22976.603314258646,-12.95493190854476,False,False,53.0,2.0,2.0,1,0,Centro
+"Puerta de Hierro Cumbres, Monterrey",17500,17681.525030069668,-1.026636728228825,False,False,100.0,2.0,2.0,1,1,Puerta de Hierro Cumbres
+"Monterrey, Nuevo León",30000,28503.39871092889,5.2506064425828525,False,False,75.0,2.0,2.0,0,1,Monterrey
+"Centro, Monterrey",21500,21931.655215901796,-1.9681834847960729,False,False,47.0,2.0,1.0,1,1,Centro
+"Tecnológico, Monterrey",12000,11697.731955367273,2.5839884670466997,False,False,120.0,2.0,2.0,0,0,Tecnológico
+"San Jerónimo, Monterrey",32000,32552.73294291575,-1.6979617161023606,False,False,187.0,3.0,4.0,1,0,San Jerónimo
+"Monterrey, Nuevo León",23000,23128.634746612803,-0.5561709457651465,False,False,91.0,2.0,,1,1,Monterrey
+"Centro, Monterrey",17000,16662.411058371727,2.026050974529632,False,False,38.0,1.0,1.0,0,1,Centro
+"Buenos Aires, Monterrey",24000,25269.3002076789,-5.023092041516778,False,False,70.0,2.0,2.0,1,0,Buenos Aires
+"La Florida, Monterrey",18500,19112.335274678633,-3.2038747012244913,False,False,100.0,3.0,2.0,0,1,La Florida
+"Privada Fundadores 1 Sector, Monterrey",41000,41582.00004338061,-1.3996441796292587,False,False,144.0,2.0,2.0,1,0,Privada Fundadores 1 Sector
+"Monterrey Centro, Monterrey",23500,25201.21432985053,-6.750525223046341,False,False,60.0,2.0,1.0,1,1,Monterrey Centro
+"Loma Larga, Monterrey",16500,16023.111282211275,2.9762554187473094,False,False,130.0,2.0,2.0,0,0,Loma Larga
+"Lomas del Vergel, Monterrey",23000,22559.07796729901,1.9545215160838476,False,False,100.0,2.0,2.0,0,0,Lomas del Vergel
+"Centro, Monterrey",12000,12865.45839473793,-6.726992293503585,False,False,35.0,1.0,1.0,1,1,Centro
+"Del Prado, Monterrey",11000,11153.85467477488,-1.3793856855857396,False,False,145.0,4.0,3.0,0,1,Del Prado
+"Del Paseo Residencial, Monterrey",55000,54568.5470122561,0.7906624078647242,False,False,110.0,3.0,2.0,1,1,Del Paseo Residencial
+"Residencial Raúl Rangel Frías, Monterrey",35000,35262.40867621773,-0.7441598179727019,False,False,140.0,2.0,2.0,1,0,Residencial Raúl Rangel Frías
+"Cumbres, Monterrey",10500,10986.26994495359,-4.426160538472409,False,False,80.0,,,0,0,Cumbres
+"Tecnológico, Monterrey",33000,33642.46929610266,-1.9096972057787887,False,False,110.0,2.0,2.0,1,1,Tecnológico
+"Cumbres Campanario, Monterrey",14000,13573.09627830313,3.145219874254368,False,False,100.0,2.0,2.0,0,0,Cumbres Campanario
+"Balcones de Mederos, Monterrey",12500,13500.532181536324,-7.4110573426481485,False,False,75.0,1.0,1.0,0,1,Balcones de Mederos
+"Tecnológico, Monterrey",12000,12756.407041493156,-5.929624533246449,False,False,110.0,2.0,2.0,0,0,Tecnológico
+"San Jerónimo, Monterrey",34000,33857.554901446536,0.42071879959464586,False,False,100.0,2.0,2.0,1,0,San Jerónimo
+"Obispado, Monterrey",24100,23342.68431006379,3.2443384825699235,False,False,75.0,1.0,1.0,0,1,Obispado
+"Centro, Monterrey",21500,22069.5080775319,-2.5805200348425257,False,False,60.0,2.0,2.0,1,1,Centro
+"Valle de los Cedros, Monterrey",17500,18491.06282703628,-5.3596855751699675,False,False,97.0,2.0,2.0,1,1,Valle de los Cedros
+"Obispado, Monterrey",32000,31320.258812672313,2.1702923701660497,False,False,113.0,2.0,2.0,1,0,Obispado
+"Tecnológico, Monterrey",9800,13333.143618328932,-26.498954181157668,False,True,25.0,1.0,1.0,0,1,Tecnológico
+"Santa María, Monterrey",38000,38473.477922078346,-1.230660568398045,False,False,140.0,3.0,2.0,1,0,Santa María
+"Tecnológico, Monterrey",25000,25544.492555389275,-2.1315457890135323,False,False,56.0,1.0,1.0,1,0,Tecnológico
+"Centro, Monterrey",21600,21985.799492223294,-1.7547667182162596,False,False,60.0,2.0,1.0,1,1,Centro
+"Vista Hermosa, Monterrey",20000,21196.983384572464,-5.64695156313445,False,False,167.0,2.0,3.0,0,1,Vista Hermosa
+"San Jerónimo, Monterrey",26500,27915.145634426233,-5.0694545998750264,False,False,95.0,2.0,2.0,1,0,San Jerónimo
+"Altamira, Monterrey",11500,11660.757511063332,-1.378619793017823,False,False,90.0,3.0,2.0,0,1,Altamira
+"Colinas del Huajuco, Monterrey",29000,29359.20797744418,-1.2234934188965514,False,False,134.0,3.0,2.0,1,0,Colinas del Huajuco
+"Valle del Mirador, Monterrey",15000,14932.318828166082,0.4532529248321038,False,False,130.0,2.0,2.0,0,1,Valle del Mirador
+"Dinastía , Monterrey",24000,23932.468795553195,0.2821739997812192,False,False,90.0,1.0,1.0,1,0,Dinastía
+"Centro, Monterrey",19000,19359.975829536546,-1.8593816061864565,False,False,60.0,2.0,1.0,0,1,Centro
+"Valle de los Cedros, Monterrey",22000,20751.17404986562,6.018097805615318,False,False,150.0,3.0,3.0,0,1,Valle de los Cedros
+"Centro, Monterrey",27000,28501.076052211047,-5.266734664548207,False,False,78.0,2.0,2.0,1,1,Centro
+"Monterrey Centro, Monterrey",25000,25054.414733091722,-0.21718620718707707,False,False,75.0,1.0,1.0,1,1,Monterrey Centro
+"Dinastía , Monterrey",25000,22108.804197464284,13.07712428367028,False,False,69.0,1.0,1.0,1,1,Dinastía
+"Regina, Monterrey",19000,19943.68683998851,-4.731757209987626,False,False,,,,1,1,Regina
+"Cumbres 2do Sector, Monterrey",13500,13218.731197801046,2.1278048398907132,False,False,85.0,2.0,1.0,0,1,Cumbres 2do Sector
+"Centro, Monterrey",21000,20658.103284432418,1.6550247177107937,False,False,42.0,1.0,1.0,1,1,Centro
+"Colinas de San Jerónimo, Monterrey",22500,21354.295969187533,5.3652156571475,False,False,120.0,1.0,1.0,0,1,Colinas de San Jerónimo
+"Chepevera, Monterrey",14000,14207.736114512725,-1.4621338180720411,False,False,1.0,2.0,1.0,0,0,Chepevera
+"San Jerónimo, Monterrey",18000,18733.20986562161,-3.9139574631423244,False,False,50.0,,,1,1,San Jerónimo
+"Ladrillera, Monterrey",45000,45680.55460845343,-1.4898124908656183,False,False,140.0,3.0,2.0,1,1,Ladrillera
+"Jardín de las Torres, Monterrey",27000,37203.632674482906,-27.42644183099178,False,True,90.0,2.0,2.0,1,0,Jardín de las Torres
+"Centro, Monterrey",17800,19128.70105416434,-6.946112286464322,False,False,32.0,1.0,1.0,0,1,Centro
+"Santa María, Monterrey",35000,34223.030790050965,2.2703109339308103,False,False,74.0,1.0,1.0,1,1,Santa María
+"Obispado, Monterrey",29500,31445.353324711537,-6.186457199648537,False,False,113.0,2.0,2.0,1,0,Obispado
+"Jardines del Paseo, Monterrey",30000,30652.26690012186,-2.127956481154309,False,False,130.0,3.0,2.0,1,1,Jardines del Paseo
+"Privada Cumbres, Monterrey",11000,13102.57027416773,-16.047006275654454,False,False,74.0,2.0,2.0,0,0,Privada Cumbres
+"San Jemo 1 Sector, Monterrey",40000,39825.751230527305,0.4375278910975813,False,False,145.0,3.0,2.0,1,0,San Jemo 1 Sector
+"Loma Larga, Monterrey",18500,15835.987675869374,16.822520821925153,False,False,60.0,1.0,1.0,0,1,Loma Larga
+"Centro, Monterrey",18000,17518.501345730085,2.7485150970820604,False,False,36.0,1.0,1.0,0,0,Centro
+"Santa María, Monterrey",20000,20583.55601862688,-2.835059297328402,False,False,114.0,2.0,2.0,1,1,Santa María
+"Centro, Monterrey",32500,31853.472878095796,2.029691156058503,False,False,90.0,3.0,2.0,0,0,Centro
+"Del Paseo Residencial, Monterrey",30000,46480.974617047774,-35.45746351670317,False,True,128.0,2.0,2.0,1,0,Del Paseo Residencial
+"Satélite 6 Sector Acueducto, Monterrey",20000,19434.6438122764,2.909012345091073,False,False,73.0,2.0,1.0,0,0,Satélite 6 Sector Acueducto
+"San Jerónimo, Monterrey",14000,15313.792657231532,-8.579146176509894,False,False,115.0,2.0,2.0,0,1,San Jerónimo
+"Centrika, Monterrey",13000,14188.396673895064,-8.375834854417134,False,False,120.0,2.0,2.0,1,1,Centrika
+"Centro, Monterrey",25000,25164.853573694683,-0.6550945079490069,False,False,82.0,3.0,2.0,1,1,Centro
+"Monterrey, Nuevo León",21500,22105.899766270166,-2.740896198193505,False,False,85.0,2.0,2.0,1,0,Monterrey
+"Centro, Monterrey",16500,16737.05647891339,-1.4163570470832267,False,False,24.0,1.0,1.0,0,1,Centro
+"Tecnológico, Monterrey",12000,11991.908576924683,0.06747402236610417,False,False,110.0,2.0,1.0,0,1,Tecnológico
+"Jardines Roma, Monterrey",13500,14084.145849610459,-4.147541894609215,False,False,80.0,,,0,0,Jardines Roma
+"Monterrey Centro, Monterrey",19000,20687.40051611052,-8.15665803345587,False,False,58.0,1.0,1.0,1,0,Monterrey Centro
+"Monterrey, Nuevo León",31000,31401.884493506084,-1.2798101132726414,False,False,126.0,2.0,3.0,0,1,Monterrey
+"Centro, Monterrey",22000,21958.060886561703,0.19099643477153957,False,False,54.0,1.0,1.0,0,0,Centro
+"Valle Alto, Monterrey",25000,24628.670191673467,1.5077135932904444,False,False,200.0,2.0,2.0,1,0,Valle Alto
+"Colinas de San Jerónimo, Monterrey",23500,35860.6481582356,-34.468557577916805,False,True,158.0,3.0,2.0,0,0,Colinas de San Jerónimo
+"Centro, Monterrey",21500,22118.804013888344,-2.797637763324811,False,False,47.0,2.0,1.0,1,1,Centro
+"Monterrey, Nuevo León",24800,24898.699583861613,-0.39640457337613877,False,False,78.0,2.0,2.0,0,1,Monterrey
+"Satélite 6 Sector Acueducto, Monterrey",6500,6514.069890289286,-0.2159923139642817,False,False,30.0,1.0,1.0,0,1,Satélite 6 Sector Acueducto
+"Centro, Monterrey",18000,18835.5479553522,-4.436016182448113,False,False,65.0,2.0,2.0,1,0,Centro
+"Centro, Monterrey",19500,19380.19866191162,0.6181636224597999,False,False,48.0,1.0,1.0,1,0,Centro
+"San Jerónimo, Monterrey",29500,29343.606143045952,0.5329742233849846,False,False,140.0,3.0,2.0,0,0,San Jerónimo
+"Tecnológico, Monterrey",33000,32071.06372801906,2.8964934866484313,False,False,110.0,2.0,2.0,1,1,Tecnológico
+"Lomas, Monterrey",12000,12071.755810915509,-0.5944107223460061,False,False,25.0,1.0,1.0,0,1,Lomas
+"Centro, Monterrey",26990,26176.88666616278,3.106226283541506,False,False,,,,1,0,Centro
+"Vista Hermosa, Monterrey",14500,14374.889626944581,0.8703397125283612,False,False,65.0,1.0,1.0,1,1,Vista Hermosa
+"Centro, Monterrey",23500,21503.012039804835,9.28701503072446,False,False,76.0,2.0,2.0,1,0,Centro
+"San Jerónimo, Monterrey",33500,26335.425338429242,27.205084290459702,True,False,125.0,2.0,2.0,0,0,San Jerónimo
+"Centro, Monterrey",29000,23845.768534332386,21.614868307753273,True,False,75.0,2.0,2.0,1,0,Centro
+"Centro, Monterrey",26000,25341.60861267882,2.598064698196683,False,False,90.0,2.0,2.0,0,0,Centro
+"Empleados SFEO, Monterrey",35000,36329.774732856786,-3.660288957569925,False,False,80.0,2.0,2.0,1,1,Empleados SFEO
+"Centro, Monterrey",23000,23078.002594401598,-0.33799543128797566,False,False,56.0,2.0,2.0,0,0,Centro
+"San Jerónimo, Monterrey",38000,36075.567402386376,5.334448592723518,False,False,190.0,3.0,3.0,1,0,San Jerónimo
+"Colinas de San Jerónimo, Monterrey",45000,44418.632070376065,1.3088379865071633,False,False,142.0,3.0,2.0,1,1,Colinas de San Jerónimo
+"Del Paseo Residencial, Monterrey",40000,40056.91655369893,-0.14208920355272692,False,False,90.0,2.0,2.0,1,0,Del Paseo Residencial
+"Chepevera, Monterrey",23500,22305.63469268303,5.354545269715012,False,False,120.0,2.0,2.0,0,0,Chepevera
+"Rincón de La Primavera 2 Sector, Monterrey",9600,9361.316143809587,2.549682678415355,False,False,40.0,1.0,1.0,0,1,Rincón de La Primavera 2 Sector
+"Colinas de San Jerónimo, Monterrey",27000,26395.25271291699,2.2911214136133875,False,False,60.0,1.0,1.0,1,1,Colinas de San Jerónimo
+"Mitras Centro, Monterrey",30300,28223.427704890968,7.357619056133189,False,False,85.0,2.0,2.0,1,1,Mitras Centro
+"Privada Fundadores, Monterrey",42300,41955.332473332004,0.8215106551403836,False,False,140.0,2.0,2.0,0,0,Privada Fundadores
+"Lomas de Montecristo, Monterrey",40000,39666.32782825063,0.8411975345792596,False,False,140.0,3.0,3.0,0,0,Lomas de Montecristo
+"Ladrillera, Monterrey",26500,26598.314334711904,-0.3696261856098138,False,False,60.0,1.0,1.0,0,1,Ladrillera
+"Del Carmen, Monterrey",34000,34040.52776732291,-0.11905740004951122,False,False,136.0,2.0,2.0,1,1,Del Carmen
+"Mitras Centro, Monterrey",8000,7925.83918151935,0.9356841185166935,False,False,150.0,1.0,1.0,0,0,Mitras Centro
+"Campestre Mederos, Monterrey",28500,28555.120229345295,-0.19303098324429296,False,False,133.0,2.0,3.0,1,0,Campestre Mederos
+"Centro, Monterrey",22000,21733.46031999768,1.226402404761413,False,False,2665.0,2.0,2.0,1,1,Centro
+"San Jemo 1 Sector, Monterrey",45000,45171.488809964,-0.3796394904880218,False,False,320.0,3.0,3.0,0,1,San Jemo 1 Sector
+"Centro, Monterrey",25000,25039.499320209135,-0.15774804321768512,False,False,95.0,3.0,2.0,1,0,Centro
+"Ladrillera, Monterrey",35800,35416.47476721453,1.0829006424448058,False,False,72.0,2.0,2.0,1,0,Ladrillera
+"Santa María, Monterrey",30000,31128.117815358233,-3.624111878687486,False,False,100.0,2.0,2.0,0,0,Santa María
+"Centro, Monterrey",25000,25266.196847158448,-1.0535691175396882,False,False,77.0,2.0,2.0,1,0,Centro
+"Monterrey Centro, Monterrey",26000,27296.161902261978,-4.748513387717589,False,False,97.0,2.0,2.0,1,1,Monterrey Centro
+"Ladrillera, Monterrey",24900,24571.15392492317,1.3383420090143774,False,False,46.0,1.0,1.0,1,0,Ladrillera
+"Obispado, Monterrey",24000,26939.536303721914,-10.911606905853807,False,False,70.0,2.0,2.0,1,1,Obispado
+"Monterrey Centro, Monterrey",21654,21224.65957764685,2.0228377316605757,False,False,23.0,2.0,1.0,0,0,Monterrey Centro
+"Centro, Monterrey",23500,25560.51962273205,-8.061336988233766,False,False,,,,1,1,Centro
+"Las Cumbres 2 Sector, Monterrey",13000,12931.826628554994,0.527175111476292,False,False,,,,0,1,Las Cumbres 2 Sector
+"Privada Fundadores, Monterrey",43000,44526.55331130903,-3.428411133994752,False,False,140.0,3.0,3.0,0,0,Privada Fundadores
+"Mitras Centro, Monterrey",18500,18710.444562832876,-1.1247437874934878,False,False,50.0,1.0,1.0,1,0,Mitras Centro

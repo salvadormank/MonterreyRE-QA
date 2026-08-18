@@ -1,0 +1,59 @@
+# Secretos y configuración personal
+.env
+*.env
+
+# Datos con información de contacto (nombre/teléfono/email de anuncios) — nunca a un repo público
+contactos_segmentos*.csv
+leads_lamudi*.csv*
+leads_segmentados.csv
+leads_segmentados.tex
+leads_segmentos.tex
+data/propiedades_denue.csv
+segmentos_lamudi_ranks.csv
+
+# El paper en sí y borradores — no publicar antes de la revisión/aceptación,
+# y nunca junto con el link anónimo de double-blind review
+paper.tex
+paper_ncaa*.tex
+paper_ncaa*.pdf
+version_con_colegas.tex
+PAPER_DRAFT.md
+REPORTE_PROYECTO.md
+reporte_websights*.tex
+
+# Reportes HTML renderizados con datos de contacto reales (telefono/email)
+leads_lamudi.html
+mapa_interactivo.html
+
+# Hojas de cálculo con datos privados/propietarios
+*.xlsx
+
+# Modelos y pesos entrenados (van en HuggingFace/Zenodo, no en git)
+models/
+adapters/
+adapters_cai/
+catboost_info/
+*.safetensors
+
+# Datos públicos voluminosos, no esenciales para reproducir el pipeline
+data/denue_nl/
+data/denue_nuevo_leon.zip
+
+# Artefactos de compilación LaTeX
+*.aux
+*.log
+*.out
+*.spl
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+texput.*
+elsarticle.zip
+overleaf_upload.zip
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store

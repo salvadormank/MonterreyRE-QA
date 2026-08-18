@@ -1,0 +1,26 @@
+{
+  "baselines": {
+    "mediana_global": {
+      "r2": -0.011,
+      "mae": 7340.0
+    },
+    "mediana_colonia": {
+      "r2": 0.278,
+      "mae": 5615.0
+    }
+  },
+  "diebold_mariano": {
+    "XGBoost vs CatBoost": {
+      "t": -1.154,
+      "p": 0.2498
+    },
+    "XGBoost vs LightGBM": {
+      "t": -1.59,
+      "p": 0.1133
+    },
+    "CatBoost vs LightGBM": {
+      "t": 0.005,
+      "p": 0.9963
+    }
+  }
+}

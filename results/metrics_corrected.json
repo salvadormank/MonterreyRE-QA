@@ -1,0 +1,68 @@
+{
+  "base": {
+    "intersection": {
+      "mae_pct": 42.8,
+      "within_15": 26.7,
+      "within_20": 32.6,
+      "n": 86
+    },
+    "penalized": {
+      "mae_pct": 54.9,
+      "within_15": 21.1,
+      "within_20": 25.7,
+      "n": 109
+    },
+    "original": {
+      "mae_pct": 42.8,
+      "within_15": 26.7,
+      "within_20": 32.6,
+      "n": 86
+    },
+    "response_rate": 78.9,
+    "non_response_rate": 21.1
+  },
+  "finetuned": {
+    "intersection": {
+      "mae_pct": 44.9,
+      "within_15": 31.4,
+      "within_20": 44.2,
+      "n": 86
+    },
+    "penalized": {
+      "mae_pct": 42.5,
+      "within_15": 31.2,
+      "within_20": 43.1,
+      "n": 109
+    },
+    "original": {
+      "mae_pct": 42.5,
+      "within_15": 31.2,
+      "within_20": 43.1,
+      "n": 109
+    },
+    "response_rate": 100.0,
+    "non_response_rate": 0.0
+  },
+  "hybrid": {
+    "intersection": {
+      "mae_pct": 31.1,
+      "within_15": 38.4,
+      "within_20": 54.7,
+      "n": 86
+    },
+    "penalized": {
+      "mae_pct": 34.1,
+      "within_15": 37.6,
+      "within_20": 51.4,
+      "n": 109
+    },
+    "original": {
+      "mae_pct": 34.1,
+      "within_15": 37.6,
+      "within_20": 51.4,
+      "n": 109
+    },
+    "response_rate": 100.0,
+    "non_response_rate": 0.0
+  }
+}

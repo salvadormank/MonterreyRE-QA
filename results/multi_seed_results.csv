@@ -1,0 +1,5 @@
+estrategia,mae_pct_mean,mae_pct_sd,acc_15_mean,acc_15_sd,acc_20_mean,acc_20_sd
+base_zeroshot,44.41,4.73,21.86,3.43,31.28,3.06
+ft_zeroshot,29.61,3.16,27.71,6.7,38.35,9.02
+fewshot_xgb,21.8,2.29,51.19,7.3,63.12,6.63
+hybrid,18.16,1.56,56.33,4.66,69.72,5.09

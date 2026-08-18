@@ -1,0 +1,24 @@
+[
+  {
+    "label": "lora_200",
+    "n_train": 200,
+    "n_total": 109,
+    "n_con_precio_real": 109,
+    "mae_pct": 58.04,
+    "mae_mxn": 12788.81,
+    "pct_within_15pct": 25.7,
+    "pct_within_20pct": 35.8,
+    "hallucination_rate": 0.0
+  },
+  {
+    "label": "lora_500",
+    "n_train": 500,
+    "n_total": 109,
+    "n_con_precio_real": 109,
+    "mae_pct": 48.77,
+    "mae_mxn": 9886.42,
+    "pct_within_15pct": 29.4,
+    "pct_within_20pct": 40.4,
+    "hallucination_rate": 0.0
+  }
+]

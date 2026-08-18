@@ -1,0 +1,74 @@
+[
+  {
+    "model": "GPT-4o-mini — ZERO-SHOT",
+    "mae_pct": 30.95570330677843,
+    "p15": 23.853211009174313,
+    "p20": 35.77981651376147,
+    "nr_rate": 0.0,
+    "config": "zeroshot"
+  },
+  {
+    "model": "GPT-4o-mini — FEW-SHOT (k=3)",
+    "mae_pct": 30.55796287553405,
+    "p15": 52.293577981651374,
+    "p20": 64.22018348623854,
+    "nr_rate": 0.0,
+    "config": "fewshot"
+  },
+  {
+    "model": "GPT-4o-mini — FEW-SHOT + XGBOOST ANCHOR",
+    "mae_pct": 32.68035327154216,
+    "p15": 48.62385321100918,
+    "p20": 60.550458715596335,
+    "nr_rate": 0.0,
+    "config": "fewshot_xgb"
+  },
+  {
+    "model": "Claude Haiku 4.5 — ZERO-SHOT",
+    "mae_pct": 34.726039878983386,
+    "p15": 23.853211009174313,
+    "p20": 33.02752293577982,
+    "nr_rate": 2.7522935779816518,
+    "config": "zeroshot"
+  },
+  {
+    "model": "Claude Haiku 4.5 — FEW-SHOT (k=3)",
+    "mae_pct": 30.973646773597025,
+    "p15": 53.21100917431193,
+    "p20": 65.13761467889908,
+    "nr_rate": 0.0,
+    "config": "fewshot"
+  },
+  {
+    "model": "Claude Haiku 4.5 — FEW-SHOT + XGBOOST ANCHOR",
+    "mae_pct": 30.457785308427972,
+    "p15": 55.96330275229357,
+    "p20": 66.97247706422019,
+    "nr_rate": 0.0,
+    "config": "fewshot_xgb"
+  },
+  {
+    "model": "Claude Sonnet 4.6 — ZERO-SHOT",
+    "mae_pct": 30.079593361978443,
+    "p15": 36.69724770642202,
+    "p20": 50.45871559633027,
+    "nr_rate": 0.9174311926605505,
+    "config": "zeroshot"
+  },
+  {
+    "model": "Claude Sonnet 4.6 — FEW-SHOT (k=3)",
+    "mae_pct": 33.62954150369403,
+    "p15": 55.96330275229357,
+    "p20": 66.05504587155964,
+    "nr_rate": 0.0,
+    "config": "fewshot"
+  },
+  {
+    "model": "Claude Sonnet 4.6 — FEW-SHOT + XGBOOST ANCHOR",
+    "mae_pct": 29.864201885094978,
+    "p15": 56.88073394495413,
+    "p20": 66.97247706422019,
+    "nr_rate": 0.0,
+    "config": "fewshot_xgb"
+  }
+]

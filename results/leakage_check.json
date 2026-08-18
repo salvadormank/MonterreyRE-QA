@@ -1,0 +1,16 @@
+{
+  "With userViews+days_listed": {
+    "r2": 0.775,
+    "cv_r2": 0.789,
+    "cv_std": 0.041,
+    "mae": 3520.0,
+    "n_features": 14
+  },
+  "Without (no leakage)": {
+    "r2": 0.679,
+    "cv_r2": 0.671,
+    "cv_std": 0.034,
+    "mae": 4061.0,
+    "n_features": 12
+  }
+}

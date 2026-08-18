@@ -1,0 +1,31 @@
+{
+  "r2_test": 0.819,
+  "cv_r2_mean": 0.819,
+  "cv_r2_std": 0.019,
+  "mae_mxn": 3022.0,
+  "rmse_mxn": 4121.0,
+  "n_features": 48,
+  "n_denue_features": 26,
+  "feature_importance": {
+    "banos": 0.3611089587211609,
+    "colonia_enc": 0.1354929655790329,
+    "recamaras": 0.050297562032938004,
+    "userViews": 0.046639569103717804,
+    "m2": 0.04203120991587639,
+    "Lujo": 0.03671424090862274,
+    "estacionamientos": 0.024958407506346703,
+    "denue_tienda_depto_1000m": 0.022175109013915062,
+    "denue_tienda_depto_500m": 0.021383026614785194,
+    "municipio_enc": 0.01859176903963089,
+    "denue_clinica_priv_1000m": 0.014788646250963211,
+    "lat": 0.014434612356126308,
+    "denue_supermercado_500m": 0.012054230086505413,
+    "denue_farmacia_1000m": 0.012042805552482605,
+    "denue_hotel_1000m": 0.011948710307478905,
+    "denue_escuela_priv_1000m": 0.011814975179731846,
+    "lon": 0.011547094210982323,
+    "denue_banco_1000m": 0.01105464156717062,
+    "denue_gym_500m": 0.010671699419617653,
+    "denue_supermercado_1000m": 0.010478327982127666
+  }
+}

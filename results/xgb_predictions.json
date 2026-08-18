@@ -1,0 +1,1626 @@
+[
+  {
+    "id": "test_0001",
+    "precio_xgb": 16813.126953125,
+    "precio_real": 8000.0,
+    "params": {
+      "lujo": 0,
+      "amueblado": 1,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Lagos del Bosque",
+      "m2": 1.0,
+      "recamaras": 1.0,
+      "banos": 1.0
+    },
+    "pregunta": "Tengo un departamento en Lagos del Bosque, Monterrey. Tiene 1 recámaras, 1 baños y 1 m² m². Amueblado. ¿Cuánto cuesta de renta mensual?"
+  },
+  {
+    "id": "test_0002",
+    "precio_xgb": 29940.08203125,
+    "precio_real": 24000.0,
+    "params": {
+      "lujo": 0,
+      "amueblado": 1,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Mas Palomas (Valle de Santiago)",
+      "m2": 95.0,
+      "recamaras": 1.0,
+      "banos": 1.0
+    },
+    "pregunta": "Tengo un departamento en Mas Palomas (Valle de Santiago), Monterrey. Tiene 1 recámaras, 1 baños y 95 m² m². Amueblado. ¿Cuánto cuesta de renta mensual?"
+  },
+  {
+    "id": "test_0003",
+    "precio_xgb": 18952.15625,
+    "precio_real": 8500.0,
+    "params": {
+      "lujo": 0,
+      "amueblado": 0,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Urdiales",
+      "m2": 110.0,
+      "recamaras": 1.0
+    },
+    "pregunta": "Busco rentar un departamento en Urdiales, Monterrey. 1 recámaras, 110 m² m², ¿Cuál es el precio de mercado?"
+  },
+  {
+    "id": "test_0004",
+    "precio_xgb": 26824.169921875,
+    "precio_real": 25000.0,
+    "params": {
+      "lujo": 0,
+      "amueblado": 1,
+      "nuevo": 0,
+      "amenidades": [],
+      "m2": 100.0,
+      "recamaras": 3.0
+    },
+    "pregunta": "¿Cuánto debería costar de renta un departamento de 3 recámaras en La Florida? Superficie: 100 m² m². Amueblado. "
+  },
+  {
+    "id": "test_0005",
+    "precio_xgb": 29143.505859375,
+    "precio_real": 19500.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 0,
+      "nuevo": 0,
+      "amenidades": [],
+      "m2": 72.0
+    },
+    "pregunta": "¿Cuánto debería costar de renta un departamento de no especificado recámaras en Urdiales? Superficie: 72 m² m². Lujo. "
+  },
+  {
+    "id": "test_0006",
+    "precio_xgb": 26815.396484375,
+    "precio_real": 18000.0,
+    "params": {
+      "lujo": 0,
+      "amueblado": 0,
+      "nuevo": 0,
+      "amenidades": [],
+      "m2": 110.0,
+      "recamaras": 3.0
+    },
+    "pregunta": "¿Cuánto debería costar de renta un departamento de 3 recámaras en Las Brisas? Superficie: 110 m² m². "
+  },
+  {
+    "id": "test_0007",
+    "precio_xgb": 21801.63671875,
+    "precio_real": 16000.0,
+    "params": {
+      "lujo": 0,
+      "amueblado": 1,
+      "nuevo": 1,
+      "amenidades": [],
+      "colonia": "Regina",
+      "m2": 80.0,
+      "recamaras": 3.0,
+      "banos": 2.0
+    },
+    "pregunta": "Tengo un departamento en Regina, Monterrey. Tiene 3 recámaras, 2 baños y 80 m² m². Amueblado, Construcción nueva. ¿Cuánto cuesta de renta mensual?"
+  },
+  {
+    "id": "test_0008",
+    "precio_xgb": 21126.38671875,
+    "precio_real": 14000.0,
+    "params": {
+      "lujo": 0,
+      "amueblado": 0,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Tecnológico",
+      "m2": 100.0,
+      "recamaras": 2.0
+    },
+    "pregunta": "Un departamento en Tecnológico con 2 recámaras y 100 m² m². ¿Cuánto vale la renta?"
+  },
+  {
+    "id": "test_0009",
+    "precio_xgb": 24951.51953125,
+    "precio_real": 23500.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 1,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Las Canteras",
+      "m2": 60.0,
+      "recamaras": 1.0,
+      "banos": 1.0
+    },
+    "pregunta": "Tengo un departamento en Las Canteras, Monterrey. Tiene 1 recámaras, 1 baños y 60 m² m². Amueblado, Lujo. ¿Cuánto cuesta de renta mensual?"
+  },
+  {
+    "id": "test_0010",
+    "precio_xgb": 30788.779296875,
+    "precio_real": 30000.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 1,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "San Jemo",
+      "m2": 123.0,
+      "recamaras": 2.0
+    },
+    "pregunta": "Un departamento en San Jemo 3 Sector con 2 recámaras y 123 m² m². Amueblado, Lujo. ¿Cuánto vale la renta?"
+  },
+  {
+    "id": "test_0011",
+    "precio_xgb": 30328.19921875,
+    "precio_real": 26000.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 1,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Satélite Miradores",
+      "m2": 119.0,
+      "banos": 2.0
+    },
+    "pregunta": "Dame un estimado de renta para: departamento en Satélite Miradores 1er Sector, 3 rec, 2 baños, 119 m² m². Amueblado, Lujo. "
+  },
+  {
+    "id": "test_0012",
+    "precio_xgb": 26432.5234375,
+    "precio_real": 26900.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 1,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Mitras Centro",
+      "m2": 85.0,
+      "recamaras": 2.0,
+      "banos": 2.0
+    },
+    "pregunta": "Tengo un departamento en Mitras Centro, Monterrey. Tiene 2 recámaras, 2 baños y 85 m² m². Amueblado, Lujo. ¿Cuánto cuesta de renta mensual?"
+  },
+  {
+    "id": "test_0013",
+    "precio_xgb": 23468.66796875,
+    "precio_real": 16500.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 1,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Puerta de Hierro Cumbres",
+      "m2": 90.0,
+      "recamaras": 2.0,
+      "banos": 2.0
+    },
+    "pregunta": "Tengo un departamento en Puerta de Hierro Cumbres, Monterrey. Tiene 2 recámaras, 2 baños y 90 m² m². Amueblado, Lujo. ¿Cuánto cuesta de renta mensual?"
+  },
+  {
+    "id": "test_0014",
+    "precio_xgb": 20287.189453125,
+    "precio_real": 14000.0,
+    "params": {
+      "lujo": 0,
+      "amueblado": 0,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Chepevera",
+      "m2": 1.0,
+      "recamaras": 2.0,
+      "banos": 1.0
+    },
+    "pregunta": "Tengo un departamento en Chepevera, Monterrey. Tiene 2 recámaras, 1 baños y 1 m² m². ¿Cuánto cuesta de renta mensual?"
+  },
+  {
+    "id": "test_0015",
+    "precio_xgb": 24750.728515625,
+    "precio_real": 40000.0,
+    "params": {
+      "lujo": 0,
+      "amueblado": 1,
+      "nuevo": 0,
+      "amenidades": [],
+      "m2": 116.0,
+      "recamaras": 2.0
+    },
+    "pregunta": "¿Cuánto debería costar de renta un departamento de 2 recámaras en Ladrillera? Superficie: 116 m² m². Amueblado. "
+  },
+  {
+    "id": "test_0016",
+    "precio_xgb": 32031.24609375,
+    "precio_real": 29000.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 0,
+      "nuevo": 0,
+      "amenidades": [],
+      "m2": 91.0,
+      "recamaras": 2.0
+    },
+    "pregunta": "¿Cuánto debería costar de renta un departamento de 2 recámaras en Colinas de San Jerónimo? Superficie: 91 m² m². Lujo. "
+  },
+  {
+    "id": "test_0017",
+    "precio_xgb": 18122.97265625,
+    "precio_real": 19000.0,
+    "params": {
+      "lujo": 0,
+      "amueblado": 1,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Tecnológico",
+      "m2": 25.0,
+      "recamaras": 1.0
+    },
+    "pregunta": "Un departamento en Tecnológico con 1 recámaras y 25 m² m². Amueblado. ¿Cuánto vale la renta?"
+  },
+  {
+    "id": "test_0018",
+    "precio_xgb": 25265.4765625,
+    "precio_real": 10000.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 0,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Regina"
+    },
+    "pregunta": "Un departamento en Regina con no especificado recámaras y superficie no especificada m². Lujo. ¿Cuánto vale la renta?"
+  },
+  {
+    "id": "test_0019",
+    "precio_xgb": 37049.23828125,
+    "precio_real": 40000.0,
+    "params": {
+      "lujo": 0,
+      "amueblado": 1,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Santa María",
+      "m2": 104.0,
+      "recamaras": 2.0,
+      "banos": 2.0
+    },
+    "pregunta": "Tengo un departamento en Santa María, Monterrey. Tiene 2 recámaras, 2 baños y 104 m² m². Amueblado. ¿Cuánto cuesta de renta mensual?"
+  },
+  {
+    "id": "test_0020",
+    "precio_xgb": 30477.4375,
+    "precio_real": 24000.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 1,
+      "nuevo": 1,
+      "amenidades": [],
+      "colonia": "Centro",
+      "m2": 77.0,
+      "recamaras": 2.0
+    },
+    "pregunta": "Un departamento en Centro con 2 recámaras y 77 m² m². Amueblado, Lujo, Construcción nueva. ¿Cuánto vale la renta?"
+  },
+  {
+    "id": "test_0021",
+    "precio_xgb": 34812.91015625,
+    "precio_real": 36000.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 0,
+      "nuevo": 1,
+      "amenidades": [],
+      "m2": 94.0,
+      "recamaras": 3.0
+    },
+    "pregunta": "¿Cuánto debería costar de renta un departamento de 3 recámaras en Centro? Superficie: 94 m² m². Lujo, Construcción nueva. "
+  },
+  {
+    "id": "test_0022",
+    "precio_xgb": 30200.478515625,
+    "precio_real": 24000.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 0,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Mas Palomas (Valle de Santiago)",
+      "m2": 100.0,
+      "recamaras": 1.0
+    },
+    "pregunta": "Un departamento en Mas Palomas (Valle de Santiago) con 1 recámaras y 100 m² m². Lujo. ¿Cuánto vale la renta?"
+  },
+  {
+    "id": "test_0023",
+    "precio_xgb": 33034.03515625,
+    "precio_real": 29000.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 0,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Buenos Aires",
+      "m2": 94.0,
+      "banos": 2.0
+    },
+    "pregunta": "Dame un estimado de renta para: departamento en Buenos Aires, 3 rec, 2 baños, 94 m² m². Lujo. "
+  },
+  {
+    "id": "test_0024",
+    "precio_xgb": 30625.62890625,
+    "precio_real": 50000.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 0,
+      "nuevo": 1,
+      "amenidades": [],
+      "m2": 80.0,
+      "recamaras": 2.0
+    },
+    "pregunta": "¿Cuánto debería costar de renta un departamento de 2 recámaras en Haciendas de La Sierra? Superficie: 80 m² m². Lujo, Construcción nueva. "
+  },
+  {
+    "id": "test_0025",
+    "precio_xgb": 26096.32421875,
+    "precio_real": 20000.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 1,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Centro",
+      "m2": 55.0,
+      "banos": 2.0
+    },
+    "pregunta": "Dame un estimado de renta para: departamento en Centro, 2 rec, 2 baños, 55 m² m². Amueblado, Lujo. "
+  },
+  {
+    "id": "test_0026",
+    "precio_xgb": 34402.4921875,
+    "precio_real": 32000.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 0,
+      "nuevo": 0,
+      "amenidades": [
+        "jardín"
+      ],
+      "colonia": "Jardín de las Torres",
+      "m2": 100.0,
+      "recamaras": 2.0
+    },
+    "pregunta": "Un departamento en Jardín de las Torres con 2 recámaras y 100 m² m². Lujo. ¿Cuánto vale la renta?"
+  },
+  {
+    "id": "test_0027",
+    "precio_xgb": 25141.23046875,
+    "precio_real": 26000.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 0,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Centro",
+      "m2": 1.0,
+      "recamaras": 2.0
+    },
+    "pregunta": "Busco rentar un departamento en Centro, Monterrey. 2 recámaras, 1 m² m², Lujo. ¿Cuál es el precio de mercado?"
+  },
+  {
+    "id": "test_0028",
+    "precio_xgb": 37313.3046875,
+    "precio_real": 35000.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 0,
+      "nuevo": 1,
+      "amenidades": [],
+      "colonia": "Monterrey",
+      "m2": 140.0,
+      "recamaras": 2.0,
+      "banos": 2.0
+    },
+    "pregunta": "Tengo un departamento en Monterrey, Nuevo León. Tiene 2 recámaras, 2 baños y 140 m² m². Lujo. ¿Cuánto cuesta de renta mensual?"
+  },
+  {
+    "id": "test_0029",
+    "precio_xgb": 27004.38671875,
+    "precio_real": 21600.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 1,
+      "nuevo": 0,
+      "amenidades": [],
+      "m2": 60.0,
+      "recamaras": 2.0
+    },
+    "pregunta": "¿Cuánto debería costar de renta un departamento de 2 recámaras en Centro? Superficie: 60 m² m². Amueblado, Lujo. "
+  },
+  {
+    "id": "test_0030",
+    "precio_xgb": 26595.572265625,
+    "precio_real": 18500.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 1,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Centro",
+      "m2": 56.0
+    },
+    "pregunta": "Dame un estimado de renta para: departamento en Centro, no especificado rec, no especificado baños, 56 m² m². Amueblado, Lujo. "
+  },
+  {
+    "id": "test_0031",
+    "precio_xgb": 34935.66796875,
+    "precio_real": 30000.0,
+    "params": {
+      "lujo": 0,
+      "amueblado": 0,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Santa María",
+      "m2": 100.0,
+      "recamaras": 2.0
+    },
+    "pregunta": "Busco rentar un departamento en Santa María, Monterrey. 2 recámaras, 100 m² m², ¿Cuál es el precio de mercado?"
+  },
+  {
+    "id": "test_0032",
+    "precio_xgb": 22940.0625,
+    "precio_real": 21000.0,
+    "params": {
+      "lujo": 0,
+      "amueblado": 1,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Centro",
+      "m2": 48.0,
+      "recamaras": 2.0
+    },
+    "pregunta": "Busco rentar un departamento en Centro, Monterrey. 2 recámaras, 48 m² m², Amueblado. ¿Cuál es el precio de mercado?"
+  },
+  {
+    "id": "test_0033",
+    "precio_xgb": 34527.0,
+    "precio_real": 29000.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 1,
+      "nuevo": 1,
+      "amenidades": [],
+      "m2": 113.0,
+      "recamaras": 3.0
+    },
+    "pregunta": "¿Cuánto debería costar de renta un departamento de 3 recámaras en Contry Sur? Superficie: 113 m² m². Amueblado, Lujo, Construcción nueva. "
+  },
+  {
+    "id": "test_0034",
+    "precio_xgb": 28462.671875,
+    "precio_real": 40000.0,
+    "params": {
+      "lujo": 0,
+      "amueblado": 0,
+      "nuevo": 0,
+      "amenidades": [],
+      "m2": 140.0,
+      "recamaras": 3.0
+    },
+    "pregunta": "¿Cuánto debería costar de renta un departamento de 3 recámaras en Lomas de Montecristo? Superficie: 140 m² m². "
+  },
+  {
+    "id": "test_0035",
+    "precio_xgb": 25887.33203125,
+    "precio_real": 22000.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 1,
+      "nuevo": 1,
+      "amenidades": [],
+      "colonia": "Centro",
+      "m2": 55.0,
+      "recamaras": 1.0
+    },
+    "pregunta": "Busco rentar un departamento en Centro, Monterrey. 1 recámaras, 55 m² m², Amueblado, Lujo, Construcción nueva. ¿Cuál es el precio de mercado?"
+  },
+  {
+    "id": "test_0036",
+    "precio_xgb": 18270.033203125,
+    "precio_real": 8500.0,
+    "params": {
+      "lujo": 0,
+      "amueblado": 0,
+      "nuevo": 1,
+      "amenidades": [],
+      "colonia": "Nuevo Repueblo",
+      "m2": 75.0,
+      "recamaras": 2.0,
+      "banos": 1.0
+    },
+    "pregunta": "Tengo un departamento en Nuevo Repueblo, Monterrey. Tiene 2 recámaras, 1 baños y 75 m² m². ¿Cuánto cuesta de renta mensual?"
+  },
+  {
+    "id": "test_0037",
+    "precio_xgb": 21705.24609375,
+    "precio_real": 27000.0,
+    "params": {
+      "lujo": 0,
+      "amueblado": 1,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Cumbres",
+      "m2": 180.0,
+      "recamaras": 3.0,
+      "banos": 3.0
+    },
+    "pregunta": "Tengo un departamento en Cumbres 5to Sector, Monterrey. Tiene 3 recámaras, 3 baños y 180 m² m². Amueblado. ¿Cuánto cuesta de renta mensual?"
+  },
+  {
+    "id": "test_0038",
+    "precio_xgb": 23227.55859375,
+    "precio_real": 15000.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 0,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Centro",
+      "m2": 49.0,
+      "banos": 1.0
+    },
+    "pregunta": "Dame un estimado de renta para: departamento en Centro, 1 rec, 1 baños, 49 m² m². Lujo. "
+  },
+  {
+    "id": "test_0039",
+    "precio_xgb": 35167.16015625,
+    "precio_real": 42500.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 1,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Obispado",
+      "m2": 113.0,
+      "recamaras": 2.0,
+      "banos": 2.0
+    },
+    "pregunta": "Tengo un departamento en Obispado, Monterrey. Tiene 2 recámaras, 2 baños y 113 m² m². Amueblado, Lujo. ¿Cuánto cuesta de renta mensual?"
+  },
+  {
+    "id": "test_0040",
+    "precio_xgb": 27976.603515625,
+    "precio_real": 11500.0,
+    "params": {
+      "lujo": 0,
+      "amueblado": 1,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Centro"
+    },
+    "pregunta": "Busco rentar un departamento en Centro, Monterrey. no especificado recámaras, superficie no especificada m², Amueblado. ¿Cuál es el precio de mercado?"
+  },
+  {
+    "id": "test_0041",
+    "precio_xgb": 30507.01171875,
+    "precio_real": 30000.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 1,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Centro",
+      "m2": 117.0,
+      "recamaras": 2.0
+    },
+    "pregunta": "Busco rentar un departamento en Centro, Monterrey. 2 recámaras, 117 m² m², Amueblado, Lujo. ¿Cuál es el precio de mercado?"
+  },
+  {
+    "id": "test_0042",
+    "precio_xgb": 20948.541015625,
+    "precio_real": 17000.0,
+    "params": {
+      "lujo": 0,
+      "amueblado": 0,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Mitras Centro",
+      "m2": 55.0,
+      "recamaras": 2.0
+    },
+    "pregunta": "Un departamento en Mitras Centro con 2 recámaras y 55 m² m². ¿Cuánto vale la renta?"
+  },
+  {
+    "id": "test_0043",
+    "precio_xgb": 22565.578125,
+    "precio_real": 20000.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 1,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Mitras Centro",
+      "m2": 60.0,
+      "recamaras": 1.0
+    },
+    "pregunta": "Busco rentar un departamento en Mitras Centro, Monterrey. 1 recámaras, 60 m² m², Amueblado, Lujo. ¿Cuál es el precio de mercado?"
+  },
+  {
+    "id": "test_0044",
+    "precio_xgb": 20165.21875,
+    "precio_real": 15000.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 1,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Centro",
+      "m2": 35.0,
+      "recamaras": 1.0,
+      "banos": 1.0
+    },
+    "pregunta": "Tengo un departamento en Centro, Monterrey. Tiene 1 recámaras, 1 baños y 35 m² m². Amueblado, Lujo. ¿Cuánto cuesta de renta mensual?"
+  },
+  {
+    "id": "test_0045",
+    "precio_xgb": 23662.197265625,
+    "precio_real": 13000.0,
+    "params": {
+      "lujo": 0,
+      "amueblado": 1,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Eugenio Garza Sada",
+      "m2": 1.0
+    },
+    "pregunta": "Dame un estimado de renta para: departamento en Eugenio Garza Sada, 1 rec, no especificado baños, 1 m² m². Amueblado. "
+  },
+  {
+    "id": "test_0046",
+    "precio_xgb": 22330.849609375,
+    "precio_real": 17500.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 0,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Centrika",
+      "m2": 97.0,
+      "recamaras": 2.0
+    },
+    "pregunta": "Un departamento en Centrika 1 Sector con 2 recámaras y 97 m² m². Lujo. ¿Cuánto vale la renta?"
+  },
+  {
+    "id": "test_0047",
+    "precio_xgb": 23498.1875,
+    "precio_real": 19000.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 1,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Mitras Centro",
+      "m2": 63.0,
+      "recamaras": 2.0,
+      "banos": 2.0
+    },
+    "pregunta": "Tengo un departamento en Mitras Centro, Monterrey. Tiene 2 recámaras, 2 baños y 63 m² m². Amueblado, Lujo. ¿Cuánto cuesta de renta mensual?"
+  },
+  {
+    "id": "test_0048",
+    "precio_xgb": 18824.9921875,
+    "precio_real": 19000.0,
+    "params": {
+      "lujo": 0,
+      "amueblado": 0,
+      "nuevo": 1,
+      "amenidades": [],
+      "colonia": "Mitras Norte",
+      "m2": 10.0,
+      "banos": 1.0
+    },
+    "pregunta": "Dame un estimado de renta para: departamento en Mitras Norte, 2 rec, 1 baños, 10 m² m². Construcción nueva. "
+  },
+  {
+    "id": "test_0049",
+    "precio_xgb": 24788.974609375,
+    "precio_real": 26000.0,
+    "params": {
+      "lujo": 0,
+      "amueblado": 1,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Centro",
+      "m2": 69.0,
+      "recamaras": 2.0,
+      "banos": 2.0
+    },
+    "pregunta": "Tengo un departamento en Centro, Monterrey. Tiene 2 recámaras, 2 baños y 69 m² m². Amueblado. ¿Cuánto cuesta de renta mensual?"
+  },
+  {
+    "id": "test_0050",
+    "precio_xgb": 18236.748046875,
+    "precio_real": 13500.0,
+    "params": {
+      "lujo": 0,
+      "amueblado": 1,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Cumbres",
+      "m2": 85.0,
+      "recamaras": 2.0
+    },
+    "pregunta": "Un departamento en Cumbres 2do Sector con 2 recámaras y 85 m² m². Amueblado. ¿Cuánto vale la renta?"
+  },
+  {
+    "id": "test_0051",
+    "precio_xgb": 18025.578125,
+    "precio_real": 12200.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 1,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Garza Nieto",
+      "m2": 1.0,
+      "recamaras": 1.0
+    },
+    "pregunta": "Busco rentar un departamento en Garza Nieto, Monterrey. 1 recámaras, 1 m² m², Amueblado, Lujo. ¿Cuál es el precio de mercado?"
+  },
+  {
+    "id": "test_0052",
+    "precio_xgb": 38978.578125,
+    "precio_real": 35000.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 0,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Miravalle",
+      "m2": 165.0,
+      "recamaras": 2.0
+    },
+    "pregunta": "Un departamento en Miravalle con 2 recámaras y 165 m² m². Lujo. ¿Cuánto vale la renta?"
+  },
+  {
+    "id": "test_0053",
+    "precio_xgb": 47667.7734375,
+    "precio_real": 32500.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 0,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "San Jerónimo",
+      "m2": 180.0,
+      "recamaras": 3.0
+    },
+    "pregunta": "Busco rentar un departamento en San Jerónimo, Monterrey. 3 recámaras, 180 m² m², Lujo. ¿Cuál es el precio de mercado?"
+  },
+  {
+    "id": "test_0054",
+    "precio_xgb": 34783.07421875,
+    "precio_real": 34000.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 0,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "San Jerónimo",
+      "m2": 100.0,
+      "recamaras": 2.0
+    },
+    "pregunta": "Un departamento en San Jerónimo con 2 recámaras y 100 m² m². Lujo. ¿Cuánto vale la renta?"
+  },
+  {
+    "id": "test_0055",
+    "precio_xgb": 32497.568359375,
+    "precio_real": 28500.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 0,
+      "nuevo": 0,
+      "amenidades": [],
+      "m2": 96.0,
+      "recamaras": 2.0
+    },
+    "pregunta": "¿Cuánto debería costar de renta un departamento de 2 recámaras en Colinas de San Jerónimo? Superficie: 96 m² m². Lujo. "
+  },
+  {
+    "id": "test_0056",
+    "precio_xgb": 20737.275390625,
+    "precio_real": 19000.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 1,
+      "nuevo": 1,
+      "amenidades": [],
+      "colonia": "Del Norte",
+      "m2": 60.0,
+      "recamaras": 2.0,
+      "banos": 1.0
+    },
+    "pregunta": "Tengo un departamento en Del Norte, Monterrey. Tiene 2 recámaras, 1 baños y 60 m² m². Amueblado, Lujo, Construcción nueva. ¿Cuánto cuesta de renta mensual?"
+  },
+  {
+    "id": "test_0057",
+    "precio_xgb": 21474.44921875,
+    "precio_real": 15000.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 1,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Centro",
+      "m2": 30.0
+    },
+    "pregunta": "Tengo un departamento en Centro, Monterrey. Tiene no especificado recámaras, no especificado baños y 30 m² m². Amueblado, Lujo. ¿Cuánto cuesta de renta mensual?"
+  },
+  {
+    "id": "test_0058",
+    "precio_xgb": 26394.18359375,
+    "precio_real": 22000.0,
+    "params": {
+      "lujo": 0,
+      "amueblado": 1,
+      "nuevo": 0,
+      "amenidades": [],
+      "m2": 111.0,
+      "recamaras": 2.0
+    },
+    "pregunta": "¿Cuánto debería costar de renta un departamento de 2 recámaras en Centro? Superficie: 111 m² m². Amueblado. "
+  },
+  {
+    "id": "test_0059",
+    "precio_xgb": 25786.181640625,
+    "precio_real": 24500.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 1,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Centro",
+      "m2": 60.0,
+      "recamaras": 1.0
+    },
+    "pregunta": "Busco rentar un departamento en Centro, Monterrey. 1 recámaras, 60 m² m², Amueblado, Lujo. ¿Cuál es el precio de mercado?"
+  },
+  {
+    "id": "test_0060",
+    "precio_xgb": 21135.2734375,
+    "precio_real": 16500.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 0,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Centrika",
+      "m2": 100.0,
+      "recamaras": 2.0,
+      "banos": 2.0
+    },
+    "pregunta": "Tengo un departamento en Centrika 1 Sector, Monterrey. Tiene 2 recámaras, 2 baños y 100 m² m². Lujo. ¿Cuánto cuesta de renta mensual?"
+  },
+  {
+    "id": "test_0061",
+    "precio_xgb": 38109.11328125,
+    "precio_real": 45000.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 1,
+      "nuevo": 0,
+      "amenidades": [],
+      "m2": 140.0,
+      "recamaras": 3.0
+    },
+    "pregunta": "¿Cuánto debería costar de renta un departamento de 3 recámaras en Ladrillera? Superficie: 140 m² m². Amueblado, Lujo. "
+  },
+  {
+    "id": "test_0062",
+    "precio_xgb": 33826.27734375,
+    "precio_real": 29500.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 0,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Obispado",
+      "m2": 113.0,
+      "recamaras": 2.0,
+      "banos": 2.0
+    },
+    "pregunta": "Tengo un departamento en Obispado, Monterrey. Tiene 2 recámaras, 2 baños y 113 m² m². Lujo. ¿Cuánto cuesta de renta mensual?"
+  },
+  {
+    "id": "test_0063",
+    "precio_xgb": 34309.2421875,
+    "precio_real": 30000.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 0,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Estanza Residencial",
+      "m2": 91.0,
+      "banos": 2.0
+    },
+    "pregunta": "Dame un estimado de renta para: departamento en Estanza Residencial, 2 rec, 2 baños, 91 m² m². Lujo. "
+  },
+  {
+    "id": "test_0064",
+    "precio_xgb": 37085.5078125,
+    "precio_real": 26000.0,
+    "params": {
+      "lujo": 0,
+      "amueblado": 0,
+      "nuevo": 1,
+      "amenidades": [],
+      "colonia": "Colinas de San Jerónimo",
+      "m2": 158.0,
+      "recamaras": 3.0
+    },
+    "pregunta": "Busco rentar un departamento en Colinas de San Jerónimo, Monterrey. 3 recámaras, 158 m² m², Construcción nueva. ¿Cuál es el precio de mercado?"
+  },
+  {
+    "id": "test_0065",
+    "precio_xgb": 39506.53125,
+    "precio_real": 31000.0,
+    "params": {
+      "lujo": 0,
+      "amueblado": 0,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "San Jerónimo",
+      "m2": 187.0,
+      "banos": 3.0
+    },
+    "pregunta": "Dame un estimado de renta para: departamento en San Jerónimo, 3 rec, 3 baños, 187 m² m². "
+  },
+  {
+    "id": "test_0066",
+    "precio_xgb": 30880.02734375,
+    "precio_real": 25000.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 0,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Ladrillera",
+      "m2": 110.0,
+      "recamaras": 1.0
+    },
+    "pregunta": "Busco rentar un departamento en Ladrillera, Monterrey. 1 recámaras, 110 m² m², Lujo. ¿Cuál es el precio de mercado?"
+  },
+  {
+    "id": "test_0067",
+    "precio_xgb": 31354.7890625,
+    "precio_real": 45000.0,
+    "params": {
+      "lujo": 0,
+      "amueblado": 1,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "San Jemo",
+      "m2": 320.0,
+      "recamaras": 3.0
+    },
+    "pregunta": "¿Cuánto debería costar de renta un departamento de 3 recámaras en San Jemo 1 Sector? Superficie: 320 m² m². Amueblado. "
+  },
+  {
+    "id": "test_0068",
+    "precio_xgb": 23514.126953125,
+    "precio_real": 21000.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 1,
+      "nuevo": 1,
+      "amenidades": [],
+      "colonia": "Colinas de San Jerónimo",
+      "m2": 38.0,
+      "recamaras": 1.0
+    },
+    "pregunta": "Busco rentar un departamento en Colinas de San Jerónimo, Monterrey. 1 recámaras, 38 m² m², Amueblado, Lujo, Construcción nueva. ¿Cuál es el precio de mercado?"
+  },
+  {
+    "id": "test_0069",
+    "precio_xgb": 20680.869140625,
+    "precio_real": 12500.0,
+    "params": {
+      "lujo": 0,
+      "amueblado": 1,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Mitras Centro",
+      "m2": 100.0,
+      "recamaras": 2.0
+    },
+    "pregunta": "Busco rentar un departamento en Mitras Centro, Monterrey. 2 recámaras, 100 m² m², Amueblado. ¿Cuál es el precio de mercado?"
+  },
+  {
+    "id": "test_0070",
+    "precio_xgb": 24273.814453125,
+    "precio_real": 29000.0,
+    "params": {
+      "lujo": 0,
+      "amueblado": 1,
+      "nuevo": 0,
+      "amenidades": [
+        "jardín"
+      ],
+      "m2": 114.0,
+      "recamaras": 2.0
+    },
+    "pregunta": "¿Cuánto debería costar de renta un departamento de 2 recámaras en Jardín de las Torres? Superficie: 114 m² m². Amueblado. "
+  },
+  {
+    "id": "test_0071",
+    "precio_xgb": 24106.8984375,
+    "precio_real": 24780.0,
+    "params": {
+      "lujo": 0,
+      "amueblado": 0,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Centro",
+      "m2": 65.0,
+      "recamaras": 2.0
+    },
+    "pregunta": "Busco rentar un departamento en Centro, Monterrey. 2 recámaras, 65 m² m², ¿Cuál es el precio de mercado?"
+  },
+  {
+    "id": "test_0072",
+    "precio_xgb": 25252.92578125,
+    "precio_real": 25000.0,
+    "params": {
+      "lujo": 0,
+      "amueblado": 1,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Monterrey Centro",
+      "m2": 75.0,
+      "recamaras": 2.0,
+      "banos": 2.0
+    },
+    "pregunta": "Tengo un departamento en Monterrey Centro, Monterrey. Tiene 2 recámaras, 2 baños y 75 m² m². Amueblado. ¿Cuánto cuesta de renta mensual?"
+  },
+  {
+    "id": "test_0073",
+    "precio_xgb": 42405.6640625,
+    "precio_real": 27000.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 0,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Santa María",
+      "m2": 136.0,
+      "recamaras": 2.0
+    },
+    "pregunta": "Un departamento en Santa María con 2 recámaras y 136 m² m². Lujo. ¿Cuánto vale la renta?"
+  },
+  {
+    "id": "test_0074",
+    "precio_xgb": 26287.392578125,
+    "precio_real": 30000.0,
+    "params": {
+      "lujo": 0,
+      "amueblado": 1,
+      "nuevo": 0,
+      "amenidades": [],
+      "m2": 100.0,
+      "recamaras": 2.0
+    },
+    "pregunta": "¿Cuánto debería costar de renta un departamento de 2 recámaras en Vista Hermosa? Superficie: 100 m² m². Amueblado. "
+  },
+  {
+    "id": "test_0075",
+    "precio_xgb": 18983.88671875,
+    "precio_real": 20000.0,
+    "params": {
+      "lujo": 0,
+      "amueblado": 1,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Mitras Norte",
+      "m2": 56.0,
+      "recamaras": 1.0
+    },
+    "pregunta": "Un departamento en Mitras Norte con 1 recámaras y 56 m² m². Amueblado. ¿Cuánto vale la renta?"
+  },
+  {
+    "id": "test_0076",
+    "precio_xgb": 19964.841796875,
+    "precio_real": 6500.0,
+    "params": {
+      "lujo": 0,
+      "amueblado": 0,
+      "nuevo": 0,
+      "amenidades": [],
+      "m2": 35.0,
+      "recamaras": 1.0
+    },
+    "pregunta": "¿Cuánto debería costar de renta un departamento de 1 recámaras en Contry? Superficie: 35 m² m². "
+  },
+  {
+    "id": "test_0077",
+    "precio_xgb": 23579.857421875,
+    "precio_real": 23000.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 1,
+      "nuevo": 0,
+      "amenidades": [],
+      "m2": 44.0,
+      "recamaras": 1.0
+    },
+    "pregunta": "¿Cuánto debería costar de renta un departamento de 1 recámaras en Centro? Superficie: 44 m² m². Amueblado, Lujo. "
+  },
+  {
+    "id": "test_0078",
+    "precio_xgb": 38622.0859375,
+    "precio_real": 40000.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 1,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Monterrey",
+      "m2": 183.0,
+      "banos": 2.0
+    },
+    "pregunta": "Dame un estimado de renta para: departamento en Monterrey, 3 rec, 2 baños, 183 m² m². Amueblado, Lujo. "
+  },
+  {
+    "id": "test_0079",
+    "precio_xgb": 32715.306640625,
+    "precio_real": 9000.0,
+    "params": {
+      "lujo": 0,
+      "amueblado": 0,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Buenos Aires",
+      "m2": 250.0,
+      "banos": 2.0
+    },
+    "pregunta": "Dame un estimado de renta para: departamento en Buenos Aires, 2 rec, 2 baños, 250 m² m². "
+  },
+  {
+    "id": "test_0080",
+    "precio_xgb": 46437.890625,
+    "precio_real": 55000.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 0,
+      "nuevo": 1,
+      "amenidades": [],
+      "colonia": "Lomas de Valle Alto",
+      "m2": 138.0,
+      "recamaras": 3.0
+    },
+    "pregunta": "Busco rentar un departamento en Lomas de Valle Alto, Monterrey. 3 recámaras, 138 m² m², Lujo, Construcción nueva. ¿Cuál es el precio de mercado?"
+  },
+  {
+    "id": "test_0081",
+    "precio_xgb": 32895.73828125,
+    "precio_real": 28500.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 1,
+      "nuevo": 1,
+      "amenidades": [],
+      "colonia": "Centro",
+      "m2": 85.0,
+      "recamaras": 2.0
+    },
+    "pregunta": "Un departamento en Centro con 2 recámaras y 85 m² m². Amueblado, Lujo, Construcción nueva. ¿Cuánto vale la renta?"
+  },
+  {
+    "id": "test_0082",
+    "precio_xgb": 22944.591796875,
+    "precio_real": 14500.0,
+    "params": {
+      "lujo": 0,
+      "amueblado": 1,
+      "nuevo": 0,
+      "amenidades": [],
+      "m2": 1.0,
+      "recamaras": 2.0
+    },
+    "pregunta": "¿Cuánto debería costar de renta un departamento de 2 recámaras en Mitras Norte? Superficie: 1 m² m². Amueblado. "
+  },
+  {
+    "id": "test_0083",
+    "precio_xgb": 36920.66796875,
+    "precio_real": 40000.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 0,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Del Paseo Residencial",
+      "m2": 90.0,
+      "recamaras": 2.0
+    },
+    "pregunta": "Busco rentar un departamento en Del Paseo Residencial, Monterrey. 2 recámaras, 90 m² m², Lujo. ¿Cuál es el precio de mercado?"
+  },
+  {
+    "id": "test_0084",
+    "precio_xgb": 44788.3359375,
+    "precio_real": 55000.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 0,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Centro",
+      "m2": 1000.0,
+      "recamaras": 3.0,
+      "banos": 3.0
+    },
+    "pregunta": "Tengo un departamento en Centro, Monterrey. Tiene 3 recámaras, 3 baños y 1000 m² m². Lujo. ¿Cuánto cuesta de renta mensual?"
+  },
+  {
+    "id": "test_0085",
+    "precio_xgb": 22803.861328125,
+    "precio_real": 23000.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 1,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Centrika",
+      "m2": 96.0,
+      "recamaras": 2.0
+    },
+    "pregunta": "¿Cuánto debería costar de renta un departamento de 2 recámaras en Centrika 1 Sector? Superficie: 96 m² m². Amueblado, Lujo. "
+  },
+  {
+    "id": "test_0086",
+    "precio_xgb": 18400.115234375,
+    "precio_real": 8000.0,
+    "params": {
+      "lujo": 0,
+      "amueblado": 1,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Mitras Centro",
+      "m2": 18.0
+    },
+    "pregunta": "Tengo un departamento en Mitras Centro, Monterrey. Tiene no especificado recámaras, no especificado baños y 18 m² m². Amueblado. ¿Cuánto cuesta de renta mensual?"
+  },
+  {
+    "id": "test_0087",
+    "precio_xgb": 25485.2421875,
+    "precio_real": 21500.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 1,
+      "nuevo": 1,
+      "amenidades": [],
+      "colonia": "Centro",
+      "m2": 47.0,
+      "recamaras": 2.0
+    },
+    "pregunta": "Busco rentar un departamento en Centro, Monterrey. 2 recámaras, 47 m² m², Amueblado, Lujo, Construcción nueva. ¿Cuál es el precio de mercado?"
+  },
+  {
+    "id": "test_0088",
+    "precio_xgb": 25442.427734375,
+    "precio_real": 25000.0,
+    "params": {
+      "lujo": 0,
+      "amueblado": 1,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Centro",
+      "m2": 80.0,
+      "banos": 2.0
+    },
+    "pregunta": "Dame un estimado de renta para: departamento en Centro, 2 rec, 2 baños, 80 m² m². Amueblado. "
+  },
+  {
+    "id": "test_0089",
+    "precio_xgb": 36078.3828125,
+    "precio_real": 29000.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 1,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "San Jerónimo",
+      "m2": 100.0,
+      "recamaras": 2.0
+    },
+    "pregunta": "Busco rentar un departamento en San Jerónimo, Monterrey. 2 recámaras, 100 m² m², Amueblado, Lujo. ¿Cuál es el precio de mercado?"
+  },
+  {
+    "id": "test_0090",
+    "precio_xgb": 18961.666015625,
+    "precio_real": 9600.0,
+    "params": {
+      "lujo": 0,
+      "amueblado": 1,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Centro",
+      "m2": 40.0,
+      "recamaras": 1.0,
+      "banos": 1.0
+    },
+    "pregunta": "Tengo un departamento en Centro, Monterrey. Tiene 1 recámaras, 1 baños y 40 m² m². Amueblado. ¿Cuánto cuesta de renta mensual?"
+  },
+  {
+    "id": "test_0091",
+    "precio_xgb": 33356.984375,
+    "precio_real": 33000.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 1,
+      "nuevo": 1,
+      "amenidades": [],
+      "m2": 85.0
+    },
+    "pregunta": "¿Cuánto debería costar de renta un departamento de no especificado recámaras en Centro? Superficie: 85 m² m². Amueblado, Lujo, Construcción nueva. "
+  },
+  {
+    "id": "test_0092",
+    "precio_xgb": 19673.830078125,
+    "precio_real": 11800.0,
+    "params": {
+      "lujo": 0,
+      "amueblado": 1,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Tecnológico",
+      "m2": 45.0,
+      "recamaras": 1.0
+    },
+    "pregunta": "Un departamento en Tecnológico con 1 recámaras y 45 m² m². Amueblado. ¿Cuánto vale la renta?"
+  },
+  {
+    "id": "test_0093",
+    "precio_xgb": 26745.26171875,
+    "precio_real": 24100.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 1,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Obispado",
+      "m2": 55.0,
+      "recamaras": 1.0
+    },
+    "pregunta": "Busco rentar un departamento en Obispado, Monterrey. 1 recámaras, 55 m² m², Amueblado, Lujo. ¿Cuál es el precio de mercado?"
+  },
+  {
+    "id": "test_0094",
+    "precio_xgb": 32038.365234375,
+    "precio_real": 26000.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 0,
+      "nuevo": 0,
+      "amenidades": [],
+      "m2": 90.0,
+      "recamaras": 2.0
+    },
+    "pregunta": "¿Cuánto debería costar de renta un departamento de 2 recámaras en Obispado? Superficie: 90 m² m². Lujo. "
+  },
+  {
+    "id": "test_0095",
+    "precio_xgb": 25421.6640625,
+    "precio_real": 16000.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 1,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Tecnológico",
+      "m2": 60.0,
+      "banos": 1.0
+    },
+    "pregunta": "Dame un estimado de renta para: departamento en Tecnológico, 1 rec, 1 baños, 60 m² m². Amueblado, Lujo. "
+  },
+  {
+    "id": "test_0096",
+    "precio_xgb": 35860.89453125,
+    "precio_real": 33500.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 0,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Obispado",
+      "m2": 110.0,
+      "banos": 2.0
+    },
+    "pregunta": "Dame un estimado de renta para: departamento en Obispado, 2 rec, 2 baños, 110 m² m². Lujo. "
+  },
+  {
+    "id": "test_0097",
+    "precio_xgb": 34169.41796875,
+    "precio_real": 11500.0,
+    "params": {
+      "lujo": 0,
+      "amueblado": 0,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Del Paseo Residencial",
+      "m2": 100.0,
+      "banos": 1.0
+    },
+    "pregunta": "Dame un estimado de renta para: departamento en Del Paseo Residencial, 2 rec, 1 baños, 100 m² m². "
+  },
+  {
+    "id": "test_0098",
+    "precio_xgb": 30541.392578125,
+    "precio_real": 34000.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 1,
+      "nuevo": 0,
+      "amenidades": [],
+      "m2": 80.0,
+      "recamaras": 2.0
+    },
+    "pregunta": "¿Cuánto debería costar de renta un departamento de 2 recámaras en Obrera? Superficie: 80 m² m². Amueblado, Lujo. "
+  },
+  {
+    "id": "test_0099",
+    "precio_xgb": 18926.19921875,
+    "precio_real": 14000.0,
+    "params": {
+      "lujo": 0,
+      "amueblado": 0,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Residencial Mederos",
+      "m2": 65.0
+    },
+    "pregunta": "Busco rentar un departamento en Residencial Mederos, Monterrey. no especificado recámaras, 65 m² m², ¿Cuál es el precio de mercado?"
+  },
+  {
+    "id": "test_0100",
+    "precio_xgb": 25851.115234375,
+    "precio_real": 21000.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 1,
+      "nuevo": 0,
+      "amenidades": [],
+      "m2": 55.0,
+      "recamaras": 1.0
+    },
+    "pregunta": "¿Cuánto debería costar de renta un departamento de 1 recámaras en Centro? Superficie: 55 m² m². Amueblado, Lujo. "
+  },
+  {
+    "id": "test_0101",
+    "precio_xgb": 29904.068359375,
+    "precio_real": 30000.0,
+    "params": {
+      "lujo": 0,
+      "amueblado": 1,
+      "nuevo": 0,
+      "amenidades": [],
+      "m2": 160.0,
+      "recamaras": 3.0
+    },
+    "pregunta": "¿Cuánto debería costar de renta un departamento de 3 recámaras en Obispado? Superficie: 160 m² m². Amueblado. "
+  },
+  {
+    "id": "test_0102",
+    "precio_xgb": 42896.66015625,
+    "precio_real": 50000.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 1,
+      "nuevo": 1,
+      "amenidades": [],
+      "colonia": "Tecnológico",
+      "m2": 250.0,
+      "recamaras": 4.0
+    },
+    "pregunta": "Un departamento en Tecnológico con 4 recámaras y 250 m² m². Amueblado, Lujo, Construcción nueva. ¿Cuánto vale la renta?"
+  },
+  {
+    "id": "test_0103",
+    "precio_xgb": 26851.787109375,
+    "precio_real": 20000.0,
+    "params": {
+      "lujo": 0,
+      "amueblado": 1,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Rincón de La Primavera",
+      "m2": 90.0,
+      "recamaras": 3.0
+    },
+    "pregunta": "Un departamento en Rincón de La Primavera 2 Sector con 3 recámaras y 90 m² m². Amueblado. ¿Cuánto vale la renta?"
+  },
+  {
+    "id": "test_0104",
+    "precio_xgb": 27808.93359375,
+    "precio_real": 23900.0,
+    "params": {
+      "lujo": 0,
+      "amueblado": 1,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Ladrillera",
+      "m2": 65.0,
+      "recamaras": 1.0
+    },
+    "pregunta": "Busco rentar un departamento en Ladrillera, Monterrey. 1 recámaras, 65 m² m², Amueblado. ¿Cuál es el precio de mercado?"
+  },
+  {
+    "id": "test_0105",
+    "precio_xgb": 21224.009765625,
+    "precio_real": 18000.0,
+    "params": {
+      "lujo": 0,
+      "amueblado": 1,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Hacienda Los Encinos",
+      "m2": 70.0,
+      "recamaras": 1.0
+    },
+    "pregunta": "Un departamento en Hacienda Los Encinos con 1 recámaras y 70 m² m². Amueblado. ¿Cuánto vale la renta?"
+  },
+  {
+    "id": "test_0106",
+    "precio_xgb": 43715.67578125,
+    "precio_real": 55000.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 0,
+      "nuevo": 1,
+      "amenidades": [],
+      "colonia": "Lomas de Valle Alto",
+      "m2": 138.0,
+      "banos": 3.0
+    },
+    "pregunta": "Dame un estimado de renta para: departamento en Lomas de Valle Alto, 3 rec, 3 baños, 138 m² m². Lujo, Construcción nueva. "
+  },
+  {
+    "id": "test_0107",
+    "precio_xgb": 24075.927734375,
+    "precio_real": 19000.0,
+    "params": {
+      "lujo": 1,
+      "amueblado": 1,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Obispado",
+      "m2": 45.0,
+      "recamaras": 1.0
+    },
+    "pregunta": "Un departamento en Obispado con 1 recámaras y 45 m² m². Amueblado, Lujo. ¿Cuánto vale la renta?"
+  },
+  {
+    "id": "test_0108",
+    "precio_xgb": 22991.404296875,
+    "precio_real": 22000.0,
+    "params": {
+      "lujo": 0,
+      "amueblado": 0,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Centro",
+      "m2": 54.0,
+      "banos": 1.0
+    },
+    "pregunta": "Dame un estimado de renta para: departamento en Centro, 1 rec, 1 baños, 54 m² m². "
+  },
+  {
+    "id": "test_0109",
+    "precio_xgb": 18257.23046875,
+    "precio_real": 14500.0,
+    "params": {
+      "lujo": 0,
+      "amueblado": 1,
+      "nuevo": 0,
+      "amenidades": [],
+      "colonia": "Colonial La Silla"
+    },
+    "pregunta": "Busco rentar un departamento en Colonial La Silla, Monterrey. no especificado recámaras, superficie no especificada m², Amueblado. ¿Cuál es el precio de mercado?"
+  }
+]

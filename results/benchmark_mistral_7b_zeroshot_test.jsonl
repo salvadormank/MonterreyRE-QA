@@ -1,0 +1,109 @@
+{"id": "test_0001", "precio_real": 8000.0, "precio_predicho": 15000.0, "respuesta_raw": "15000 - 18000 (Este rango es apro", "error_pct": 87.5, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0002", "precio_real": 24000.0, "precio_predicho": 15000.0, "respuesta_raw": "15000", "error_pct": 37.5, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0003", "precio_real": 8500.0, "precio_predicho": 15000.0, "respuesta_raw": "15000 - 20000 (esto es un rango de", "error_pct": 76.47058823529412, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0004", "precio_real": 25000.0, "precio_predicho": 15000.0, "respuesta_raw": "15000", "error_pct": 40.0, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0005", "precio_real": 19500.0, "precio_predicho": 150000.0, "respuesta_raw": "150000", "error_pct": 669.2307692307693, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0006", "precio_real": 18000.0, "precio_predicho": 15000.0, "respuesta_raw": "15000", "error_pct": 16.666666666666664, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0007", "precio_real": 16000.0, "precio_predicho": 18000.0, "respuesta_raw": "18000", "error_pct": 12.5, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0008", "precio_real": 14000.0, "precio_predicho": 15000.0, "respuesta_raw": "15000", "error_pct": 7.142857142857142, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0009", "precio_real": 23500.0, "precio_predicho": 18000.0, "respuesta_raw": "18000", "error_pct": 23.404255319148938, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0010", "precio_real": 30000.0, "precio_predicho": 25000.0, "respuesta_raw": "25000", "error_pct": 16.666666666666664, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0011", "precio_real": 26000.0, "precio_predicho": 30000.0, "respuesta_raw": "30000", "error_pct": 15.384615384615385, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0012", "precio_real": 26900.0, "precio_predicho": 25000.0, "respuesta_raw": "25000", "error_pct": 7.063197026022305, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0013", "precio_real": 16500.0, "precio_predicho": 30000.0, "respuesta_raw": "30000", "error_pct": 81.81818181818183, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0014", "precio_real": 14000.0, "precio_predicho": 15000.0, "respuesta_raw": "15000", "error_pct": 7.142857142857142, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0015", "precio_real": 40000.0, "precio_predicho": 18000.0, "respuesta_raw": "18000", "error_pct": 55.00000000000001, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0016", "precio_real": 29000.0, "precio_predicho": null, "respuesta_raw": "180000", "error_pct": 100.0, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0017", "precio_real": 19000.0, "precio_predicho": 15000.0, "respuesta_raw": "15000", "error_pct": 21.052631578947366, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0018", "precio_real": 10000.0, "precio_predicho": 150000.0, "respuesta_raw": "150000", "error_pct": 1400.0, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0019", "precio_real": 40000.0, "precio_predicho": 15000.0, "respuesta_raw": "15000", "error_pct": 62.5, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0020", "precio_real": 24000.0, "precio_predicho": 30000.0, "respuesta_raw": "30000", "error_pct": 25.0, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0021", "precio_real": 36000.0, "precio_predicho": 30000.0, "respuesta_raw": "30000", "error_pct": 16.666666666666664, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0022", "precio_real": 24000.0, "precio_predicho": null, "respuesta_raw": "180000", "error_pct": 100.0, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0023", "precio_real": 29000.0, "precio_predicho": null, "respuesta_raw": "180000", "error_pct": 100.0, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0024", "precio_real": 50000.0, "precio_predicho": null, "respuesta_raw": "180000", "error_pct": 100.0, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0025", "precio_real": 20000.0, "precio_predicho": 150000.0, "respuesta_raw": "150000", "error_pct": 650.0, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0026", "precio_real": 32000.0, "precio_predicho": 30000.0, "respuesta_raw": "30000", "error_pct": 6.25, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0027", "precio_real": 26000.0, "precio_predicho": 150000.0, "respuesta_raw": "150000 - 250000 (dependiendo de la", "error_pct": 476.9230769230769, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0028", "precio_real": 35000.0, "precio_predicho": 35000.0, "respuesta_raw": "35000", "error_pct": 0.0, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0029", "precio_real": 21600.0, "precio_predicho": null, "respuesta_raw": "180000", "error_pct": 100.0, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0030", "precio_real": 18500.0, "precio_predicho": null, "respuesta_raw": "180000", "error_pct": 100.0, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0031", "precio_real": 30000.0, "precio_predicho": 15000.0, "respuesta_raw": "15000 - 20000 (Este rango es apro", "error_pct": 50.0, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0032", "precio_real": 21000.0, "precio_predicho": 15000.0, "respuesta_raw": "15000 - 20000 (dependiendo de la calidad", "error_pct": 28.57142857142857, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0033", "precio_real": 29000.0, "precio_predicho": null, "respuesta_raw": "180000", "error_pct": 100.0, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0034", "precio_real": 40000.0, "precio_predicho": null, "respuesta_raw": "180000", "error_pct": 100.0, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0035", "precio_real": 22000.0, "precio_predicho": 150000.0, "respuesta_raw": "150000", "error_pct": 581.8181818181819, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0036", "precio_real": 8500.0, "precio_predicho": 15000.0, "respuesta_raw": "15000", "error_pct": 76.47058823529412, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0037", "precio_real": 27000.0, "precio_predicho": 25000.0, "respuesta_raw": "25000", "error_pct": 7.4074074074074066, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0038", "precio_real": 15000.0, "precio_predicho": 150000.0, "respuesta_raw": "150000", "error_pct": 900.0, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0039", "precio_real": 42500.0, "precio_predicho": 30000.0, "respuesta_raw": "30000", "error_pct": 29.411764705882355, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0040", "precio_real": 11500.0, "precio_predicho": 15000.0, "respuesta_raw": "15000 - 25000 (rango de precios", "error_pct": 30.434782608695656, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0041", "precio_real": 30000.0, "precio_predicho": 30000.0, "respuesta_raw": "30000", "error_pct": 0.0, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0042", "precio_real": 17000.0, "precio_predicho": 15000.0, "respuesta_raw": "15000", "error_pct": 11.76470588235294, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0043", "precio_real": 20000.0, "precio_predicho": 150000.0, "respuesta_raw": "150000", "error_pct": 650.0, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0044", "precio_real": 15000.0, "precio_predicho": 15000.0, "respuesta_raw": "15000", "error_pct": 0.0, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0045", "precio_real": 13000.0, "precio_predicho": 15000.0, "respuesta_raw": "15000", "error_pct": 15.384615384615385, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0046", "precio_real": 17500.0, "precio_predicho": null, "respuesta_raw": "180000", "error_pct": 100.0, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0047", "precio_real": 19000.0, "precio_predicho": 25000.0, "respuesta_raw": "25000", "error_pct": 31.57894736842105, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0048", "precio_real": 19000.0, "precio_predicho": 15000.0, "respuesta_raw": "15000", "error_pct": 21.052631578947366, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0049", "precio_real": 26000.0, "precio_predicho": 15000.0, "respuesta_raw": "15000", "error_pct": 42.30769230769231, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0050", "precio_real": 13500.0, "precio_predicho": 15000.0, "respuesta_raw": "15000", "error_pct": 11.11111111111111, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0051", "precio_real": 12200.0, "precio_predicho": 150000.0, "respuesta_raw": "150000", "error_pct": 1129.5081967213114, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0052", "precio_real": 35000.0, "precio_predicho": 25000.0, "respuesta_raw": "25000", "error_pct": 28.57142857142857, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0053", "precio_real": 32500.0, "precio_predicho": 35000.0, "respuesta_raw": "35000 - 45000 (en MXN/mes", "error_pct": 7.6923076923076925, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0054", "precio_real": 34000.0, "precio_predicho": null, "respuesta_raw": "180000", "error_pct": 100.0, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0055", "precio_real": 28500.0, "precio_predicho": null, "respuesta_raw": "180000", "error_pct": 100.0, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0056", "precio_real": 19000.0, "precio_predicho": 25000.0, "respuesta_raw": "25000", "error_pct": 31.57894736842105, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0057", "precio_real": 15000.0, "precio_predicho": 25000.0, "respuesta_raw": "25000", "error_pct": 66.66666666666666, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0058", "precio_real": 22000.0, "precio_predicho": 18000.0, "respuesta_raw": "18000", "error_pct": 18.181818181818183, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0059", "precio_real": 24500.0, "precio_predicho": 150000.0, "respuesta_raw": "150000", "error_pct": 512.2448979591836, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0060", "precio_real": 16500.0, "precio_predicho": 30000.0, "respuesta_raw": "30000", "error_pct": 81.81818181818183, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0061", "precio_real": 45000.0, "precio_predicho": 35000.0, "respuesta_raw": "35000", "error_pct": 22.22222222222222, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0062", "precio_real": 29500.0, "precio_predicho": 35000.0, "respuesta_raw": "35000", "error_pct": 18.64406779661017, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0063", "precio_real": 30000.0, "precio_predicho": null, "respuesta_raw": "180000", "error_pct": 100.0, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0064", "precio_real": 26000.0, "precio_predicho": 35000.0, "respuesta_raw": "35000 - 40000 (en MXN/mes", "error_pct": 34.61538461538461, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0065", "precio_real": 31000.0, "precio_predicho": 18000.0, "respuesta_raw": "18000", "error_pct": 41.935483870967744, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0066", "precio_real": 25000.0, "precio_predicho": 150000.0, "respuesta_raw": "150000", "error_pct": 500.0, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0067", "precio_real": 45000.0, "precio_predicho": 35000.0, "respuesta_raw": "35000", "error_pct": 22.22222222222222, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0068", "precio_real": 21000.0, "precio_predicho": 150000.0, "respuesta_raw": "150000", "error_pct": 614.2857142857143, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0069", "precio_real": 12500.0, "precio_predicho": 15000.0, "respuesta_raw": "15000 - 20000 (dependiendo de la calidad", "error_pct": 20.0, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0070", "precio_real": 29000.0, "precio_predicho": 18000.0, "respuesta_raw": "18000", "error_pct": 37.93103448275862, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0071", "precio_real": 24780.0, "precio_predicho": 15000.0, "respuesta_raw": "15000 - 20000 (Este rango es apro", "error_pct": 39.46731234866828, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0072", "precio_real": 25000.0, "precio_predicho": 15000.0, "respuesta_raw": "15000", "error_pct": 40.0, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0073", "precio_real": 27000.0, "precio_predicho": 25000.0, "respuesta_raw": "25000", "error_pct": 7.4074074074074066, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0074", "precio_real": 30000.0, "precio_predicho": 15000.0, "respuesta_raw": "15000", "error_pct": 50.0, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0075", "precio_real": 20000.0, "precio_predicho": 15000.0, "respuesta_raw": "15000", "error_pct": 25.0, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0076", "precio_real": 6500.0, "precio_predicho": 6500.0, "respuesta_raw": "6500", "error_pct": 0.0, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0077", "precio_real": 23000.0, "precio_predicho": 15000.0, "respuesta_raw": "15000", "error_pct": 34.78260869565217, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0078", "precio_real": 40000.0, "precio_predicho": 35000.0, "respuesta_raw": "35000", "error_pct": 12.5, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0079", "precio_real": 9000.0, "precio_predicho": null, "respuesta_raw": "180000", "error_pct": 100.0, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0080", "precio_real": 55000.0, "precio_predicho": 40000.0, "respuesta_raw": "40000", "error_pct": 27.27272727272727, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0081", "precio_real": 28500.0, "precio_predicho": 35000.0, "respuesta_raw": "35000", "error_pct": 22.807017543859647, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0082", "precio_real": 14500.0, "precio_predicho": 15000.0, "respuesta_raw": "15000", "error_pct": 3.4482758620689653, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0083", "precio_real": 40000.0, "precio_predicho": null, "respuesta_raw": "180000", "error_pct": 100.0, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0084", "precio_real": 55000.0, "precio_predicho": 80000.0, "respuesta_raw": "80000", "error_pct": 45.45454545454545, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0085", "precio_real": 23000.0, "precio_predicho": 35000.0, "respuesta_raw": "35000", "error_pct": 52.17391304347826, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0086", "precio_real": 8000.0, "precio_predicho": 15000.0, "respuesta_raw": "15000", "error_pct": 87.5, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0087", "precio_real": 21500.0, "precio_predicho": 35000.0, "respuesta_raw": "35000", "error_pct": 62.7906976744186, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0088", "precio_real": 25000.0, "precio_predicho": 15000.0, "respuesta_raw": "15000", "error_pct": 40.0, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0089", "precio_real": 29000.0, "precio_predicho": 150000.0, "respuesta_raw": "150000", "error_pct": 417.2413793103448, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0090", "precio_real": 9600.0, "precio_predicho": 15000.0, "respuesta_raw": "15000", "error_pct": 56.25, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0091", "precio_real": 33000.0, "precio_predicho": 25000.0, "respuesta_raw": "25000", "error_pct": 24.242424242424242, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0092", "precio_real": 11800.0, "precio_predicho": 15000.0, "respuesta_raw": "15000", "error_pct": 27.11864406779661, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0093", "precio_real": 24100.0, "precio_predicho": 15000.0, "respuesta_raw": "15000 - 20000 (en MXN/mes", "error_pct": 37.75933609958506, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0094", "precio_real": 26000.0, "precio_predicho": null, "respuesta_raw": "180000", "error_pct": 100.0, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0095", "precio_real": 16000.0, "precio_predicho": null, "respuesta_raw": "180000", "error_pct": 100.0, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0096", "precio_real": 33500.0, "precio_predicho": 35000.0, "respuesta_raw": "35000", "error_pct": 4.477611940298507, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0097", "precio_real": 11500.0, "precio_predicho": 15000.0, "respuesta_raw": "15000", "error_pct": 30.434782608695656, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0098", "precio_real": 34000.0, "precio_predicho": null, "respuesta_raw": "180000", "error_pct": 100.0, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0099", "precio_real": 14000.0, "precio_predicho": 15000.0, "respuesta_raw": "15000 - 20000 (Este rango es apro", "error_pct": 7.142857142857142, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0100", "precio_real": 21000.0, "precio_predicho": 150000.0, "respuesta_raw": "150000", "error_pct": 614.2857142857143, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0101", "precio_real": 30000.0, "precio_predicho": null, "respuesta_raw": "180000", "error_pct": 100.0, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0102", "precio_real": 50000.0, "precio_predicho": 50000.0, "respuesta_raw": "50000", "error_pct": 0.0, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0103", "precio_real": 20000.0, "precio_predicho": 18000.0, "respuesta_raw": "18000", "error_pct": 10.0, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0104", "precio_real": 23900.0, "precio_predicho": 15000.0, "respuesta_raw": "15000 - 20000 (Este rango es apro", "error_pct": 37.238493723849366, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0105", "precio_real": 18000.0, "precio_predicho": 15000.0, "respuesta_raw": "15000", "error_pct": 16.666666666666664, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0106", "precio_real": 55000.0, "precio_predicho": 35000.0, "respuesta_raw": "35000", "error_pct": 36.36363636363637, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0107", "precio_real": 19000.0, "precio_predicho": 15000.0, "respuesta_raw": "15000", "error_pct": 21.052631578947366, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0108", "precio_real": 22000.0, "precio_predicho": 15000.0, "respuesta_raw": "15000", "error_pct": 31.818181818181817, "modelo": "mistral_7b", "config": "zeroshot"}
+{"id": "test_0109", "precio_real": 14500.0, "precio_predicho": 15000.0, "respuesta_raw": "15000 - 20000 (en MXN/mes", "error_pct": 3.4482758620689653, "modelo": "mistral_7b", "config": "zeroshot"}

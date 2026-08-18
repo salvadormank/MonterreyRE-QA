@@ -1,0 +1,36 @@
+{
+  "finetuned": {
+    "label": "Qwen fine-tuneado",
+    "n_total": 109,
+    "n_con_precio_real": 109,
+    "mae_pct": 42.53,
+    "mae_mxn": 7980.92,
+    "pct_within_15pct": 31.2,
+    "pct_within_20pct": 43.1,
+    "hallucination_rate_pct": 0.0,
+    "by_split": {
+      "test": {
+        "n": 109,
+        "mae_pct": 42.53,
+        "pct_within_15": 31.2
+      }
+    }
+  },
+  "base": {
+    "label": "Qwen base (sin fine-tuning)",
+    "n_total": 109,
+    "n_con_precio_real": 86,
+    "mae_pct": 42.84,
+    "mae_mxn": 11306.98,
+    "pct_within_15pct": 26.7,
+    "pct_within_20pct": 32.6,
+    "hallucination_rate_pct": 26.7,
+    "by_split": {
+      "test": {
+        "n": 86,
+        "mae_pct": 42.84,
+        "pct_within_15": 26.7
+      }
+    }
+  }
+}
